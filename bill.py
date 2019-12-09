@@ -19,7 +19,7 @@ def normal_round(n):
         return math.floor(n)
     return math.ceil(n)
 
-fname = "data_62_12_7"
+fname = "data_62_12_8"
 f = open(fname+".txt", "r")
 data = []
 for line in f.readlines():
@@ -49,27 +49,35 @@ for v in information:
   _b_err = False
   _b_cash = False
   _sum_cash = 0.0
-  for _info in v.info:
-    if _info.find('*') != -1:
+  print(v.info)
+  for k in range(len(v.info)):
+    if v.info[k].find('*') != -1:
       i=0
-      while i < len(_info):
-        if _info[i].isnumeric():
+      while i < len(v.info[k]):
+        if v.info[k][i].isnumeric():
           break
         i=i+1
       if i != 0:
-        new_info = split(["*","="], _info[i:])
+        new_info = split(["*","="], v.info[k][i:])
         new_info = [float(i) for i in new_info]
-        tmp_cash = new_info[0]*new_info[1]
+        mul = new_info[0]*new_info[1]
         #print("new=%s : old=%s : %s" %(new_info, _info, normal_round(new_info[0]*new_info[1])))
         if new_info[1] > 4:
           _b_cash = True
-          tmp_cash = normal_round(tmp_cash)
-          _sum_cash = _sum_cash+tmp_cash
-          #print("%s | %s" % (tmp_cash, _sum_cash))
-        if tmp_cash != new_info[2]:
+          mul = normal_round(mul)
+          _sum_cash = _sum_cash+mul
+          #print("%s | %s" % (mul, _sum_cash))
+        if (len(new_info) is 3) and (mul != new_info[2]):
           print("new=%s : old=%s : %s" %(new_info, _info, normal_round(new_info[0]*new_info[1])))
           _b_err = True
           break
+        elif len(new_info) is 2:
+          print('In')
+          print(v.info[k])
+          v.info[k] = v.info[k]+str('=')+str(mul)
+          print(v.info[k])
+          print('--In--')
+  print(v.info)
           
   if _b_err:
     print("ERROR : %s" % v.__dict__)
@@ -127,4 +135,5 @@ for j in range(len(information)):
 
 
 document.save('demo_'+fname+'.docx')
+
 
