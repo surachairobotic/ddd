@@ -273,14 +273,14 @@ if __name__ == '__main__':
   
   document.save('debug.docx')
 
-  f_database = open(fpath+"database.txt", "r")
-  for t in f_database.readlines():
-    f_tmp.write(t)
+#  f_database = open(fpath+"database_new.txt", "r")
+#  for t in f_database.readlines():
+#    f_tmp.write(t)
 
-  os.rename(fpath+"database.tmp", fpath+"database.txt")
+#  os.rename(fpath+"database.tmp", fpath+"database_new.txt")
 
   f_tmp.close()
-  f_database.close()
+#  f_database.close()
 
 ##############################
 ##############################
