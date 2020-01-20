@@ -1,3 +1,61 @@
+DATE : 18/1/63
+10,	L232		,total:42.5
+11,	L298		,total:30
+12,	L314		,total:40
+13,	L144		,total:12
+14,	L091		,total:14.5
+15,	L317		,total:52
+16,	L134		,total:-10
+17,	L162		,total:-12
+18,	L293		,total:20
+19,	L179		,total:-6
+20,	L340		,total:91
+21,	L294		,total:24	,cash:15
+22,	L255		,total:31
+23,	L287		,cash:109
+SPECIAL : 18/1/63, L346  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 18/1/63, L317  ต่อสมาชิก 50 ชิ้น, total:54
+SPECIAL : 18/1/63, L340  ต่อสมาชิก 105 ชิ้น, total:103
+SPECIAL : 18/1/63, L255  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 18
+0000,	L346		,total:0
+DATE : 16/1/63 MISSED
+9,	L319		,total:14
+DATE : 17/1/63
+1876,	L310		,total:54
+1877,	L238		,total:26
+1878,	L298		,total:31
+1879,	L257		,total:3	,cash:50
+1880,	L234		,total:93
+1881,	L314		,total:41
+1882,	L329		,total:-3.5
+1883,	L225		,total:26	,cash:210
+1884,	L295		,total:15	,cash:35
+1885,	L044		,total:0
+1886,	L237		,total:24
+1887,	L251		,total:11
+SPECIAL : 17/1/63, L342  ต่อสมาชิก 105 ชิ้น, total:69
+SPECIAL : 17/1/63, L225  ต่อสมาชิก 30 ชิ้น, total:31
+INITIAL 17
+0000,	L234		,total:102
+0000,	L314		,total:44
+DATE : 16/1/63
+1865,	L276		,total:52.5	,cash:20
+1866,	L337		,total:30	,cash:45
+1867,	L279		,total:34
+1868,	L287		,total:61
+1869,	L297		,total:12
+1870,	L294		,total:27	,cash:50
+1871,	แพรวาซักแห้ง		,cash:150
+1872,	สุชาติซักแห้ง		,cash:300
+1873,	L312		,total:45
+1874,	L333		,total:10
+1875,	L302		,total:0
+SPECIAL : 16/1/63, L297  ต่อสมาชิก 50 ชิ้น, total:32
+INITIAL 16
+0000,	L276		,total:68.5
+0000,	L333		,total:17
+0000,	L302		,total:3
 DATE : 14/1/63
 1850,	L074		,total:21	,cash:50
 1851,	L091		,total:25.5
@@ -15,7 +73,7 @@ DATE : 14/1/63
 1863,	L301		,total:6.5
 1864,	L304		,total:37	,cash:130
 SPECIAL : 14/1/63, L167  ต่อสมาชิก 105 ชิ้น, total:110
-INITIAL
+INITIAL 14
 0000,	L301		,total:24
 DATE : 13/1/63
 1841,	L243		,total:24
@@ -24,28 +82,29 @@ DATE : 13/1/63
 1844,	ดัง		,cash:255
 1845,	ฟ้า		,cash:150
 1846,	L206		,total:14	,cash:55
-1847,	L271		,total:-21
+1847,	L271		,total:29
 1848,	L334		,total:37
-1849,	L335		,total:-0.5
+1849,	L335		,total:1.5
 SPECIAL : 13/1/63, L224  ต่อสมาชิก 50 ชิ้น, total:41.5
-INITIAL
+INITIAL 13
 0000,	L335		,total:10.5
 DATE : 12/1/63
-1832,	L271		,total:-18	,cash:70
+1832,	L271		,total:32	,cash:70
 1833,	L343		,total:17
 1834,	L345		,total:39
 1835,	L198		,total:21
-1836,	L162		,total:4
+1836,	L162		,total:-3
 1837,	L288		,total:-11
 1838,	L205		,total:-9	,cash:25
 1839,	L305		,total:20
 1840,	โบว์		,cash:135
 SPECIAL : 12/1/63, L303  ต่อสมาชิก 105 ชิ้น, total:105
 SPECIAL : 12/1/63, L146  ต่อสมาชิก 50 ชิ้น, total:44.5
-INITIAL
+INITIAL 12
 0000,	L305		,total:22
 0000,	L205		,total:11
 0000,	L146		,total:-5.5
+0000,	L162		,total:5
 DATE : 11/1/63
 1825,	L224		,total:-8.5
 1826,	L179		,total:-1.5	,cash:109
@@ -320,6 +379,7 @@ DATE : 6/12/62
 1626,	L035		,total:68	,cash:86
 1627,	L331		,total:20.5
 1628,	L179		,total:11
+SPECIAL : 25/11/62, L271  ต่อสมาชิก 50 ชิ้น, total:37
 DATE : 5/12/62
 1591,	L271		,total:-13
 1592,	L311		,total:-7

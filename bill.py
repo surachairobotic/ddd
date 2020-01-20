@@ -9,7 +9,8 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_01_14"
+fname = "data_63_01_18"
+#fname = "missed_63_01_18"
 date = ""
 
 def main():
@@ -121,9 +122,10 @@ def main():
     p.add_run(str(seq))
     f_tmp2.write(str(seq)+",\t")
     p = document.add_paragraph('', style)
-    if information[j].id[0].isnumeric():
-      p.add_run('เลขสมาชิก : L')
-      f_tmp2.write("L")
+    _id = information[j].id[1:]
+    if _id.isnumeric():
+      p.add_run('เลขสมาชิก : ')
+      #f_tmp2.write("L")
     p.add_run(str(information[j].id))
     print("%d : %s" % (len(information[j].id), count_space(information[j].id)))
     f_tmp2.write(str(information[j].id)+"\t")
@@ -231,7 +233,7 @@ def total_expand(_date):
 def get_seq():
   f = open(str(fpath+"database.txt"), "r")
   _max = 0
-  for i in range(20):
+  for i in range(50):
     txt = f.readline()
     if len(txt) == 0:
       continue
@@ -242,6 +244,8 @@ def get_seq():
     txt = txt[:len(txt)-1]
     if txt.isnumeric():
       if _max < int(txt):
+        if int(txt) > 1000:
+          break
         _max = int(txt)
   f.close()
   return _max
@@ -269,6 +273,8 @@ def read_info():
     tmp = data[i].split()
     v = Person()
     v.id = tmp[0]
+    if v.id.isnumeric():
+      v.id = str("L" + v.id)
     v.info = tmp[1:len(tmp)]
     #v.info = tmp[1:len(tmp)-1]
     #v.total = tmp[len(tmp)-1:]
