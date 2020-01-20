@@ -9,8 +9,8 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_01_18"
-#fname = "missed_63_01_18"
+fname = "data_63_01_19"
+#fname = "missed_63_01_17"
 date = ""
 
 def main():
@@ -160,7 +160,7 @@ def main():
   docx = 'demo_'+fname+'.docx'
   document.save(docx)
   
-  document.save('debug.docx')
+  #document.save('debug.docx')
 
 #  _database = open(fpath+"database.txt", "r")
   f_tmp1 = open(fpath+"database.tmp1", "r")

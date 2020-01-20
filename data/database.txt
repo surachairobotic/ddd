@@ -1,3 +1,29 @@
+DATE : 19/1/63
+31,	L320		,total:13
+32,	L346		,total:25
+33,	L312		,total:43
+34,	L331		,total:11
+35,	L338		,total:31.5	,cash:100
+36,	L269		,total:53	,cash:100
+37,	L035		,total:-5	,cash:103
+38,	L206		,total:-1	,cash:15
+39,	นุชรับอังคารเย็น		,cash:65
+40,	L226		,total:37
+41,	L336		,total:72
+42,	A190		,cash:141
+43,	L028		,total:3
+INITIAL 19
+0000,	L269		,total:81.5
+DATE : 17/1/63 MISSED
+24,	L305		,total:17
+25,	L232		,total:33.5
+26,	L304		,total:15
+27,	L342		,total:37
+28,	L225		,total:25
+29,	L313		,total:1
+30,	L216		,total:79
+INITIAL 17 MISSED
+0000,	L313		,total:12
 DATE : 18/1/63
 10,	L232		,total:42.5
 11,	L298		,total:30
