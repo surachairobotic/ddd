@@ -1,3 +1,25 @@
+DATE : 21/1/63
+51,	L217		,total:-3.5
+52,	L332		,total:17
+53,	L236		,total:12	,cash:40
+54,	L213		,total:51
+55,	มิ้น(0914279594)		,cash:150
+56,	ติ๊ต่าง		,cash:150
+57,	L269		,total:30	,cash:40
+58,	L347		,total:88
+SPECIAL : 21/1/63, L134  ต่อสมาชิก 50 ชิ้น, total:40
+SPECIAL : 21/1/63, L347  ต่อสมาชิก 105 ชิ้น, total:105
+INITIAL 21
+0000,	L347		,total:0
+DATE : 20/1/63
+44,	L167		,total:96
+45,	L076		,total:35
+46,	L099		,total:19
+47,	L317		,total:51
+48,	L293		,total:16
+49,	L303		,total:97
+50,	L345		,total:28
+SPECIAL : 20/1/63, L288  ต่อสมาชิก 30 ชิ้น, total:19
 DATE : 19/1/63
 31,	L320		,total:13
 32,	L346		,total:25
@@ -34,7 +56,7 @@ DATE : 18/1/63
 16,	L134		,total:-10
 17,	L162		,total:-12
 18,	L293		,total:20
-19,	L179		,total:-6
+19,	L179		,total:39.5
 20,	L340		,total:91
 21,	L294		,total:24	,cash:15
 22,	L255		,total:31
@@ -133,7 +155,7 @@ INITIAL 12
 0000,	L162		,total:5
 DATE : 11/1/63
 1825,	L224		,total:-8.5
-1826,	L179		,total:-1.5	,cash:109
+1826,	L179		,total:44	,cash:109
 1827,	L312		,total:48
 1828,	L091		,total:38
 1829,	L040		,total:20	,cash:75

@@ -9,7 +9,7 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_01_19"
+fname = "data_63_01_21"
 #fname = "missed_63_01_17"
 date = ""
 
@@ -233,7 +233,7 @@ def total_expand(_date):
 def get_seq():
   f = open(str(fpath+"database.txt"), "r")
   _max = 0
-  for i in range(50):
+  for i in range(30):
     txt = f.readline()
     if len(txt) == 0:
       continue
