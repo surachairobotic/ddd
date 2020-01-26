@@ -9,7 +9,7 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_01_21"
+fname = "data_63_01_26"
 #fname = "missed_63_01_17"
 date = ""
 
@@ -97,6 +97,8 @@ def main():
   j=0
   while j<len(information):
     line=0
+    if information[j].id_ex != "":
+      line=line+1
     if information[j].count != 0.0:
       line=line+1
       if not (information[j].total[0] == '='): # default value of total is '='
@@ -124,11 +126,13 @@ def main():
     p = document.add_paragraph('', style)
     _id = information[j].id[1:]
     if _id.isnumeric():
-      p.add_run('เลขสมาชิก : ')
+      p.add_run('สมาชิก : ')
       #f_tmp2.write("L")
     p.add_run(str(information[j].id))
     print("%d : %s" % (len(information[j].id), count_space(information[j].id)))
     f_tmp2.write(str(information[j].id)+"\t")
+    if information[j].id_ex != "":
+      p = document.add_paragraph(str(information[j].id_ex), style)
     p = document.add_paragraph(str('วันที่ : ')+str(date), style)
     p = document.add_paragraph(str('----------'), style)
     
@@ -252,7 +256,7 @@ def get_seq():
 
 def read_info():
   f = open(str(fpath+fname+".txt"), "r")
-  lines =f.readlines()
+  lines = f.readlines()
   f.close()
   data = []
   for line in lines:
@@ -275,7 +279,11 @@ def read_info():
     v.id = tmp[0]
     if v.id.isnumeric():
       v.id = str("L" + v.id)
-    v.info = tmp[1:len(tmp)]
+    start = 1
+    if tmp[1][0] is '(':
+      v.id_ex = tmp[1]
+      start = 2
+    v.info = tmp[start:len(tmp)]
     #v.info = tmp[1:len(tmp)-1]
     #v.total = tmp[len(tmp)-1:]
     information.append(v)
@@ -400,6 +408,7 @@ def count_space(txt):
 class Person:
   def __init__(self):
     self.id = ""
+    self.id_ex = ""
     self.info = []
     self.total = '='
     self.count = 0.0
