@@ -1,3 +1,19 @@
+DATE : 27/1/63
+133,	L297		,total:85
+134,	L283		,total:29	,cash:30
+135,	L251		,total:0
+136,	L342		,total:-41
+137,	L035		,total:65	,cash:25
+138,	L215		,total:17
+139,	L330		,total:41
+140,	L162		,total:-21
+141,	L031		,total:55
+142,	L287		,total:49
+143,	L099		,total:11
+144,	L103		,total:28.5
+SPECIAL : 27/1/63, L297  ต่อสมาชิก 105 ชิ้น, total:100
+SPECIAL : 27/1/63, L031  ต่อสมาชิก 50 ชิ้น, total:59
+SPECIAL : 27/1/63, L091  ต่อสมาชิก 105 ชิ้น, total:96
 INITIAL 27
 0000,	L330		,total:42
 0000,	L031		,total:9
