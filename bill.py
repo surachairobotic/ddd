@@ -5,26 +5,26 @@ from docx import Document
 from docx.shared import Mm, Pt
 from docx.enum.style import WD_STYLE_TYPE
 
-from pydrive.auth import GoogleAuth
-from pydrive.drive import GoogleDrive
+#from pydrive.auth import GoogleAuth
+#from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_01_26"
+fname = "data_63_01_27"
 #fname = "missed_63_01_17"
 date = ""
 
 def main():
   global fpath, fname, date
 
-  f_tmp1 = open(str(fpath+"database.tmp1"), "w")
+  f_tmp1 = open(str(fpath+"database.tmp1"), "w", encoding="utf8")
   f_tmp1.close()
 
   date = get_date()
   total_expand(date)
   
   # copy data in database.txt to database.tmp1
-  f_database = open(str(fpath+"database.txt"), "r")
-  f_tmp3 = open(str(fpath+"database.tmp1"), "a")
+  f_database = open(str(fpath+"database.txt"), "r", encoding="utf8")
+  f_tmp3 = open(str(fpath+"database.tmp1"), "a", encoding="utf8")
   for x in f_database.readlines():
     f_tmp3.writelines(x)
   f_database.close()
@@ -84,7 +84,7 @@ def main():
   style_a24.font.name = 'TH SarabunPSK'
   style_a24.font.size = Pt(24)
 
-  f_tmp2 = open(fpath+"database.tmp2", "w")
+  f_tmp2 = open(fpath+"database.tmp2", "w", encoding="utf8")
   f_tmp2.writelines("DATE : "+date+'\n')
 
   for j in range(len(information)):
@@ -166,18 +166,18 @@ def main():
   
   #document.save('debug.docx')
 
-#  _database = open(fpath+"database.txt", "r")
-  f_tmp1 = open(fpath+"database.tmp1", "r")
+#  _database = open(fpath+"database.txt", "r", encoding="utf8")
+  f_tmp1 = open(fpath+"database.tmp1", "r", encoding="utf8")
   for t in f_tmp1.readlines():
     f_tmp2.write(t)
 #  for t in f_database.readlines():
 #    f_tmp2.write(t)
+  f_tmp2.close()
+  f_tmp1.close()
 
   os.rename(fpath+"database.txt", fpath+"database.old")
   os.rename(fpath+"database.tmp2", fpath+"database.txt")
 
-  f_tmp1.close()
-  f_tmp2.close()
 #  f_database.close()
 
 ##############################
@@ -200,7 +200,7 @@ def main():
 #      print('Title: %s, ID: %s' % (file['title'], file['id']))
 
 def get_date():
-  f_data = open(str(fpath+fname+".txt"), "r")
+  f_data = open(str(fpath+fname+".txt"), "r", encoding="utf8")
   _date = f_data.readline()
   f_data.close()
   if _date[len(_date)-1] == '\n':
@@ -210,8 +210,8 @@ def get_date():
   return _date
 
 def total_expand(_date):
-  f_data = open(str(fpath+fname+".txt"), "r")
-  f_tmp1 = open(str(fpath+"database.tmp1"), "a")
+  f_data = open(str(fpath+fname+".txt"), "r", encoding="utf8")
+  f_tmp1 = open(str(fpath+"database.tmp1"), "a", encoding="utf8")
 
   i=0  
   for x in f_data.readlines():
@@ -235,7 +235,7 @@ def total_expand(_date):
   f_tmp1.close()
 
 def get_seq():
-  f = open(str(fpath+"database.txt"), "r")
+  f = open(str(fpath+"database.txt"), "r", encoding="utf8")
   _max = 0
   for i in range(30):
     txt = f.readline()
@@ -255,7 +255,7 @@ def get_seq():
   return _max
 
 def read_info():
-  f = open(str(fpath+fname+".txt"), "r")
+  f = open(str(fpath+fname+".txt"), "r", encoding="utf8")
   lines = f.readlines()
   f.close()
   data = []
@@ -292,7 +292,7 @@ def read_info():
 
 def get_old_total(_fname, _id):
   #print("get_old_total, name:%s, _id:%s, type:%s" % (name, _id, type(_id)))
-  f = open(_fname, "r")
+  f = open(_fname, "r", encoding="utf8")
   b_found=False
   lines = f.readlines()
   f.close()
