@@ -9,7 +9,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_01_27"
+fname = "data_63_02_10"
 #fname = "missed_63_01_17"
 date = ""
 
@@ -354,7 +354,7 @@ def processing(information):
             break
           i=i+1
         if i != 0:
-          print("v.info[k][i:] : %s" % v.info[k][i:])
+          print("%s : v.info[%d][%d:] : %s" % (v.info, k, i, v.info[k][i:]))
           new_info = int(v.info[k][i:])
           v.count = v.count + new_info
     if v.count == int(v.count):
