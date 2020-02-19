@@ -1,3 +1,6 @@
+from os import listdir
+from os.path import isfile, join
+
 import math
 import os
 
@@ -9,7 +12,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_02_10"
+fname = "data_63_02_17"
 #fname = "missed_63_01_17"
 date = ""
 
@@ -84,14 +87,22 @@ def main():
   style_a24.font.name = 'TH SarabunPSK'
   style_a24.font.size = Pt(24)
 
+  style_a22 = styles.add_style('A22', WD_STYLE_TYPE.PARAGRAPH)
+  style_a22.font.name = 'TH SarabunPSK'
+  style_a22.font.size = Pt(22)
+
+  style_a20 = styles.add_style('A20', WD_STYLE_TYPE.PARAGRAPH)
+  style_a20.font.name = 'TH SarabunPSK'
+  style_a20.font.size = Pt(20)
+
   f_tmp2 = open(fpath+"database.tmp2", "w", encoding="utf8")
   f_tmp2.writelines("DATE : "+date+'\n')
 
   for j in range(len(information)):
     information[j].info = insert_space(information[j].info)
 
-  font_sz = [36, 34, 31, 28, 26, 24]
-  lines   = [ 6,  7,  8,  9, 10, 11]
+  font_sz = [36, 34, 31, 28, 26, 24, 22, 20]
+  lines   = [ 6,  7,  8,  9, 10, 11, 12, 14]
   charact = [16, 16, 18, 20, 22, 24]
 
   j=0
@@ -110,8 +121,8 @@ def main():
       while reduce_line(information[j].info):
         print(information[j].info)
     information[j].line = len(information[j].info)+line
-    information[j].font_sz = font_sz[max(0, information[j].line-6)]
-    #print("ID:%s, line:%d, font:%d" % (information[j].id, information[j].line, information[j].font_sz))
+    print("ID:%s, line:%d, font:%d, font_indx:%d" % (information[j].id, information[j].line, information[j].font_sz, max(0, information[j].line-6)))
+    information[j].font_sz = font_sz[min(7, max(0, information[j].line-6))]
     j=j+1
   
   seq=seq+1
@@ -219,13 +230,13 @@ def total_expand(_date):
     if txt[0] == "++":
       _id = txt[1]
       _value = int(txt[2])
-      _old_total = get_old_total(str(fpath+"database.txt"), _id)
+      _old_total = get_old_total(str(fpath+"database.txt"), "L"+_id)
       if _old_total != '-':
         _new_total = float(_old_total) + _value
         _new_total = float_to_string(_new_total)
-        #print("line[%d]: %s, %d ::: old, new : %f, %s" % (i, _id, _value, float(_old_total), _new_total))
+        print("line[%d]: %s, %d ::: old, new : %f, %s" % (i, _id, _value, float(_old_total), _new_total))
         new_txt = [str("SPECIAL : "+_date+", L"+_id+"  ต่อสมาชิก "+str(_value)+" ชิ้น, total:"+_new_total+'\n')]
-        print(new_txt)
+        #print(new_txt)
         f_tmp1.writelines(new_txt)
     else:
       print("txt[%d] == ++ is FALSE : %s" % (i, txt))
