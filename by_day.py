@@ -12,7 +12,9 @@ def main():
   #print(type(onlyfiles))
   #print(type(onlyfiles[0]))
 
-  _all = 0  
+  _all = 0
+  avg7 = []
+  avg15 = []
   for indx in range(len(onlyfiles)):
     information = read_info(onlyfiles[indx])
     information = processing(information)
@@ -22,7 +24,18 @@ def main():
       sum_count += item.count
       sum_cash += item.cash
     _all += sum_cash+sum_count*11
-    print("%s, count: %.2f, cash: %.2f, total:%.2f" % (onlyfiles[indx], sum_count, sum_cash, sum_cash+sum_count*11))
+    avg7.append(sum_cash+sum_count*11)
+    avg15.append(sum_cash+sum_count*11)
+    while len(avg7) > 7:
+      avg7.pop(0)
+    while len(avg15) > 15:
+      avg15.pop(0)
+    _str = str("%s, count: %.2f, cash: %.2f, total:%.2f" % (onlyfiles[indx], sum_count, sum_cash, sum_cash+sum_count*11))
+    if len(avg7) is 7:
+      _str += str(", avg[7]: %f" % (sum(avg7)/len(avg7)))
+    if len(avg15) is 15:
+      _str += str(", avg[15]: %f" % (sum(avg15)/len(avg15)))
+    print(_str)
   print("all: %.2f" % _all)
 
 def read_info(_fname):

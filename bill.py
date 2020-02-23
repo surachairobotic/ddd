@@ -12,7 +12,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_02_17"
+fname = "data_63_02_22"
 #fname = "missed_63_01_17"
 date = ""
 
@@ -23,7 +23,8 @@ def main():
   f_tmp1.close()
 
   date = get_date()
-  total_expand(date)
+  if not total_expand(date):
+    exit()
   
   # copy data in database.txt to database.tmp1
   f_database = open(str(fpath+"database.txt"), "r", encoding="utf8")
@@ -238,12 +239,16 @@ def total_expand(_date):
         new_txt = [str("SPECIAL : "+_date+", L"+_id+"  ต่อสมาชิก "+str(_value)+" ชิ้น, total:"+_new_total+'\n')]
         #print(new_txt)
         f_tmp1.writelines(new_txt)
+      else:
+        print(txt)
+        return False
     else:
       print("txt[%d] == ++ is FALSE : %s" % (i, txt))
     i=i+1
   
   f_data.close()
   f_tmp1.close()
+  return True
 
 def get_seq():
   f = open(str(fpath+"database.txt"), "r", encoding="utf8")
