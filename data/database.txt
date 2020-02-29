@@ -1,3 +1,78 @@
+DATE : 27/2/63
+536,	L243		,total:17.5
+537,	L302		,total:16
+538,	L331		,total:20.5
+539,	L232		,total:39
+540,	ตี้		,cash:205
+541,	L279		,total:20
+542,	L035		,total:37
+543,	L026		,total:49
+544,	ธนง		,cash:40
+545,	L293		,total:71
+546,	L304		,total:35
+547,	L198		,total:28
+548,	วา		,cash:145
+549,	สุรวิช		,cash:25
+550,	L343		,total:26	,cash:40
+551,	เนย		,cash:15
+552,	L311		,total:-6
+553,	L103		,total:5.5
+554,	L031		,total:58
+555,	L294		,total:73	,cash:25
+SPECIAL : 27/2/63, L035  ต่อสมาชิก 105 ชิ้น, total:75.5
+DATE : 25/2/63
+521,	L236		,total:-31	,cash:5
+522,	L193		,total:6	,cash:152
+523,	L074		,total:27	,cash:25
+524,	ก้อง		,cash:70
+525,	L343		,cash:50
+526,	L026		,total:50
+527,	L134		,total:2
+528,	พริกไทย		,cash:130
+529,	L331		,total:22.5
+530,	L040		,total:15	,cash:40
+531,	L288		,total:-24
+532,	L342		,total:46.5
+533,	L031		,total:64
+534,	L296		,total:65
+535,	L021		,total:46
++DATE : 24/2/63
+503,	ดัง(รับผ้าแล้ว)		,cash:265
+504,	L028		,total:-14.5
+505,	L276		,total:51.5	,cash:45
+506,	L350		,total:83
+507,	L238		,total:176
+508,	L312		,total:33
+509,	ไอซ์		,cash:60
+510,	L283		,total:19
+511,	L332		,total:35
+512,	L334		,total:23
+513,	L243		,total:19.5
+514,	L167		,total:52
+515,	เบ้น		,cash:90
+516,	L213		,cash:200
+517,	L323		,total:24
+518,	L303		,total:63
+519,	L031		,total:68
+520,	L251		,total:23
+DATE : 23/2/63
+487,	แบม(0909088584)		,cash:40
+488,	แทงค์กิ้ว(thankyou)		,cash:60
+489,	L296		,total:66
+490,	L162		,total:0
+491,	ฟลุ๊ค		,cash:220
+492,	L310		,total:22
+493,	L340		,total:28.5
+494,	L338		,total:69	,cash:50
+495,	L287		,total:8	,cash:188
+496,	L110		,total:1
+497,	L217		,total:-4.5
+498,	L294		,total:80
+499,	L336		,total:82
+500,	L314		,total:23
+501,	L298		,total:11
+502,	L216		,total:58
+SPECIAL : 23/2/63, L346  ต่อสมาชิก 105 ชิ้น, total:101
 DATE : 22/2/63
 472,	L336		,total:84
 473,	L346		,total:-4
