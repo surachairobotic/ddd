@@ -12,7 +12,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_03_06"
+fname = "data_63_04_23"
 #fname = "missed_63_01_17"
 date = ""
 
@@ -228,6 +228,7 @@ def total_expand(_date):
   i=0  
   for x in f_data.readlines():
     txt = x.split()
+    print(txt)
     if txt[0] == "++":
       _id = txt[1]
       _value = int(txt[2])
