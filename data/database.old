@@ -1,3 +1,38 @@
+DATE : 25/5/63
+990,	L297		,total:19
+991,	L206		,total:87	,cash:15
+992,	L099		,total:-2
+993,	L116		,total:133.5
+994,	L352		,total:11
+SPECIAL : 25/5/63, L340  ต่อสมาชิก 105 ชิ้น, total:93
+DATE : 24/5/63
+985,	L353		,total:99
+986,	L354		,total:7
+987,	L355		,total:34	,cash:25
+988,	L276		,total:84.5	,cash:45
+989,	L213		,total:-52	,cash:5
+SPECIAL : 24/5/63, L353  ต่อสมาชิก 105 ชิ้น, total:113
+SPECIAL : 24/5/63, L356  ต่อสมาชิก 30 ชิ้น, total:20
+DATE : 23/5/63
+980,	อ.อ๊อด		,cash:180
+981,	มิ้น		,cash:45
+982,	L073		,total:11.5
+983,	L287		,total:65	,cash:103
+984,	L206		,total:92	,cash:65
+SPECIAL : 23/5/63, L206  ต่อสมาชิก 105 ชิ้น, total:102
+SPECIAL : 23/5/63, L073  ต่อสมาชิก 105 ชิ้น, total:30
+DATE : 22/5/63
+976,	L352		,total:18	,cash:100
+977,	L271		,total:2
+978,	L238		,total:70
+979,	L356		,total:-10
+INITIAL 22/05/63
+0000,	L356		,total:0
+DATE : 20/5/63
+973,	L167		,total:53
+974,	L224		,total:35.5
+975,	L297		,total:28
+SPECIAL : 20/5/63, L224  ต่อสมาชิก 50 ชิ้น, total:49.5
 DATE : 19/5/63
 969,	L206		,total:-3	,cash:25
 970,	L346		,total:72
