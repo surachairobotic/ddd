@@ -1,3 +1,125 @@
+DATE : 19/6/63
+68,	L226		,total:107
+69,	L359		,total:46
+70,	L206		,total:42	,cash:40
+71,	L319		,cash:230
+SPECIAL : 19/6/63, L359  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 19/6/63, L205  ต่อสมาชิก 50 ชิ้น, total:21
+INITIAL 19/06/63
+0000,	L359		,total:0
+DATE : 18/6/63
+63,	L356		,total:-2
+64,	L162		,total:16
+65,	L216		,total:18
+66,	น้ำฟ้า		,cash:235
+67,	พิทรัส		,cash:150
+DATE : 15/6/63ชุดที่2
+62,	L353		,total:65
+DATE : 15/6/63
+57,	L226		,total:110
+58,	L238		,total:42
+59,	L206		,total:50	,cash:45
+60,	L296		,total:41
+61,	บาหลี		,cash:185
+DATE : 14/6/63
+52,	L271		,cash:95
+53,	L355		,total:8	,cash:25
+55,	L224		,total:9.5
+56,	เพลง		,cash:190
+DATE : 13/6/63
+50,	L287		,total:27
+51,	L040		,total:8
+DATE : 12/6/63
+43,	L356		,total:4
+44,	L354		,total:96
+45,	L206		,total:56	,cash:30
+46,	L216		,total:22
+47,	L358		,total:95
+48,	L342		,total:144.5
+49,	L216		,total:26
+SPECIAL : 12/6/63, L358  ต่อสมาชิก 105 ชิ้น, total:105
+SPECIAL : 12/6/63, L357  ต่อสมาชิก 50 ชิ้น, total:43
+INITIAL 12/06/63
+0000,	L358		,total:0
+DATE : 10/6/63
+39,	น้ำตาล		,cash:85
+40,	L205		,total:-29	,cash:50
+41,	L287		,total:33	,cash:104
+42,	L167		,total:26
+DATE : 9/6/63
+35,	L216		,total:29
+36,	L348		,total:67
+37,	L357		,total:-7
+38,	L258		,total:26	,cash:340
+DATE : 8/6/63
+32,	L287		,total:39
+33,	L352		,total:3	,cash:155
+34,	L342		,cash:890
+DATE : 6/6/62(ชุดที่2)
+23,	L216		,total:31
+24,	นิว		,cash:85
+25,	L167		,total:33
+26,	วิว		,cash:75
+27,	L342		,total:182.5
+28,	L353		,total:78
+29,	อ.อ๊อด		,cash:125
+30,	L352		,total:8	,cash:25
+31,	ร้านขนม		,cash:15
+DATE : 6/6/63
+22,	L352		,total:14
+DATE : 5/6/63
+13,	L352		,cash:105
+14,	L216		,total:35
+15,	L206		,total:66	,cash:25
+16,	L206		,total:67	,cash:145
+17,	L356		,total:10	,cash:25
+18,	L238		,total:52
+19,	L216		,total:35
+20,	L355		,total:19	,cash:25
+21,	L352		,total:21	,cash:5
+SPECIAL : 5/6/63, L342  ต่อสมาชิก 210 ชิ้น, total:215.5
+SPECIAL : 5/6/63, L271  ต่อสมาชิก 5 ชิ้น, total:0
+SPECIAL : 5/6/63, L352  ต่อสมาชิก 2 ชิ้น, total:30
+SPECIAL : 5/6/63, L279  ต่อสมาชิก 17 ชิ้น, total:0
+DATE : 4/6/63
+9,	L216		,total:38
+10,	L357		,total:12
+11,	L179		,total:83	,cash:5
+12,	L354		,total:103
+SPECIAL : 4/6/63, L354  ต่อสมาชิก 105 ชิ้น, total:112
+SPECIAL : 4/6/63, L357  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 4/6/63, L352  ต่อสมาชิก 30 ชิ้น, total:28
+INITIAL 4/06/63
+0000,	L357		,total:0
+DATE : 3/6/63
+8,	L342		,total:5.5	,cash:320
+DATE : 1/6/63
+1,	L355		,total:26
+2,	L287		,total:49	,cash:117
+3,	L271		,total:-5
+4,	ร้านอาหาร		,cash:65
+5,	L167		,total:38
+6,	ร้านกุ้งถังนิว		,cash:145
+7,	L353		,total:89
+SPECIAL : 1/6/63, L213  ต่อสมาชิก 105 ชิ้น, total:53
+DATE : 30/5/63
+1001,	L346		,total:66
+1002,	L206		,total:74	,cash:60
+1003,	L352		,total:-2	,cash:80
+1004,	จินA2		,cash:70
+DATE : 29/5/63
+999,	กิ๊ฟ		,cash:10
+1000,	มิ้น		,cash:15
+1001,	L356		,total:15	,cash:25
+1002,	L224		,total:19.5
+1003,	สุชาติ		,cash:450
+1004,	L238		,total:62
+1005,	L349		,total:30
+DATE : 26/5/63
+995,	L340		,total:84
+996,	L167		,total:44
+997,	มิ้น		,cash:30
+998,	เพลง		,cash:100
 DATE : 25/5/63
 990,	L297		,total:19
 991,	L206		,total:87	,cash:15
