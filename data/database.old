@@ -1,3 +1,63 @@
+INITIAL 02/07/63ชุดที่2
+0000,	L362		,total:0
+DATE : 2/7/63
+112,	L361		,total:17
+SPECIAL : 2/7/63, L361  ต่อสมาชิก 30 ชิ้น, total:30
+INITIAL 02/07/63
+0000,	L361		,total:0
+DATE : 30/6/63
+110,	ตี้		,cash:100
+111,	L146		,total:24.5
+DATE : 28/6/63 ชุดที่2
+108,	L258		,total:5	,cash:180
+109,	L358		,total:91
+DATE : 28/6/63
+102,	L355		,total:-10	,cash:25
+103,	L216		,total:204	,cash:35
+104,	อ.อ๊อด		,cash:520
+106,	L353		,total:35
+107,	L354		,total:81
+SPECIAL : 28/6/63, L216  ต่อสมาชิก 200 ชิ้น, total:211
+DATE : 27/6/63
+97,	นุช		,cash:85
+98,	L206		,total:24	,cash:45
+99,	L205		,total:11
+100,	ฟ้า		,cash:100
+101,	L319		,cash:574
+SPECIAL : 27/6/63, L073  ต่อสมาชิก 30 ชิ้น, total:17.5
+DATE : 26/6/63
+94,	L073		,total:-12.5
+95,	L360		,total:18
+SPECIAL : 26/6/63, L360  ต่อสมาชิก 30 ชิ้น, total:30
+INITIAL 26/06/63
+0000,	L360		,total:0
+DATE : 25/6/63
+88,	L238		,total:32
+89,	L356		,total:43
+91,	L359		,total:42
+92,	L349		,total:16
+93,	L287		,total:8
+SPECIAL : 25/6/63, L356  ต่อสมาชิก 50 ชิ้น, total:48
+DATE : 23/6/63
+82,	L040		,total:7	,cash:40
+83,	L216		,total:11
+84,	L296		,total:36
+85,	L206		,total:33	,cash:60
+86,	L342		,total:72.5
+87,	L238		,total:35
+DATE : 22/6/63
+79,	ห้องแปดหนึ่งห้า		,cash:30
+80,	ตี้		,cash:140
+81,	L213		,total:1
+DATE : 21/6/63
+77,	L355		,total:0	,cash:25
+78,	L353		,total:47
+DATE : 20/3/63
+72,	L162		,total:11
+73,	L287		,total:18	,cash:158
+74,	L167		,total:20
+75,	L354		,total:89
+76,	L342		,total:97.5	,cash:140
 DATE : 19/6/63
 68,	L226		,total:107
 69,	L359		,total:46

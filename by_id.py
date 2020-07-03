@@ -8,7 +8,7 @@ def main():
   vText = get_all_database()
 
   f = open(str(fpath+"database_by_id.txt"), "w")  
-  for _id in range(0, 350):
+  for _id in range(0, 400):
     txt = "L"+"{:0>3d}".format(_id)
     f.writelines("-----  "+txt+"  -----\n")
     date = ""
