@@ -1,3 +1,40 @@
+DATE : 7/7/63
+142,	L363		,total:90
+143,	ลุงร้านข้าวราดแกง		,cash:40
+144,	L362		,total:47
+145,	L297		,total:10
+146,	L342		,total:-23.5
+147,	L313		,total:70.5
+148,	L205		,cash:25
+149,	พริกไทย		,cash:450
+DATE : 6/7/63
+140,	L213		,total:-28
+141,	L162		,total:6
+DATE : 5/7/63
+137,	L073		,total:1.5
+138,	L276		,total:68.5
+139,	L358		,total:83
+DATE : 4/7/63
+128,	วิว		,cash:400
+129,	นุช		,cash:120
+130,	L353		,total:23
+131,	L319		,total:54	,cash:117
+132,	L206		,cash:35
+133,	L287		,total:2	,cash:188
+134,	L355		,total:-16	,cash:50
+135,	ตี้		,cash:40
+136,	L205		,total:0	,cash:75
+DATE : 3/7/63
+121,	L362		,total:68	,cash:135
+122,	L356		,total:38
+123,	L198		,total:15
+124,	L362		,total:79	,cash:365
+125,	L206		,total:7	,cash:82
+126,	L363		,total:94
+127,	L359		,total:37
+SPECIAL : 3/7/63, L363  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 03/07/63
+0000,	L363		,total:0
 DATE : 2/7/63ชุดที่2
 113,	L362		,total:89
 114,	L238		,total:23
