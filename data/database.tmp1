@@ -1,5 +1,77 @@
+SPECIAL : 18/7/63, L206  ต่อสมาชิก 200 ชิ้น, total:182
+DATE : 17/7/63
+193,	L276		,total:51.5	,cash:35
+194,	สุชาติ		,cash:300
+195,	L363		,total:71
+196,	L287		,total:180
+197,	L198		,total:7
+198,	L216		,total:192
+199,	L296		,total:27
+200,	L223		,total:70
+201,	L319		,cash:143
+202,	L357		,total:38	,cash:35
+203,	L358		,total:74
+204,	L362		,total:-18	,cash:5
+205,	L258		,total:-12	,cash:25
+206,	L359		,total:22
+SPECIAL : 17/7/63, L287  ต่อสมาชิก 200 ชิ้น, total:192
+DATE : 16/7/63ชุดที่2
+187,	L364		,total:24
+188,	L167		,total:14
+189,	L326		,total:50
+190,	L356		,total:29
+191,	L342		,total:112.5
+192,	L116		,total:77
+DATE : 16/7/63
+176,	L226		,total:106
+177,	L223		,total:76
+178,	L362		,total:7
+179,	L359		,total:25
+180,	เพชร		,cash:135
+181,	L238		,total:15
+182,	L364		,total:26
+183,	L300		,total:11
+184,	L206		,total:-18	,cash:28
+185,	L213		,total:40
+186,	มิว		,cash:235
+DATE : 13/7/63
+171,	L323		,total:13
+172,	L296		,total:32
+173,	L279		,total:23
+174,	L297		,cash:55
+175,	L363		,total:78
+SPECIAL : 13/7/63, L297  ต่อสมาชิก 50 ชิ้น, total:45
+SPECIAL : 13/7/63, L279  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 13/7/63, L364  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 13/7/63, L213  ต่อสมาชิก 100 ชิ้น, total:72
+INITIAL 13/07/63
+0000,	L364		,total:0
+DATE : 12/7/63
+167,	L354		,total:76
+168,	L353		,total:11
+169,	อ.อ๊อด		,cash:215
+170,	L297		,total:-5
+SPECIAL : 12/7/63, L324  ต่อสมาชิก 11 ชิ้น, total:0.5
+DATE : 11/7/63
+160,	นุช		,cash:120
+161,	L363		,total:82
+162,	L319		,cash:130
+163,	L355		,total:24
+164,	L287		,total:-8	,cash:138
+165,	L362		,total:16
+166,	L342		,total:157.5
+SPECIAL : 11/7/63, L355  ต่อสมาชิก 50 ชิ้น, total:34
+DATE : 10/7/63
+152,	L356		,total:35
+153,	L348		,total:63
+154,	ตี้		,cash:80
+155,	L216		,total:198
+156,	L342		,total:158.5
+157,	มิ้น		,cash:80
+158,	L206		,total:-9
+159,	L359		,total:31
 SPECIAL : 10/7/63, L342  ต่อสมาชิก 200 ชิ้น, total:176.5
-DATE : 9/7/93
+DATE : 9/7/63
 150,	L324		,total:-10.5
 151,	L362		,total:34
 DATE : 7/7/63
@@ -166,7 +238,7 @@ DATE : 8/6/63
 32,	L287		,total:39
 33,	L352		,total:3	,cash:155
 34,	L342		,cash:890
-DATE : 6/6/62(ชุดที่2)
+DATE : 6/6/63(ชุดที่2)
 23,	L216		,total:31
 24,	นิว		,cash:85
 25,	L167		,total:33
@@ -435,7 +507,7 @@ DATE : 4/4/63
 DATE : 3/4/63
 851,	L287		,cash:113
 852,	L206		,total:13	,cash:60
-DATE : 2/4/62
+DATE : 2/4/63
 847,	L167		,total:3
 848,	L162		,total:23
 849,	L287		,total:139
