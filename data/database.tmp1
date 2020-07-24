@@ -1,3 +1,31 @@
+DATE : 21/7/63
+222,	L360		,total:11
+223,	L363		,total:62
+224,	L206		,total:160	,cash:28
+225,	L205		,total:36
+227,	L167		,total:5
+228,	ปีเตอร์		,cash:604
+229,	L279		,total:14
+230,	L355		,total:16
+SPECIAL : 21/7/63, L205  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 21/7/63, L362  ต่อสมาชิก 100 ชิ้น, total:68
+DATE : 19/7/63
+216,	ปลาย		,cash:200
+217,	L198		,total:4
+218,	L363		,total:64
+219,	L362		,total:-32	,cash:100
+220,	เนย		,cash:335
+221,	L287		,cash:215
+DATE : 18/7/63
+207,	L293		,total:49
+208,	L340		,total:66
+209,	อ.อ๊อด		,cash:285
+210,	L297		,total:25
+211,	L354		,total:71
+212,	L353		,total:0
+213,	L232		,total:14.5
+214,	L206		,total:170	,cash:60
+215,	L287		,cash:87
 SPECIAL : 18/7/63, L206  ต่อสมาชิก 200 ชิ้น, total:182
 DATE : 17/7/63
 193,	L276		,total:51.5	,cash:35
