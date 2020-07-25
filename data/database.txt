@@ -1,3 +1,21 @@
+DATE : 24/7/63
+231,	L340		,total:55
+232,	L179		,cash:70
+233,	L363		,total:59
+234,	L198		,total:-3
+235,	L359		,total:17
+236,	L356		,total:22
+237,	L238		,total:3
+238,	L206		,total:149	,cash:126
+239,	L346		,total:60
+240,	L216		,total:190	,cash:35
+241,	L297		,total:12
+242,	L349		,total:3
+243,	L362		,cash:250
+244,	L213		,total:0
+245,	ปิ่น		,cash:705
+246,	L342		,total:62.5
+247,	L110		,total:-17
 DATE : 21/7/63
 222,	L360		,total:11
 223,	L363		,total:62
