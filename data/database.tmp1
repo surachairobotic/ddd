@@ -1,3 +1,69 @@
+SPECIAL : 1/8/63, L297  ต่อสมาชิก 50 ชิ้น, total:46
+DATE : 31/7/63
+277,	L312		,total:21
+278,	L366		,total:89
+279,	L356		,total:19
+280,	L287		,total:159
+SPECIAL : 31/7/63, L366  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 31/07/63
+0000,	L366		,total:0
+DATE : 30/7/63
+272,	L323		,total:11
+273,	L365		,total:94
+274,	L362		,total:35
+275,	L359		,total:14
+276,	L363		,total:42
+SPECIAL : 30/7/63, L365  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 30/07/63
+0000,	L365		,total:0
+DATE : 28/7/63
+269,	L091		,total:26.5
+270,	L319		,cash:273
+271,	L297		,total:-4
+DATE : 27/6/63
+259,	โลตัส		,cash:60
+260,	L353		,total:88
+261,	L225		,total:32	,cash:45
+262,	L357		,total:26	,cash:180
+263,	L363		,total:52
+264,	เฟรม		,cash:40
+265,	พรรษกร		,cash:220
+266,	เพลง		,cash:375
+267,	L314		,total:9
+268,	L362		,total:42
+SPECIAL : 27/6/63, L353  ต่อสมาชิก 100 ชิ้น, total:100
+SPECIAL : 27/6/63, L198  ต่อสมาชิก 100 ชิ้น, total:97
+DATE : 26/7/63
+256,	L232		,total:8
+257,	L226		,total:96
+258,	L216		,total:188
+DATE : 25/7/63
+248,	L363		,total:56	,cash:190
+249,	L287		,total:166	,cash:80
+250,	L362		,total:47
+251,	อิน		,cash:250
+252,	L342		,cash:100
+253,	L225		,cash:180
+254,	อาต้า		,cash:240
+255,	บอสจ่ายแล้ว		,cash:280
+DATE : 24/7/63
+231,	L340		,total:55
+232,	L179		,cash:70
+233,	L363		,total:59
+234,	L198		,total:-3
+235,	L359		,total:17
+236,	L356		,total:22
+237,	L238		,total:3
+238,	L206		,total:149	,cash:126
+239,	L346		,total:60
+240,	L216		,total:190	,cash:35
+241,	L297		,total:12
+242,	L349		,total:3
+243,	L362		,cash:250
+244,	L213		,total:0
+245,	ปิ่น		,cash:705
+246,	L342		,total:62.5
+247,	L110		,total:-17
 DATE : 21/7/63
 222,	L360		,total:11
 223,	L363		,total:62
