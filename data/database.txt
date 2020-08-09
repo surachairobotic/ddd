@@ -1,3 +1,60 @@
+DATE : 7/8/63
+309,	L342		,total:-23.5	,cash:150
+310,	L371		,total:92
+311,	L313		,total:62.5
+312,	L232		,total:-1.5
+313,	L314		,total:3
+314,	L091		,total:8
+315,	L362		,total:-14
+316,	L244		,total:12.5
+317,	L359		,total:9
+318,	L321		,total:11
+319,	L230		,total:40
+320,	L028		,total:19.5
+321,	L304		,total:81	,cash:80
+SPECIAL : 7/8/63, L028  ต่อสมาชิก 50 ชิ้น, total:32.5
+SPECIAL : 7/8/63, L269  ต่อสมาชิก 100 ชิ้น, total:82
+SPECIAL : 7/8/63, L371  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 7/08/63
+0000,	L371		,total:0
+DATE : 6/8/63ชุดที่2
+307,	L269		,total:-18	,cash:112
+308,	เจปาร์ค		,cash:650
+DATE : 6/8/63
+297,	L360		,total:4
+298,	L206		,total:122	,cash:82
+299,	L366		,total:75
+300,	L351		,total:7
+301,	L340		,total:25
+302,	L198		,total:83
+303,	L363		,total:33
+304,	L312		,total:17
+306,	L358		,total:62
+SPECIAL : 6/8/63, L368  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 6/8/63, L369  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 6/8/63, L370  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 6/8/63, L304  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 6/08/63
+0000,	L370		,total:0
+INITIAL 6/08/63
+0000,	L369		,total:0
+INITIAL 6/08/63
+0000,	L368		,total:0
+DATE : 4/8/63
+293,	L296		,total:19
+294,	L223		,total:67
+295,	L091		,total:19
+296,	L362		,total:7
+DATE : 3/8/63
+287,	L223		,total:69
+288,	L237		,total:48
+289,	L325		,total:5
+290,	L206		,total:131
+291,	L357		,total:22
+292,	L287		,total:156	,cash:156
+SPECIAL : 3/8/63, L367  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 3/08/63
+0000,	L367		,total:0
 DATE : 1/8/63
 281,	L297		,total:29
 282,	L206		,total:137	,cash:39
