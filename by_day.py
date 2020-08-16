@@ -8,13 +8,27 @@ fname = "database.txt"
 def main():
   onlyfiles = [f for f in listdir(fpath) if isfile(join(fpath, f)) and f.find("_6") != -1]
   onlyfiles.sort()
-  #print(onlyfiles)
+  
+  #for x in onlyfiles:
+  #  print(x)
   #print(type(onlyfiles))
   #print(type(onlyfiles[0]))
+  
+  #exit()
 
-  _all = 0
+  min_day = 9999
+  min_7 = 9999
+  min_15 = 9999
+  min_30 = 9999
+  max_day = 0
+  max_7 = 0
+  max_15 = 0
+  max_30 = 0
+
+  _all = []
   avg7 = []
   avg15 = []
+  avg30 = []
   for indx in range(len(onlyfiles)):
     information = read_info(onlyfiles[indx])
     information = processing(information)
@@ -23,20 +37,37 @@ def main():
     for item in information:
       sum_count += item.count
       sum_cash += item.cash
-    _all += sum_cash+sum_count*11
+    _all.append(sum_cash+sum_count*11)
+    min_day = min(min_day, sum_cash+sum_count*11)
+    max_day = max(max_day, sum_cash+sum_count*11)
     avg7.append(sum_cash+sum_count*11)
     avg15.append(sum_cash+sum_count*11)
+    avg30.append(sum_cash+sum_count*11)
     while len(avg7) > 7:
       avg7.pop(0)
     while len(avg15) > 15:
       avg15.pop(0)
+    while len(avg30) > 30:
+      avg30.pop(0)
     _str = str("%s, count: %.2f, cash: %.2f, total:%.2f" % (onlyfiles[indx], sum_count, sum_cash, sum_cash+sum_count*11))
     if len(avg7) is 7:
       _str += str(", avg[7]: %f" % (sum(avg7)/len(avg7)))
+      min_7 = min(min_7, sum(avg7)/len(avg7))
+      max_7 = max(max_7, sum(avg7)/len(avg7))
     if len(avg15) is 15:
       _str += str(", avg[15]: %f" % (sum(avg15)/len(avg15)))
+      min_15 = min(min_15, sum(avg15)/len(avg15))
+      max_15 = max(max_15, sum(avg15)/len(avg15))
+    if len(avg30) is 30:
+      _str += str(", avg[30]: %f" % (sum(avg30)/len(avg30)))
+      min_30 = min(min_30, sum(avg30)/len(avg30))
+      max_30 = max(max_30, sum(avg30)/len(avg30))
     print(_str)
-  print("all: %.2f" % _all)
+  print("day : %.2f, %.2f" % (min_day, max_day))
+  print("7 : %.2f, %.2f" % (min_7, max_7))
+  print("15 : %.2f, %.2f" % (min_15, max_15))
+  print("30 : %.2f, %.2f" % (min_30, max_30))
+  print("all: %.2f, avg: %.2f" % (sum(_all), (sum(_all)/len(_all))))
 
 def read_info(_fname):
   f = open(str(fpath+_fname), "r", encoding="utf8")

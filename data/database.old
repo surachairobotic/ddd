@@ -1,3 +1,127 @@
+INITIAL 15/08/63
+0000,	L382		,total:0
+DATE : 14/8/63
+376,	L371		,total:87
+377,	กันต์		,cash:65
+378,	L223		,total:60
+379,	กรีน		,cash:190
+380,	L230		,total:32
+381,	L035		,total:59	,cash:103
+382,	L237		,total:40
+383,	L249		,total:1
+384,	นาย		,cash:50
+385,	L376		,total:40
+386,	L369		,total:47
+387,	L314		,total:47
+388,	L378		,total:49
+389,	L365		,total:84
+390,	L251		,total:42
+391,	L277		,total:-7
+392,	L205		,total:19
+393,	L340		,total:0
+394,	บอส		,cash:170
+SPECIAL : 14/8/63, L376  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 14/8/63, L377  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 14/8/63, L378  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 14/8/63, L251  ต่อสมาชิก 50 ชิ้น, total:52
+INITIAL 14/08/63
+0000,	L380		,total:0
+0000,	L379		,total:0
+0000,	L378		,total:0
+0000,	L377		,total:0
+0000,	L376		,total:0
+0000, L277    ,total:0
+DATE : 13/8/63
+369,	L363		,total:16
+370,	ลุง		,cash:20
+371,	L365		,total:86.5
+372,	L358		,total:57
+373,	L225		,total:27
+374,	L294		,total:43	,cash:42
+375,	ดัง		,cash:335
+SPECIAL : 13/8/63, L375  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 13/08/63
+0000,	L375		,total:0
+DATE : 11/8/63
+349,	L362		,total:164
+350,	L371		,total:88
+351,	ดวงกมล		,cash:90
+352,	L373		,total:96
+353,	L044		,total:-1
+354,	L368		,total:41
+355,	L026		,total:41
+356,	L367		,total:43.5
+357,	L348		,total:58
+358,	L337		,total:8
+359,	L365		,total:88.5
+360,	L311		,total:25.5
+361,	L313		,total:60.5
+362,	L293		,total:44
+363,	L359		,total:0
+364,	L091		,total:0.5
+365,	L374		,total:20	,cash:68
+366,	L297		,total:3	,cash:150
+367,	L035		,cash:246
+368,	L356		,total:12
+SPECIAL : 11/8/63, L362  ต่อสมาชิก 200 ชิ้น, total:177
+SPECIAL : 11/8/63, L374  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 11/8/63, L373  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 11/08/63
+0000,	L374		,total:0
+0000,	L373		,total:0
+DATE : 10/8/63
+347,	L342		,total:149.5	,cash:240
+348,	L346		,total:56
+SPECIAL : 10/8/63, L342  ต่อสมาชิก 200 ชิ้น, total:176.5
+DATE : 9/8/63
+332,	เนย		,cash:85
+333,	L354		,total:64	,cash:180
+334,	L317		,total:27
+335,	โมเม		,cash:110
+336,	L363		,total:24
+337,	L362		,total:-23
+338,	L035		,total:70.5
+339,	L206		,total:112	,cash:29
+340,	L287		,total:146	,cash:80
+341,	L346		,total:57
+342,	L213		,total:-34
+343,	L372		,total:37
+344,	บี		,cash:75
+345,	ซักแห้ง		,cash:50
+346,	กอล์ฟ		,cash:200
+SPECIAL : 9/8/63, L372  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 9/08/63
+0000,	L372		,total:0
+DATE : 8/8/63
+322,	เบลล์		,cash:450
+323,	ซี		,cash:400
+324,	จินต์		,cash:150
+325,	L319		,total:52	,cash:234
+326,	L190		,cash:435
+327,	L179		,total:69.5
+328,	L304		,total:71
+329,	พริ้ว		,cash:400
+330,	L314		,total:50
+331,	เด็กนักเรียน		,cash:60
+SPECIAL : 8/8/63, L110  ต่อสมาชิก 100 ชิ้น, total:83
+SPECIAL : 8/8/63, L314  ต่อสมาชิก 50 ชิ้น, total:56
+DATE : 7/8/63
+309,	L342		,total:-23.5	,cash:150
+310,	L371		,total:92
+311,	L313		,total:62.5
+312,	L232		,total:-1.5
+313,	L314		,total:6
+314,	L091		,total:8
+315,	L362		,total:-14
+316,	L244		,total:12.5
+317,	L359		,total:9
+318,	L321		,total:11
+319,	L230		,total:40
+320,	L028		,total:19.5
+321,	L304		,total:81	,cash:80
+SPECIAL : 7/8/63, L028  ต่อสมาชิก 50 ชิ้น, total:32.5
+SPECIAL : 7/8/63, L269  ต่อสมาชิก 100 ชิ้น, total:82
+SPECIAL : 7/8/63, L371  ต่อสมาชิก 100 ชิ้น, total:100
 INITIAL 7/08/63
 0000,	L371		,total:0
 DATE : 6/8/63ชุดที่2
@@ -19,9 +143,7 @@ SPECIAL : 6/8/63, L370  ต่อสมาชิก 50 ชิ้น, total:50
 SPECIAL : 6/8/63, L304  ต่อสมาชิก 100 ชิ้น, total:100
 INITIAL 6/08/63
 0000,	L370		,total:0
-INITIAL 6/08/63
 0000,	L369		,total:0
-INITIAL 6/08/63
 0000,	L368		,total:0
 DATE : 4/8/63
 293,	L296		,total:19
