@@ -19,7 +19,7 @@ def main():
 
   f = open(str(fpath+"database_by_id.txt"), "w")  
   fa = open(str(fpath+"database_by_id_all.txt"), "w")  
-  for _id in range(0, 380):
+  for _id in range(0, 999):
     txt = "L"+"{:0>3d}".format(_id)
     #f.writelines("-----  "+txt+"  -----\n")
     date = ""
