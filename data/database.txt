@@ -1,3 +1,174 @@
+DATE : 28/9/63
+21,	L386		,total:60.5	,cash:25
+22,	L331		,total:89
+23,	L326		,total:48
+24,	L296		,total:183
+25,	L293		,total:179
+26,	วิวจ่ายแล้ว		,cash:40
+27,	ปาย		,cash:40
+28,	L370		,total:28
+29,	น้ำขิง		,cash:70
+30,	L206		,total:-15	,cash:35
+31,	เบลล์		,cash:294
+32,	L369		,total:30
+DATE : 27/9/63
+1,	L091		,total:83.5
+2,	นาย		,cash:25
+3,	L110		,total:205
+4,	L283		,total:-2
+5,	L382		,total:61
+6,	L321		,total:7	,cash:14
+7,	L226		,total:65
+8,	แพร		,cash:40
+9,	L359		,total:36
+10,	L332		,total:33
+11,	พลอยยง		,cash:20
+12,	L354		,total:33
+13,	L353		,total:-16
+14,	L311		,total:-9.5
+15,	ดัง		,cash:492
+16,	L314		,total:0
+17,	L369		,total:31
+18,	L035		,total:113.5
+19,	L387		,total:30
+20,	a1		,cash:140
+DATE : 26/9/63ชุดที่2
+1001,	L396		,total:90.5
+1002,	L362		,total:70
+1003,	L374		,total:-16	,cash:28
+1004,	L336		,total:32
+1005,	L297		,total:15
+1006,	L383		,total:20
+1007,	L393		,total:-17
+1008,	L385		,total:128
+1009,	L368		,total:33
+DATE : 26/9/63ชุดที่1
+993,	L378		,total:26.5
+994,	L331		,total:92
+995,	L044		,total:28
+996,	บอส		,cash:50
+997,	L363		,total:37
+998,	L110		,total:207
+999,	L198		,total:14
+1000,	L253		,total:9.5	,cash:5
+1001,	L249		,total:27
+1002,	อ.อ๊อด		,cash:395
+1003,	L287		,total:69	,cash:45
+SPECIAL : 26/9/63ชุดที่1, L383  ต่อสมาชิก 30 ชิ้น, total:33
+SPECIAL : 26/9/63ชุดที่1, L110  ต่อสมาชิก 200 ชิ้น, total:210
+SPECIAL : 26/9/63ชุดที่1, L396  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 26/09/63
+0000,	L396		,total:0
+DATE : 25/9/63
+981,	L179		,total:-34.5	,cash:256
+982,	L356		,total:32	,cash:25
+983,	L091		,total:88
+984,	L223		,total:94
+985,	L377		,total:7
+986,	L237		,total:186
+987,	L303		,total:27
+988,	L331		,total:94.5
+989,	L110		,total:10
+990,	L206		,total:-10	,cash:85
+991,	L310		,total:58
+992,	L258		,total:23	,cash:225
+DATE : 24/9/63
+954,	L301		,total:12.5	,cash:25
+955,	ทวินทาวน์		,cash:130
+956,	พาส		,cash:120
+957,	L389		,total:78
+958,	L061		,total:8
+959,	L340		,total:122
+960,	กรีน		,cash:90
+961,	thankyou		,cash:150
+962,	L223		,total:96
+963,	L373		,total:63
+964,	L379		,total:22
+965,	L364		,total:12
+966,	L319		,total:25
+967,	L393		,total:-11
+968,	L295		,total:17
+969,	L374		,total:-8	,cash:28
+970,	L395		,total:39
+971,	L296		,total:185
+972,	L213		,total:-38
+973,	ฝน		,cash:65
+974,	L110		,total:14
+975,	L314		,total:4
+976,	Baw		,cash:40
+977,	L382		,total:67
+978,	มิ้น		,cash:183
+979,	L276		,total:45.5	,cash:91
+980,	L294		,total:75	,cash:28
+SPECIAL : 24/9/63, L223  ต่อสมาชิก 100 ชิ้น, total:99
+DATE : 22/9/63
+938,	ฟ้า		,cash:30
+939,	L283		,total:1
+940,	L223		,total:-1
+941,	L343		,total:17.5	,cash:35
+942,	L354		,total:39
+943,	L293		,total:184
+944,	L110		,total:20
+945,	L365		,total:47.5
+946,	L359		,total:44
+947,	L362		,total:108
+948,	L035		,total:129.5	,cash:141
+949,	L269		,total:24.5	,cash:151
+950,	ฟ้า		,cash:24
+951,	L392		,total:18
+952,	L370		,total:43	,cash:35
+953,	ลูกค้า		,cash:300
+DATE : 21/9/63
+926,	L351		,total:-3
+927,	L311		,total:-4.5
+928,	L377		,total:15
+929,	L035		,total:133.5
+930,	L091		,total:94
+931,	L331		,total:97.5
+932,	L333		,total:72.5
+933,	L279		,total:16
+934,	L353		,total:-6
+935,	L297		,total:35
+936,	L342		,total:27
+937,	L384		,total:57
+SPECIAL : 21/9/63, L331  ต่อสมาชิก 100 ชิ้น, total:102.5
+DATE : 20/9/63
+912,	L363		,total:45
+913,	L317		,total:16
+914,	L380		,total:44.5
+915,	L293		,total:188
+916,	L391		,total:-0.5
+917,	L312		,total:15
+918,	L340		,total:130
+919,	L378		,total:30.5
+920,	L314		,total:8
+921,	L044		,total:32
+922,	L304		,total:56	,cash:25
+923,	L362		,total:120
+924,	L035		,total:135.5
+925,	L110		,total:22
+SPECIAL : 20/9/63, L362  ต่อสมาชิก 200 ชิ้น, total:136
+DATE : 19/9/63
+892,	L373		,total:68
+893,	L370		,total:48	,cash:300
+894,	L900		,total:0
+895,	L343		,total:22
+896,	L287		,total:81	,cash:165
+897,	บอส		,cash:75
+898,	L179		,total:-17.5	,cash:84
+899,	L359		,total:52
+900,	L026		,total:33
+901,	thankyou		,cash:75
+902,	L365		,total:51
+903,	L110		,total:26
+904,	L393		,total:-2
+905,	L363		,total:51	,cash:215
+906,	L146		,total:12.5
+907,	L319		,total:28.5	,cash:150
+908,	L225		,total:-9
+909,	มะเฟือง		,cash:60
+910,	L372		,total:0
+911,	L388		,total:54
 DATE : 18/9/63
 864,	L342		,total:75
 865,	A190		,cash:248
