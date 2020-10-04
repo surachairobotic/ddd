@@ -1,3 +1,56 @@
+INITIAL 4/10/63
+0000,	L397		,total:0
+DATE : 3/10/63
+82,	L384		,total:51
+83,	L342		,total:-42.5	,cash:320
+84,	L393		,total:65
+85,	L394		,total:90
+86,	L249		,total:22
+87,	L331		,total:83.5	,cash:35
+88,	L334		,total:13
+89,	L110		,total:191
+90,	ฝน		,cash:40
+91,	L234		,total:57
+92,	L091		,total:63
+93,	L371		,total:55
+94,	อ.อ๊อด		,cash:435
+95,	L213		,total:-61
+96,	L216		,total:121
+97,	L311		,total:-18.5
+98,	L294		,total:64	,cash:84
+99,	L377		,total:-13
+100,	L369		,total:14
+101,	L319		,total:20	,cash:186
+102,	A190		,cash:333
+SPECIAL : 3/10/63, L317  ต่อสมาชิก 50 ชิ้น, total:66
+DATE : 2/9/63
+65,	L296		,total:176
+66,	L293		,total:169
+67,	ไม้หอม		,cash:135
+68,	แพรลลิตา		,cash:100
+69,	L223		,total:83
+70,	L237		,total:178
+71,	L061		,total:5
+72,	L225		,total:-18
+73,	L206		,total:-27	,cash:63
+74,	L240		,total:11
+75,	นักเรียน		,cash:60
+76,	L205		,total:11
+77,	L374		,total:66	,cash:90
+78,	มายด์		,cash:150
+79,	L297		,total:2
+80,	เจเจ		,cash:100
+81,	L283		,total:-15
+DATE : 1/10/63
+57,	L110		,total:196
+58,	L223		,total:85
+59,	L365		,total:40.5
+60,	L396		,total:83
+61,	น้ำมิ้น		,cash:14
+62,	L310		,total:50
+63,	กรีน		,cash:75
+64,	L387		,total:28
+SPECIAL : 1/10/63, L393  ต่อสมาชิก 100 ชิ้น, total:73
 DATE : 30/9/63
 53,	L390		,total:21	,cash:110
 54,	L364		,total:10
