@@ -30,24 +30,20 @@ def main():
       if vText[i].find("DATE") != -1:
         date = vText[i][:len(vText[i])-1]
       if vText[i].find(txt) != -1 and vText[i].find("total") != -1:
-        if date != "":
-          fa.writelines(date.replace("DATE : ", ""))
-          if first:
-            f.writelines(date.replace("DATE : ", ""))
         vText[i] = vText[i].replace("total", "เหลือ")
         tmpTxt = list(filter(None, re.split(r',|\n|\t| ', vText[i])))
         if tmpTxt[0] == "0000":
-          fa.writelines("," + tmpTxt[0] + tmpTxt[1] + tmpTxt[2] + '\n')
+          fa.writelines(tmpTxt[0] + tmpTxt[1] + tmpTxt[2])
           if first:
-            f.writelines("," + tmpTxt[0] + tmpTxt[1] + tmpTxt[2] + '\n')
+            f.writelines(tmpTxt[0] + tmpTxt[1] + tmpTxt[2])
         if tmpTxt[0] == 'SPECIAL':
-          fa.writelines("," + tmpTxt[3] + "ต่อ" + tmpTxt[5] + tmpTxt[7] + '\n')
+          fa.writelines(tmpTxt[3] + "ต่อ" + tmpTxt[5] + tmpTxt[7])
           if first:
-            f.writelines("," + tmpTxt[3] + "ต่อ" + tmpTxt[5] + tmpTxt[7] + '\n')
+            f.writelines(tmpTxt[3] + "ต่อ" + tmpTxt[5] + tmpTxt[7])
         else:
-          fa.writelines("," + tmpTxt[1] + "," + tmpTxt[2])
+          fa.writelines(tmpTxt[1] + "," + tmpTxt[2])
           if first:
-            f.writelines("," + tmpTxt[1] + "," + tmpTxt[2] + '\n')
+            f.writelines(tmpTxt[1] + "," + tmpTxt[2])
           if date:
             end = date.find("/63")
             if end == -1:
@@ -63,12 +59,16 @@ def main():
                 rawdata = get_rawdata(_fname[0], str("{:0>3d}".format(_id)))
                 #print(rawdata)
                 for k in range(0, len(rawdata)):
-                  fa.writelines("," + rawdata[k])
+                  fa.writelines(rawdata[k])
               else:
                 print("Error : " + target_name + ", " + str(_fname) + ", " + str("{:0>3d}".format(_id)) + ", " + date)
             else:
               print("error" + date)
-          fa.writelines('\n')
+          #fa.writelines('\n')
+        if date != "":
+          fa.writelines(',วดป' + date.replace("DATE : ", "") + '\n')
+          if first:
+            f.writelines(',วดป' + date.replace("DATE : ", "") + '\n')
 
         first=False
 

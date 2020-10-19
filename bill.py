@@ -12,7 +12,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_10_4"
+fname = "data_63_10_15"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
 
@@ -68,17 +68,17 @@ def main():
   style_a36.font.name = 'TH SarabunPSK'
   style_a36.font.size = Pt(36)
 
-  style_a34 = styles.add_style('A34', WD_STYLE_TYPE.PARAGRAPH)
-  style_a34.font.name = 'TH SarabunPSK'
-  style_a34.font.size = Pt(34)
+  style_a33 = styles.add_style('A33', WD_STYLE_TYPE.PARAGRAPH)
+  style_a33.font.name = 'TH SarabunPSK'
+  style_a33.font.size = Pt(33)
 
-  style_a31 = styles.add_style('A31', WD_STYLE_TYPE.PARAGRAPH)
-  style_a31.font.name = 'TH SarabunPSK'
-  style_a31.font.size = Pt(31)
+  style_a30 = styles.add_style('A30', WD_STYLE_TYPE.PARAGRAPH)
+  style_a30.font.name = 'TH SarabunPSK'
+  style_a30.font.size = Pt(30)
 
-  style_a28 = styles.add_style('A28', WD_STYLE_TYPE.PARAGRAPH)
-  style_a28.font.name = 'TH SarabunPSK'
-  style_a28.font.size = Pt(28)
+  style_a27 = styles.add_style('A27', WD_STYLE_TYPE.PARAGRAPH)
+  style_a27.font.name = 'TH SarabunPSK'
+  style_a27.font.size = Pt(27)
 
   style_a26 = styles.add_style('A26', WD_STYLE_TYPE.PARAGRAPH)
   style_a26.font.name = 'TH SarabunPSK'
@@ -102,7 +102,7 @@ def main():
   for j in range(len(information)):
     information[j].info = insert_space(information[j].info)
 
-  font_sz = [36, 34, 31, 28, 26, 24, 22, 20]
+  font_sz = [36, 33, 30, 27, 26, 24, 22, 20]
   lines   = [ 6,  7,  8,  9, 10, 11, 12, 14]
   charact = [16, 16, 18, 20, 22, 24]
 
