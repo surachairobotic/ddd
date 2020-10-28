@@ -1,4 +1,252 @@
-DATE : 14/10/62
+DATE : 26/10/63
+473,	อลิส		,cash:230
+474,	L223		,total:45
+475,	L390		,total:2	,cash:135
+476,	L371		,total:38
+477,	L035		,cash:155
+478,	L288		,total:46
+479,	L319		,cash:169
+480,	L363		,total:177
+481,	L110		,total:129
+SPECIAL : 26/10/63, L288  ต่อสมาชิก 50 ชิ้น, total:66
+DATE : 25/10/63
+459,	L369		,total:-3
+460,	L287		,total:26
+461,	ลูกเกด		,cash:94
+462,	L331		,total:42
+463,	L382		,total:36
+464,	L326		,total:41
+465,	L296		,total:159
+466,	L365		,total:29
+467,	L283		,total:1
+468,	L279		,total:0
+469,	ดัง		,cash:405
+470,	L206		,total:116	,cash:113
+471,	L213		,total:-113
+472,	L035		,total:36
+SPECIAL : 25/10/63, L378  ต่อสมาชิก 50 ชิ้น, total:48.5
+SPECIAL : 25/10/63, L091  ต่อสมาชิก 200 ชิ้น, total:187
+SPECIAL : 25/10/63, L358  ต่อสมาชิก 200 ชิ้น, total:163
+SPECIAL : 25/10/63, L310  ต่อสมาชิก 100 ชิ้น, total:114
+DATE : 24/10/63
+447,	ลบ	
+448,	L377		,total:6
+449,	ลูกค้า		,cash:75
+450,	L393		,cash:56
+451,	L353		,total:41
+452,	L359		,total:15
+453,	L331		,total:43
+454,	L110		,total:136
+455,	L304		,total:76
+456,	L354		,total:13
+457,	L312		,total:0
+458,	ซิน		,cash:300
+DATE : 23/10/63
+427,	ฟ้า		,cash:70
+428,	เด็กนักเรียน		,cash:85
+429,	L378		,total:-1.5
+430,	L223		,total:48
+431,	L314		,total:24
+432,	เจเจ		,cash:178
+433,	L336		,total:154
+434,	อ.อ๊อด		,cash:430
+435,	L368		,total:7
+436,	L294		,total:16	,cash:49
+437,	L216		,total:91
+438,	L362		,total:103
+439,	L297		,total:37
+440,	L333		,total:52.5
+441,	แมน		,cash:300
+442,	L356		,total:20
+443,	L091		,total:-13
+444,	L372		,total:11
+445,	L237		,total:148
+446,	สตางค์		,cash:100
+SPECIAL : 23/10/63, L351  ต่อสมาชิก 100 ชิ้น, total:55
+DATE : 22/10/63
+404,	บอสจ่ายแล้ว		,cash:25
+405,	นาย		,cash:20
+406,	L253		,total:3.5
+407,	L373		,total:44
+408,	L331		,total:47
+409,	L223		,total:51
+410,	L396		,total:44.5
+411,	L310		,total:14
+413,	L397		,total:21
+414,	L375		,total:21.5
+415,	L319		,total:6.5
+416,	L371		,total:39
+417,	L226		,total:47
+418,	L374		,total:4	,cash:56
+419,	L363		,total:180
+420,	L358		,total:-37
+421,	L340		,total:50
+422,	L321		,total:19	,cash:60
+423,	L091		,total:-10
+424,	L206		,cash:179
+425,	L370		,total:27
+426,	L386		,total:26.5
+SPECIAL : 22/10/63, L363  ต่อสมาชิก 200 ชิ้น, total:188
+DATE : 23/10/63
+384,	ฟ้า		,cash:70
+385,	เด็กนักเรียน		,cash:85
+386,	L378		,total:8.5
+387,	L223		,total:55
+388,	L314		,total:29
+389,	เจเจ		,cash:178
+390,	L336		,total:168
+391,	อ.อ๊อด		,cash:430
+392,	L368		,total:16
+393,	L294		,total:28	,cash:49
+394,	L216		,total:99
+395,	L362		,total:132
+396,	L297		,total:50
+397,	L333		,total:56.5
+398,	แมน		,cash:300
+399,	L356		,total:24
+400,	L091		,total:4
+401,	L372		,total:20
+402,	L237		,total:156
+403,	สตางค์		,cash:100
+DATE : 22/10/63
+361,	บอสจ่ายแล้ว		,cash:25
+362,	นาย		,cash:20
+363,	L253		,total:6.5
+364,	L373		,total:48
+365,	L331		,total:51.5
+366,	L223		,total:58
+367,	L396		,total:54
+368,	L310		,total:22
+369,	L317		,total:9
+370,	L397		,total:28
+371,	L375		,total:37.5
+372,	L319		,total:12
+373,	L371		,total:45.5
+374,	L226		,total:53
+375,	L374		,total:18	,cash:56
+376,	L363		,total:-12
+377,	L358		,total:-11
+378,	L340		,total:60.5
+379,	L321		,total:30	,cash:60
+380,	L091		,total:7
+381,	L206		,cash:179
+382,	L370		,total:61
+383,	L386		,total:43.5
+DATE : 20/10/63
+343,	L223		,total:62
+344,	น้ำ		,cash:45
+345,	L293		,total:142
+346,	L044		,total:8.5
+347,	L314		,total:34
+348,	L225		,total:25	,cash:280
+349,	L296		,total:164
+350,	L390		,total:9
+351,	L365		,total:31
+352,	L110		,total:144
+353,	L206		,total:127	,cash:21
+354,	L287		,total:32	,cash:293
+355,	L283		,total:8	,cash:25
+356,	L362		,total:161
+357,	L303		,total:15
+358,	L353		,total:48
+359,	L393		,cash:63
+360,	L351		,total:-45
+SPECIAL : 20/10/63, L362  ต่อสมาชิก 200 ชิ้น, total:188
+SPECIAL : 20/10/63, L269  ต่อสมาชิก 100 ชิ้น, total:64.5
+SPECIAL : 20/10/63, L370  ต่อสมาชิก 100 ชิ้น, total:95
+SPECIAL : 20/10/63, L304  ต่อสมาชิก 100 ชิ้น, total:87
+DATE : 19/10/63
+326,	L356		,total:28
+327,	L304		,total:-13
+328,	L276		,total:2.5	,cash:56
+329,	L340		,total:71
+330,	L342		,total:60.5
+331,	L392		,total:10
+332,	A190		,cash:156
+333,	L269		,total:-35.5	,cash:98
+334,	L223		,total:63
+335,	L216		,total:107
+336,	L363		,total:-4
+337,	L110		,total:150
+338,	ยูโร		,cash:590
+339,	L331		,total:56
+340,	L374		,total:32	,cash:14
+341,	L369		,total:2
+342,	L279		,total:3
+SPECIAL : 19/10/63, L342  ต่อสมาชิก 200 ชิ้น, total:125.5
+DATE :  18/10/63
+312,	L343		,total:7
+313,	L340		,total:74
+314,	พะแพง		,cash:300
+315,	L382		,total:44
+316,	L367		,total:51
+317,	L326		,total:42
+318,	L380		,total:35.5
+319,	L371		,total:52
+320,	L397		,total:35
+321,	L334		,total:10
+322,	L035		,total:52.5
+323,	L297		,total:63
+324,	ไนซ์		,cash:225
+325,	ร้านตัดผม		,cash:45
+SPECIAL :  18/10/63, L283  ต่อสมาชิก 50 ชิ้น, total:17
+SPECIAL :  18/10/63, L367  ต่อสมาชิก 50 ชิ้น, total:60
+DATE : 17/10/63
+292,	บอส		,cash:200
+293,	เจเจ		,cash:80
+294,	L331		,total:62
+295,	L091		,total:21
+296,	L205		,total:-19
+297,	L206		,total:135	,cash:82
+298,	คุณนก		,cash:400
+299,	L146		,total:6.5
+300,	L377		,total:13
+301,	L359		,total:23
+302,	L110		,total:153
+303,	L198		,total:97
+304,	L061		,total:3
+305,	L332		,total:18
+306,	L383		,total:0
+307,	L314		,total:37
+308,	L293		,total:148
+309,	L296		,total:167
+310,	L336		,total:182
+311,	L319		,cash:112
+SPECIAL : 17/10/63, L198  ต่อสมาชิก 100 ชิ้น, total:102
+DATE : 16/10/63
+275,	L373		,total:52
+276,	L223		,total:65
+277,	L385		,total:95
+278,	L055		,cash:55
+279,	L364		,total:4
+280,	L230		,total:13
+282,	L287		,total:38	,cash:228
+283,	L310		,total:30
+284,	L363		,total:3
+285,	L237		,total:164
+286,	L321		,total:41	,cash:32
+287,	มิ้น		,cash:200
+288,	L244		,total:19.5
+289,	บอส		,cash:45
+290,	เด็กนักเรียน		,cash:25
+291,	L900		,total:13
+SPECIAL : 16/10/63, L390  ต่อสมาชิก 30 ชิ้น, total:24
+DATE : 15/10/63
+261,	L374		,total:36	,cash:95
+262,	L362		,total:-12
+263,	L223		,total:67
+264,	การ์ดรับจันทร์		,cash:25
+265,	L226		,total:59
+266,	สตางค์รับจันทร์		,cash:25
+267,	L251		,total:21
+268,	อีฟ		,cash:20
+269,	นิ่ม		,cash:45
+270,	L396		,total:63.5
+271,	L294		,total:40	,cash:67
+272,	L333		,total:60.5
+273,	L110		,total:158
+274,	L283		,total:-33
+DATE : 14/10/63
 252,	L314		,total:42
 253,	L392		,total:13
 254,	L379		,total:17
