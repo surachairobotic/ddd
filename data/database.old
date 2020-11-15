@@ -1,3 +1,87 @@
+DATE : 12/11/63ชุดที่2
+664,	L223		,total:36
+665,	L310		,total:89
+DATE : 12/11/63
+652,	L388		,total:19
+653,	L349		,total:163
+654,	L296		,total:145
+655,	พาส		,cash:660
+656,	L333		,total:42.5
+657,	L331		,total:18.5
+658,	L393		,cash:63
+659,	L321		,total:12	,cash:74
+660,	L372		,total:12
+661,	ดัง		,cash:449
+662,	L343		,total:24	,cash:35
+663,	L206		,total:66	,cash:36
+SPECIAL : 12/11/63, L354  ต่อสมาชิก 100 ชิ้น, total:105
+SPECIAL : 12/11/63, L230  ต่อสมาชิก 100 ชิ้น, total:101
+SPECIAL : 12/11/63, L343  ต่อสมาชิก 30 ชิ้น, total:29.5
+DATE : 10/11/63
+635,	L279		,total:22
+636,	L297		,total:1
+637,	L035		,total:-0.5	,cash:14
+638,	L362		,total:34
+639,	L110		,total:94
+640,	หยิน		,cash:40
+641,	L287		,total:-13	,cash:17
+643,	L365		,total:24.5
+644,	L314		,total:10
+645,	L296		,total:147
+646,	L367		,total:16
+647,	ปาย		,cash:110
+648,	L399		,total:41
+650,	L198		,total:52
+SPECIAL : 10/11/63, L399  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 10/11/63
+0000,	L399		,total:0
+DATE : 9/11/63
+625,	L900		,total:96
+626,	L216		,total:90
+627,	L370		,total:-1	,cash:151
+628,	L371		,total:34.5
+629,	L377		,total:68
+630,	L374		,total:70	,cash:56
+631,	L311		,total:-3.5
+632,	L179		,total:0	,cash:42
+633,	L044		,total:49.5
+634,	L319		,total:8.5	,cash:130
+SPECIAL : 9/11/63, L044  ต่อสมาชิก 50 ชิ้น, total:52.5
+DATE : 8/11/63
+614,	L230		,total:1
+615,	L353		,total:21
+616,	A190		,cash:170
+617,	L380		,total:31.5
+618,	สปาย		,cash:450
+619,	อิง		,cash:250
+620,	ต้นข้าว		,cash:150
+621,	ลูกเกด		,cash:10
+622,	L382		,total:25
+623,	L393		,total:32
+624,	L110		,total:104
+DATE : 7/11/63
+593,	L359		,total:-1
+594,	L362		,total:50
+595,	L283		,total:-22
+596,	L234		,total:48
+597,	TO		,cash:50
+598,	L091		,total:159
+599,	L363		,total:156
+600,	L251		,total:6
+601,	L293		,total:120
+602,	L356		,total:14
+603,	L314		,total:14
+604,	อ.อ๊อด		,cash:360
+605,	L206		,total:81	,cash:68
+606,	L206		,cash:105
+607,	L336		,total:130
+608,	L313		,total:-13.5
+610,	L363		,cash:225
+611,	บอส		,cash:45
+612,	L304		,total:47
+613,	การ์ตูนจ่ายแล้ว		,cash:201
+SPECIAL : 7/11/63, L377  ต่อสมาชิก 100 ชิ้น, total:81
+SPECIAL : 7/11/63, L383  ต่อสมาชิก 30 ชิ้น, total:21
 DATE : 6/11/63
 575,	L364		,total:2
 576,	L110		,total:105
@@ -28,7 +112,6 @@ DATE : 5/11/63
 570,	L377		,total:-19
 571,	L371		,total:37.5
 572,	L110		,total:107
-573,	L297		,total:15
 574,	L333		,total:47.5
 DATE : 4/11/63
 551,	L287		,total:11	,cash:249
