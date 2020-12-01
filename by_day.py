@@ -78,7 +78,14 @@ def read_info(_fname):
     if line.find("++") == -1:
       if line[len(line)-1] == '\n':
         line = line[:len(line)-1]
-      data.append(line)
+      focus = ['340', '301', '276', '370', '900']
+      b_save = False
+      for x in focus:
+        if line.find(x) != -1:
+            b_save = True
+            break
+      if b_save:
+        data.append(line)
       #print(line)
 
   information = []

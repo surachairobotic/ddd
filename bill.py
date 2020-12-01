@@ -12,7 +12,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_11_23"
+fname = "data_63_11_30"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
 
