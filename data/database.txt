@@ -1,3 +1,18 @@
+DATE : 01/12/63
+907,	L310		,total:74.5
+908,	L035		,total:43.5
+909,	L206		,total:11	,cash:28
+910,	L283		,total:1
+911,	L223		,total:104
+912,	L342		,total:-11.5	,cash:620
+913,	L279		,total:10
+914,	L297		,total:39
+915,	L900		,total:149	,cash:35
+916,	L179		,total:64	,cash:150
+917,	L296		,total:130
+918,	L374		,total:23	,cash:54
+919,	L293		,total:96
+920,	L700		,total:80.5	,cash:84
 DATE : 30/11/63
 903,	L223		,total:106
 904,	L110		,total:33
