@@ -1,3 +1,208 @@
+DATE : 17/12/63
+60,	L393		,cash:70
+61,	L342		,total:-93.5
+62,	L226		,total:24.5
+63,	L363		,total:66
+64,	L377		,total:19
+65,	L279		,total:5.5
+66,	L216		,total:53
+67,	L900		,total:80
+68,	L362		,total:107
+69,	L091		,total:52
+70,	L283		,total:-22
+71,	L287		,total:115	,cash:35
+72,	L319		,total:94	,cash:143
+DATE : 15/12/63
+50,	L223		,total:91
+51,	L371		,total:1.5
+52,	L386		,total:11	,cash:212
+53,	L206		,total:176	,cash:68
+54,	L333		,total:7.5
+55,	L310		,total:59
+56,	L331		,total:-5.5
+57,	L382		,total:1.5
+58,	L287		,cash:89
+59,	หอในm1		,cash:120
+DATE : 14/12/63
+35,	L349		,total:122
+36,	การ์ตูนจ่ายแล้ว	
+37,	L301		,total:9	,cash:80
+38,	L700		,total:54.5	,cash:81
+39,	K.นก		,cash:500
+40,	L091		,total:66
+41,	L283		,total:-20
+42,	L223		,total:94
+43,	L035		,total:3.5	,cash:63
+44,	L251		,total:15
+45,	L331		,total:-1
+46,	L044		,total:6
+47,	L404		,total:162
+48,	L110		,total:-1
+49,	L365		,total:-1	,cash:35
+SPECIAL : 14/12/63, L404  ต่อสมาชิก 200 ชิ้น, total:200
+INITIAL 14/12/63
+0000,	L404		,total:0
+DATE : 13/12/63
+30,	L353		,total:37
+31,	L198		,total:6
+32,	บิ๊ก		,cash:550
+33,	L346		,total:33
+34,	L297		,total:-4
+SPECIAL : 13/12/63, L374  ต่อสมาชิก 100 ชิ้น, total:99
+SPECIAL : 13/12/63, L353  ต่อสมาชิก 50 ชิ้น, total:42
+SPECIAL : 13/12/63, L403  ต่อสมาชิก 30 ชิ้น, total:30
+INITIAL 13/12/63
+0000,	L403		,total:0
+DATE : 12/12/63
+17,	น		,cash:25
+18,	L332		,total:33
+19,	L367		,total:8
+20,	กอล์ฟ		,cash:250
+21,	L378		,total:38.5
+22,	L334		,total:-3
+23,	L326		,total:37
+24,	L225		,total:-7
+25,	L287		,total:125	,cash:136
+26,	L393		,cash:63
+27,	เนย		,cash:45
+28,	L110		,total:6
+29,	L400		,total:61
+DATE : 11/12/63
+1,	นาย		,cash:25
+2,	L371		,total:4.5
+3,	กรีน		,cash:25
+4,	L283		,total:-13
+5,	L237		,total:105
+6,	L365		,cash:100
+7,	L343		,total:8.5
+8,	L179		,total:37
+9,	L226		,total:29.5
+10,	L363		,total:80
+11,	L358		,total:147
+12,	L369		,total:21.5
+13,	นักเรียน		,cash:65
+14,	L146		,total:1.5	,cash:145
+15,	L213		,total:-23
+16,	ลุง		,cash:20
+DATE : 10/12/63
+1001,	L312		,total:10
+1002,	L700		,total:59.5	,cash:77
+1003,	ไม้หอมจ่ายแล้วโอนเข้าบช10/12/63		,cash:327
+1004,	L402		,total:-0.5
+1005,	L372		,total:0
+1006,	L110		,total:10
+1007,	L206		,total:188	,cash:43
+1008,	L091		,total:77.5
+1009,	L249		,total:18
+1010,	L310		,total:65.5
+1011,	BMW		,cash:40
+1012,	น้ำฝน		,cash:250
+1013,	L035		,cash:150
+1014,	ลุง		,cash:50
+1015,	อ.อ๊อด		,cash:377
+1016,	L283		,total:-9
+1017,	L269		,total:63.5	,cash:156
+SPECIAL : 10/12/63, L206  ต่อสมาชิก 200 ชิ้น, total:201
+SPECIAL : 10/12/63, L269  ต่อสมาชิก 100 ชิ้น, total:86.5
+DATE : 7/12/63
+981,	L258		,total:-50
+982,	L319		,total:97.5	,cash:169
+983,	L334		,total:0
+984,	L389		,total:75
+985,	L223		,total:95
+986,	L287		,total:135	,cash:84
+987,	นีร		,cash:351
+988,	L293		,total:92
+989,	L392		,total:45
+990,	L333		,total:15
+991,	L251		,total:20
+992,	L110		,total:14
+993,	L374		,total:-1	,cash:68
+994,	L370		,total:19
+995,	L223		,total:97
+996,	L359		,total:60
+997,	L179		,total:50	,cash:95
+998,	L362		,total:131
+999,	L293		,total:94
+1000,	L363		,total:86
+1001,	กรีน		,cash:40
+1002,	L035		,total:25
+1003,	L240		,total:8
+1004,	L223		,total:94
+1005,	L900		,total:101
+1006,	L340		,total:65
+1007,	L206		,total:1
+SPECIAL : 7/12/63, L319  ต่อสมาชิก 100 ชิ้น, total:100
+SPECIAL : 7/12/63, L402  ต่อสมาชิก 30 ชิ้น, total:30
+INITIAL 07/12/63
+0000,	L402		,total:0
+DATE : 6/12/63
+968,	พะแพง		,cash:300
+969,	พีระพัฒน์		,cash:200
+970,	L396		,total:22.5
+971,	L377		,total:37
+972,	L374		,total:11	,cash:35
+973,	L297		,total:19
+974,	L230		,total:82
+975,	เพื่อน230		,cash:40
+976,	L353		,total:-8
+977,	L354		,total:83
+978,	L363		,total:91	,cash:295
+979,	L385		,total:68	,cash:117
+980,	L400		,total:74
+DATE : 5/12/63
+957,	L240		,total:10
+958,	L387		,total:5
+959,	L198		,total:17
+960,	L362		,total:143
+961,	L091		,total:88
+963,	M1		,cash:145
+964,	L216		,total:58
+965,	L336		,total:50
+966,	L314		,total:47
+SPECIAL : 5/12/63, L314  ต่อสมาชิก 50 ชิ้น, total:52
+SPECIAL : 5/12/63, L340  ต่อสมาชิก 100 ชิ้น, total:74.5
+DATE : 04/12/63
+934,	L244		,total:-0.5
+935,	L237		,total:110
+EDIT : L283 แก้จากวันที่1/12/63คิดกาวน์เกิน1ตัว,total:-3
+936,	L283		,total:-5
+937,	นักเรียน		,cash:60
+938,	L296		,total:125
+939,	L044		,total:12.5
+940,	L223		,total:99
+941,	L401		,total:0
+942,	L179		,total:62
+943,	L026		,total:18
+944,	บอส		,cash:75
+945,	L365		,total:7
+946,	L380		,total:27.5
+947,	กรีน		,cash:150
+EDIT : L700 แก้จากวันที่4/12/63คิดกระโปรงเกิน1ตัว,total:78.5
+948,	L700		,total:77.5	,cash:67
+949,	L375		,total:-20.5
+950,	L205		,total:46
+951,	L371		,total:9
+952,	L110		,total:22
+953,	L393		,total:2
+954,	L321		,total:31
+955,	L297		,total:30
+956,	L369		,total:25.5
+SPECIAL : 04/12/63, L321  ต่อสมาชิก 50 ชิ้น, total:42
+DATE : 03/12/63
+921,	L365		,total:9
+922,	L234		,total:39.5
+923,	L396		,total:27.5
+924,	L358		,total:155
+925,	ลูกเกด		,cash:66
+926,	A190		,cash:85
+927,	L296		,total:127
+928,	L333		,total:22
+929,	แพร		,cash:40
+930,	L287		,total:145	,cash:183
+931,	L226		,total:35.5
+932,	L294		,total:74	,cash:35
+933,	L091		,total:93.5
 DATE : 01/12/63
 907,	L310		,total:74.5
 908,	L035		,total:43.5
@@ -193,7 +398,7 @@ DATE : 20/11/63
 768,	L363		,total:122
 769,	L206		,total:44	,cash:75
 770,	k.ฝน		,cash:300
-DATE : 17-19/11/63
+DATE : 19/11/63
 732,	L223		,total:26
 733,	L356		,total:5	,cash:25
 734,	L293		,total:112
@@ -221,9 +426,9 @@ DATE : 17-19/11/63
 756,	L223		,total:25
 757,	L237		,total:128
 758,	L370		,total:74	,cash:100
-SPECIAL : 17-19/11/63, L297  ต่อสมาชิก 100 ชิ้น, total:87
-SPECIAL : 17-19/11/63, L294  ต่อสมาชิก 100 ชิ้น, total:100
-SPECIAL : 17-19/11/63, L311  ต่อสมาชิก 50 ชิ้น, total:37.5
+SPECIAL : 19/11/63, L297  ต่อสมาชิก 100 ชิ้น, total:87
+SPECIAL : 19/11/63, L294  ต่อสมาชิก 100 ชิ้น, total:100
+SPECIAL : 19/11/63, L311  ต่อสมาชิก 50 ชิ้น, total:37.5
 DATE : 16/11/63
 719,	L216		,total:80
 720,	L276		,total:43.5	,cash:7
@@ -239,7 +444,7 @@ DATE : 16/11/63
 730,	L205		,total:72
 731,	L258		,total:-27	,cash:260
 SPECIAL : 16/11/63, L035  ต่อสมาชิก 100 ชิ้น, total:99.5
-DATE : 14-15/11/63
+DATE : 15/11/63
 688,	L321		,total:5
 689,	L314		,total:4
 690,	L216		,total:84
@@ -280,12 +485,12 @@ DATE : 14-15/11/63
 727,	L900		,total:59
 728,	จินA2		,cash:330
 729,	สปายC8		,cash:150
-SPECIAL : 14-15/11/63, L359  ต่อสมาชิก 100 ชิ้น, total:99
-SPECIAL : 14-15/11/63, L342  ต่อสมาชิก 200 ชิ้น, total:155.5
-SPECIAL : 14-15/11/63, L370  ต่อสมาชิก 100 ชิ้น, total:99
-SPECIAL : 14-15/11/63, L388  ต่อสมาชิก 100 ชิ้น, total:119
-SPECIAL : 14-15/11/63, L287  ต่อสมาชิก 200 ชิ้น, total:187
-SPECIAL : 14-15/11/63, L283  ต่อสมาชิก 50 ชิ้น, total:28
+SPECIAL : 15/11/63, L359  ต่อสมาชิก 100 ชิ้น, total:99
+SPECIAL : 15/11/63, L342  ต่อสมาชิก 200 ชิ้น, total:155.5
+SPECIAL : 15/11/63, L370  ต่อสมาชิก 100 ชิ้น, total:99
+SPECIAL : 15/11/63, L388  ต่อสมาชิก 100 ชิ้น, total:119
+SPECIAL : 15/11/63, L287  ต่อสมาชิก 200 ชิ้น, total:187
+SPECIAL : 15/11/63, L283  ต่อสมาชิก 50 ชิ้น, total:28
 DATE : 13/11/63
 666,	L339		,total:38
 667,	L091		,total:143.5

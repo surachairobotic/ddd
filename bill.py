@@ -3,6 +3,7 @@ from os.path import isfile, join
 
 import math
 import os
+import sys
 
 from docx import Document
 from docx.shared import Mm, Pt
@@ -12,13 +13,14 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.drive import GoogleDrive
 
 fpath = "data/"
-fname = "data_63_12_01"
+fname = "data_63_12_11"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
 
-def main():
+def main(_fname):
   global fpath, fname, date
 
+  fname = _fname
   f_tmp1 = open(str(fpath+"database.tmp1"), "w", encoding="utf8")
   f_tmp1.close()
 
@@ -212,6 +214,7 @@ def main():
 #      print('Title: %s, ID: %s' % (file['title'], file['id']))
 
 def get_date():
+  global fname
   f_data = open(str(fpath+fname+".txt"), "r", encoding="utf8")
   _date = f_data.readline()
   f_data.close()
@@ -222,6 +225,7 @@ def get_date():
   return _date
 
 def total_expand(_date):
+  global fname
   f_data = open(str(fpath+fname+".txt"), "r", encoding="utf8")
   f_tmp1 = open(str(fpath+"database.tmp1"), "a", encoding="utf8")
 
@@ -272,6 +276,7 @@ def get_seq():
   return _max
 
 def read_info():
+  global fname
   f = open(str(fpath+fname+".txt"), "r", encoding="utf8")
   lines = f.readlines()
   f.close()
@@ -449,7 +454,18 @@ def float_to_string(_num):
     _num = int(_num)
   return str(_num)
 
-if __name__ == '__main__':
-  main()
+if __name__ == '__main__':  
+  print('Number of arguments: ' + str(len(sys.argv)))
+  print('Argument List: ' + str(sys.argv))
+  
+  if len(sys.argv) > 1:
+    if sys.argv[1].find('data/data_6') != -1:
+      _fname = sys.argv[1][5:-4]
+      print(_fname)
+      main(_fname)
+    else:
+      print("if sys.argv[1].find('data/data_6') != -1 is FALSE")
+  else:
+    print("if len(sys.argv) > 1 is FALSE")
 
 
