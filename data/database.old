@@ -1,5 +1,22 @@
+INITIAL 18/12/63
+0000,	L405		,total:0
+DATE : 17/12/63
+60,	L393		,cash:70
+61,	L342		,total:-93.5
+62,	L226		,total:24.5
+63,	L363		,total:66
+64,	L377		,total:19
+65,	L279		,total:5.5
+66,	L216		,total:53
+67,	L900		,total:80
+68,	L362		,total:107
+69,	L091		,total:52
+70,	L283		,total:-22
+71,	L287		,total:115	,cash:35
+72,	L319		,total:94	,cash:143
 DATE : 15/12/63
 50,	L223		,total:91
+EDIT : L371 แก้จากวันที่15/12/63ส3กปพ1*1.5,total:-3
 51,	L371		,total:1.5
 52,	L386		,total:11	,cash:212
 53,	L206		,total:176	,cash:68
