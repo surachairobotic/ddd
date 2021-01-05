@@ -1,3 +1,107 @@
+DATE : 29/12/63
+149,	บอย		,cash:250
+150,	L035		,total:-47	,cash:113
+151,	L091		,total:30
+152,	L700		,total:45.5	,cash:28
+153,	L362		,total:80
+154,	L363		,total:41
+155,	L403		,total:20
+156,	L405		,total:42
+DATE : 28/12/63
+146,	L287		,total:92
+147,	L283		,total:1
+148,	L091		,total:35.5
+DATE : 26/12/63
+134,	L370		,total:73	,cash:48
+135,	L359		,total:34
+136,	อ.อ๊อด		,cash:285
+137,	คุณฝนรับอังคาร		,cash:300
+EDIT : L349 แก้จากวันที่10/10/63เพิ่มสมาชิกเกิน100ชิ้น,total:5
+138,	L349		,total:105
+139,	L110		,total:21
+140,	L363		,total:49
+141,	L353		,total:23
+142,	L297		,total:-60
+143,	L406		,total:21
+144,	L354		,total:66
+145,	L206		,total:141	,cash:21
+SPECIAL : 26/12/63, L342  ต่อสมาชิก 100 ชิ้น, total:6.5
+DATE : 25/12/63
+123,	L369		,total:19.5
+124,	L377		,total:9
+125,	L363		,total:52
+126,	L110		,total:24
+127,	L206		,total:149	,cash:89
+128,	L340		,total:36
+129,	L223		,total:179
+130,	L405		,total:44
+131,	L406		,total:23
+132,	L035		,total:-23.5
+133,	L403		,total:23
+SPECIAL : 25/12/63, L370  ต่อสมาชิก 100 ชิ้น, total:89
+DATE : 24/12/63
+117,	A190		,cash:247
+118,	นักเรียน		,cash:20
+119,	L287		,total:101	,cash:117
+120,	L363		,total:56
+121,	L283		,total:12
+122,	L362		,total:99
+SPECIAL : 24/12/63, L223  ต่อสมาชิก 100 ชิ้น, total:183
+SPECIAL : 24/12/63, L110  ต่อสมาชิก 50 ชิ้น, total:37
+SPECIAL : 24/12/63, L406  ต่อสมาชิก 30 ชิ้น, total:30
+INITIAL 24/12/63
+0000,	L406		,total:0
+DATE : 22/12/63
+113,	L223		,total:83
+114,	L297		,total:-46	,cash:25
+115,	ลุง		,cash:25
+116,	L351		,total:-23
+DATE : 21/12/63
+103,	L213		,total:40
+104,	L258		,total:26	,cash:425
+105,	L297		,total:-26
+106,	L226		,total:20.5
+107,	L287		,total:107	,cash:60
+108,	L900		,total:13
+109,	L110		,total:-13
+110,	L223		,total:85
+111,	L179		,total:10
+112,	L392		,total:43
+SPECIAL : 21/12/63, L258  ต่อสมาชิก 100 ชิ้น, total:50
+DATE : 20/12/63
+85,	อ.อ๊อด		,cash:440
+86,	L370		,total:-11
+87,	L359		,total:43
+88,	L213		,total:48
+89,	L110		,total:-11
+90,	แนน		,cash:239
+91,	L091		,total:49.5
+92,	L283		,total:21
+93,	L354		,total:74
+94,	เคน		,cash:120
+95,	L206		,cash:35
+96,	L216		,total:49
+97,	L213		,total:57
+98,	L387		,total:2
+99,	L340		,total:42.5
+100,	L353		,total:30
+101,	L363		,total:60
+102,	L310		,total:51
+SPECIAL : 20/12/63, L213  ต่อสมาชิก 100 ชิ้น, total:77
+SPECIAL : 20/12/63, L283  ต่อสมาชิก 50 ชิ้น, total:28
+DATE : 18/12/63
+73,	L405		,total:46
+74,	มิ้น0914495941		,cash:80
+75,	ลุง		,cash:40
+76,	L404		,total:154.5
+77,	L205		,total:30
+78,	L216		,cash:150
+79,	L110		,total:-9
+80,	L223		,total:87
+81,	L368		,total:21.5
+82,	นักเรียน		,cash:60
+83,	L403		,total:25
+84,	L206		,total:164	,cash:215
 SPECIAL : 18/12/63, L405  ต่อสมาชิก 50 ชิ้น, total:50
 SPECIAL : 18/12/63, L334  ต่อสมาชิก 50 ชิ้น, total:47
 INITIAL 18/12/63
@@ -12,6 +116,7 @@ DATE : 17/12/63
 66,	L216		,total:53
 67,	L900		,total:80
 68,	L362		,total:107
+EDIT : L091 แก้จากวันที่17/12/638คิดกระโปรงพีทเกิน2ตัว3ชิ้น,total:55
 69,	L091		,total:52
 70,	L283		,total:-22
 71,	L287		,total:115	,cash:35
