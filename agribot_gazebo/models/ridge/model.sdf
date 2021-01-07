@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name='ridge'>
+    <static>true</static>
+    <pose>0 0 0.0 0 -0 0</pose>
+    <link name='ridge'>
+      <pose>5 0 -0.65 0 1.5707 0</pose>
+      <visual name='visual'>
+        <geometry>
+          <cylinder>
+            <radius>0.9</radius>
+            <length>10.0</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>1.0 0.7 0.5 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 0</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
