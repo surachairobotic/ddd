@@ -1,3 +1,43 @@
+DATE : 10/1/64 
+190,	L362		,total:59
+191,	L287		,total:63	,cash:68
+192,	L319		,total:90	,cash:265
+193,	L213		,total:8
+DATE : 9/1/64
+185,	L230		,total:79	,cash:150
+186,	L363		,total:15
+187,	L283		,total:-18
+188,	L035		,total:-68
+189,	L110		,total:-5
+DATE : 8/1/64
+176,	L287		,total:65	,cash:21
+177,	L406		,total:12
+178,	L405		,total:38
+179,	L206		,total:109	,cash:82
+180,	L370		,total:53	,cash:96
+181,	L283		,total:-16
+182,	L179		,total:76.5
+183,	L403		,total:12
+184,	L359		,total:21
+SPECIAL : 8/1/64, L179  ต่อสมาชิก 100 ชิ้น, total:78.5
+DATE : 7/1/63
+170,	L900		,total:146
+171,	L406		,total:14
+172,	L363		,total:24
+173,	นักเรียน		,cash:60
+174,	L287		,total:70
+175,	อ.อ๊อด		,cash:400
+DATE : 5/1/64
+164,	ทิวจ่ายแล้ว		,cash:180
+165,	L407		,total:44
+166,	L359		,total:27
+167,	L353		,total:13
+168,	L700		,total:25.5	,cash:77
+169,	L258		,total:9	,cash:585
+SPECIAL : 5/1/64, L900  ต่อสมาชิก 200 ชิ้น, total:213
+SPECIAL : 5/1/64, L407  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 05/01/64
+0000,	L407		,total:0
 DATE : 4/1/63
 157,	L179		,total:-21.5	,cash:101
 158,	L287		,total:80
