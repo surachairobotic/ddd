@@ -79,15 +79,15 @@ private:
       _x = pc->points[i].x;
       _y = pc->points[i].y;
       _z = pc->points[i].z;
-      pc->points[i].x = (_x * this->rot1->getRow(0).x()) + 
-                        (_y * this->rot1->getRow(0).y()) +
-                        (_z * this->rot1->getRow(0).z());// + 0.45;
-      pc->points[i].y = (_x * this->rot1->getRow(1).x()) + 
-                        (_y * this->rot1->getRow(1).y()) +
-                        (_z * this->rot1->getRow(1).z());
-      pc->points[i].z = (_x * this->rot1->getRow(2).x()) + 
-                        (_y * this->rot1->getRow(2).y()) +
-                        (_z * this->rot1->getRow(2).z());// + 1.5;
+      pc->points[i].x = (_x * this->inv1->getRow(0).x()) + 
+                        (_y * this->inv1->getRow(0).y()) +
+                        (_z * this->inv1->getRow(0).z());// + 0.45;
+      pc->points[i].y = (_x * this->inv1->getRow(1).x()) + 
+                        (_y * this->inv1->getRow(1).y()) +
+                        (_z * this->inv1->getRow(1).z());
+      pc->points[i].z = (_x * this->inv1->getRow(2).x()) + 
+                        (_y * this->inv1->getRow(2).y()) +
+                        (_z * this->inv1->getRow(2).z());// + 1.5;
       if(pc->points[i].x<x[0])
         x[0]=pc->points[i].x;
       if(pc->points[i].y<y[0])
