@@ -1,4 +1,58 @@
-DATE : 10/1/64 
+DATE : 17/1/63
+231,	L406		,cash:100
+232,	L287		,total:53	,cash:28
+233,	นักเรียน		,cash:25
+234,	L297		,total:11
+235,	L363		,total:-1
+236,	L353		,total:-3
+237,	L358		,total:138
+DATE : 17/1/64
+228,	อ.อ๊อด		,cash:395
+229,	L314		,total:42
+230,	L206		,total:85	,cash:68
+DATE : 16/1/64
+218,	L900		,total:114
+219,	L700		,total:-1	,cash:116
+220,	L370		,total:38	,cash:78
+221,	L362		,total:42
+222,	L406		,total:6
+223,	L314		,total:43
+224,	L110		,total:76
+225,	L283		,total:23
+226,	L213		,total:-26	,cash:100
+227,	L348		,total:34
+DATE : 15/1/64
+213,	L179		,total:58.5	,cash:285
+214,	L403		,total:6
+215,	L091		,total:20
+216,	L405		,total:34
+217,	L359		,total:8
+DATE : 12/1/64
+202,	L369		,total:17.5
+203,	L206		,total:97	,cash:21
+204,	L035		,total:126
+205,	L205		,total:15
+206,	K.ฝน		,cash:400
+207,	L287		,total:55	,cash:61
+209,	L110		,total:80
+210,	L363		,total:4
+211,	L359		,total:13
+212,	L406		,total:8
+SPECIAL : 12/1/64, L035  ต่อสมาชิก 200 ชิ้น, total:132
+SPECIAL : 12/1/64, L283  ต่อสมาชิก 50 ชิ้น, total:32
+DATE : 11/1/64
+194,	L353		,total:4
+195,	L387		,total:46
+196,	L297		,total:30
+197,	L354		,total:60
+198,	ลุง		,cash:25
+199,	L349		,total:-15
+200,	L404		,total:148.5
+201,	L110		,total:89
+SPECIAL : 11/1/64, L110  ต่อสมาชิก 100 ชิ้น, total:95
+SPECIAL : 11/1/64, L297  ต่อสมาชิก 100 ชิ้น, total:40
+SPECIAL : 11/1/64, L387  ต่อสมาชิก 50 ชิ้น, total:52
+DATE : 10/1/64
 190,	L362		,total:59
 191,	L287		,total:63	,cash:68
 192,	L319		,total:90	,cash:265
