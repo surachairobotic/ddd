@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 
-fpath = "data/"
+fpath = "data_63/"
 fname = "database.txt"
 
 def main():
