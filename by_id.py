@@ -4,11 +4,13 @@ from os import listdir
 from os.path import isfile, join
 
 
-fpath = "data_63/"
+fpath = ["data_64/", "data_63/", "data_62/"]
 fname = "database.txt"
 
 def main():
-  filenames = [f for f in listdir(fpath) if isfile(join(fpath, f)) and f.find("_6") != -1]
+  filenames = []
+  for i in range(len(fpath)):
+    filenames += [f for f in listdir(fpath[i]) if isfile(join(fpath[i], f)) and f.find("_6") != -1]
   print(filenames)
 
   vText = get_all_database()
@@ -17,8 +19,8 @@ def main():
   #vText = del_list_numpy(vText, 213)
   #exit()
 
-  f = open(str(fpath+"database_by_id.txt"), "w")  
-  fa = open(str(fpath+"database_by_id_all.txt"), "w")  
+  f = open(str(fpath[0]+"database_by_id.txt"), "w")  
+  fa = open(str(fpath[0]+"database_by_id_all.txt"), "w")  
   for _id in range(0, 999):
     txt = "L"+"{:0>3d}".format(_id)
     #f.writelines("-----  "+txt+"  -----\n")
@@ -45,9 +47,11 @@ def main():
           if first:
             f.writelines(tmpTxt[1] + "," + tmpTxt[2])
           if date:
-            end = date.find("/63")
+            end = date.find("/64")
             if end == -1:
-              end = date.find("/62")
+              end = date.find("/63")
+              if end == -1:
+                end = date.find("/62")
             if end != -1:
               #print(date + " : " + date[7:] + " : " + str(end) + " : " + date[7:end+3])
               tmpTxt = list(filter(None, re.split(r'/', date[7:end+3])))
@@ -85,7 +89,7 @@ def del_list_numpy(l, id_to_del):
 def get_all_database():
   global fpath, fname
 
-  f = open(str(fpath+fname), "r")  
+  f = open(str(fpath[0]+fname), "r")  
   data = []
   for txt in f.readlines():
     #data.append(list(filter(None, re.split(r',|\n|\t| ', txt))))
@@ -111,12 +115,15 @@ def some_id(_id):
   f.close()
 
 def get_rawdata(_fname, _id):
-  ff = open(str(fpath+_fname), "r")
   res = []
-  for txt in ff.readlines():
-    if txt.find(_id) != -1:
-      txt = txt.replace(str(_id+' '), "")
-      res.append(txt.replace('\n', ""))
+  for i in range(len(fpath)):
+    if _fname.find(fpath[i][:-1]) != -1:
+      ff = open(str(fpath[i]+_fname), "r")
+      for txt in ff.readlines():
+        if txt.find(_id) != -1:
+          txt = txt.replace(str(_id+' '), "")
+          res.append(txt.replace('\n', ""))
+      ff.close()
   return res
 
 if __name__ == '__main__':

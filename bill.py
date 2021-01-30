@@ -12,8 +12,8 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
 
-fpath = "data/"
-fname = "data_63_1_17"
+fpath = "data_64/"
+fname = "data_63_1_23"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
 
@@ -459,9 +459,9 @@ if __name__ == '__main__':
   print('Argument List: ' + str(sys.argv))
   
   if len(sys.argv) > 1:
-    if sys.argv[1].find('data/data_6') != -1:
-      _fname = sys.argv[1][5:-4]
-      print(_fname)
+    if sys.argv[1].find('data_64/data_64_') != -1:
+      _fname = sys.argv[1][8:-4]
+      print("fname: " + _fname)
       main(_fname)
     else:
       print("if sys.argv[1].find('data/data_6') != -1 is FALSE")
