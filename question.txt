@@ -1,0 +1,15 @@
+. install/setup.bash ?
+
+Step by Step:
+source /usr/share/gazebo/setup.sh
+ros2 launch agribot_gazebo tf_camera.launch.py
+gazebo --verbose ~/ros2_ws/src/agribot/agribot_gazebo/worlds/small.world
+rviz2 ~/ros2_ws/src/agribot/rviz/agribot.rviz
+ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:=/agribot/cmd_vel
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 world odom
+
+
+Using Rosbag:
+rviz2 ~/ros2_ws/src/agribot/rviz/agribot.rviz
+ros2 bag play rosbag2_2021_01_12-16_26_46/
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 world odom
