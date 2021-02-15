@@ -26,7 +26,7 @@ public:
     this->rot2 = new tf2::Matrix3x3(*qBase2);
     this->inv1 = new tf2::Matrix3x3(this->rot1->inverse());
     this->inv2 = new tf2::Matrix3x3(this->rot2->inverse());
-    this->rot3 = new tf2::Matrix3x3((*inv2)*(*inv1));
+    this->rot3 = new tf2::Matrix3x3((*rot1));
     publisher_ = this->create_publisher<sensor_msgs::msg::PointCloud>("/agribot/pc", 10);
     subscription_ = this->create_subscription<sensor_msgs::msg::PointCloud2>(
       "/agribot/camera/rs_front/points", 10, std::bind(&LaneDetection::pc_cb, this, _1));
@@ -67,27 +67,28 @@ private:
   }
   
   void pc2_to_pc(void) {
-    RCLCPP_INFO(this->get_logger(), "pc2_to_pc : start");
-    RCLCPP_INFO(this->get_logger(), "frame_id : %s", pc2->header.frame_id.c_str());    
+    RCLCPP_INFO(this->get_logger(), "pc2_to_pc : start 4");
+    RCLCPP_INFO(this->get_logger(), "pc2 frame_id : %s", pc2->header.frame_id.c_str());    
     sensor_msgs::convertPointCloud2ToPointCloud(*pc2, *pc);
-    RCLCPP_INFO(this->get_logger(), "frame_id : %s", pc->header.frame_id.c_str());    
+    pc->header.frame_id = "world";
+    RCLCPP_INFO(this->get_logger(), "pc frame_id : %s", pc->header.frame_id.c_str());    
     double x[2]={9999.99, 0.0}, y[2]={9999.99, 0.0}, z[2]={9999.99, 0.0}, _x, _y, _z;
-    RCLCPP_INFO(this->get_logger(), "%lf, %lf, %lf", pc->points[0].x, pc->points[0].y, pc->points[0].z);    
+    //RCLCPP_INFO(this->get_logger(), "%lf, %lf, %lf", pc->points[0].x, pc->points[0].y, pc->points[0].z);    
     for(unsigned int i=0; i<pc->points.size(); ++i) {
-      //pc->points[i].x -= 0.45;
-      //pc->points[i].z -= 1.5;
       _x = pc->points[i].x;
       _y = pc->points[i].y;
       _z = pc->points[i].z;
-      pc->points[i].x = (_x * this->inv1->getRow(0).x()) + 
-                        (_y * this->inv1->getRow(0).y()) +
-                        (_z * this->inv1->getRow(0).z());// + 0.45;
-      pc->points[i].y = (_x * this->inv1->getRow(1).x()) + 
-                        (_y * this->inv1->getRow(1).y()) +
-                        (_z * this->inv1->getRow(1).z());
-      pc->points[i].z = (_x * this->inv1->getRow(2).x()) + 
-                        (_y * this->inv1->getRow(2).y()) +
-                        (_z * this->inv1->getRow(2).z());// + 1.5;
+      pc->points[i].x = (_x * this->rot3->getRow(0).x()) + 
+                        (_y * this->rot3->getRow(0).y()) +
+                        (_z * this->rot3->getRow(0).z());// + 0.45;
+      pc->points[i].y = (_x * this->rot3->getRow(1).x()) + 
+                        (_y * this->rot3->getRow(1).y()) +
+                        (_z * this->rot3->getRow(1).z());
+      pc->points[i].z = (_x * this->rot3->getRow(2).x()) + 
+                        (_y * this->rot3->getRow(2).y()) +
+                        (_z * this->rot3->getRow(2).z());// + 1.5;
+      pc->points[i].x += 0.45;
+      pc->points[i].z += 1.5;
       if(pc->points[i].x<x[0])
         x[0]=pc->points[i].x;
       if(pc->points[i].y<y[0])
@@ -101,8 +102,8 @@ private:
       if(pc->points[i].z>z[1])
         z[1]=pc->points[i].z;
     }
-    RCLCPP_INFO(this->get_logger(), "%lf, %lf, %lf", pc->points[0].x, pc->points[0].y, pc->points[0].z);    
-    //RCLCPP_INFO(this->get_logger(), "%lf, %lf, %lf : %lf, %lf, %lf", x[0], y[0], z[0], x[1], y[1], z[1]);    
+    //RCLCPP_INFO(this->get_logger(), "%lf, %lf, %lf", pc->points[0].x, pc->points[0].y, pc->points[0].z);    
+    RCLCPP_INFO(this->get_logger(), "%lf, %lf, %lf : %lf, %lf, %lf", x[0], y[0], z[0], x[1], y[1], z[1]);    
     //RCLCPP_INFO(this->get_logger(), "pc2_to_pc : start");
     publisher_->publish(*pc);
     RCLCPP_INFO(this->get_logger(), "pc2_to_pc : finished");
