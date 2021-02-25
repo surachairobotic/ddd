@@ -1,3 +1,89 @@
+DATE : 22/2/64
+453,	L342		,total:-16.5	,cash:1035
+454,	พริกไท		,cash:110
+456,	L407		,total:20
+457,	L216		,total:46	,cash:25
+458,	L110		,total:83
+459,	L363		,total:117
+SPECIAL : 22/2/64, L287  ต่อสมาชิก 200 ชิ้น, total:196
+SPECIAL : 22/2/64, L110  ต่อสมาชิก 100 ชิ้น, total:87
+DATE : 21/2/64
+444,	L110		,total:-13
+445,	L216		,cash:300
+446,	L382		,total:93
+447,	ลูกค้า		,cash:300
+448,	L225		,cash:180
+449,	กรีน		,cash:120
+450,	L393		,cash:56
+451,	L353		,total:57
+452,	L362		,total:109
+SPECIAL : 21/2/64, L382  ต่อสมาชิก 100 ชิ้น, total:101.5
+DATE : 20/2/64
+436,	L359		,total:63
+437,	Nut		,cash:32
+438,	L198		,total:92
+439,	L377		,total:21
+440,	L408		,total:35
+441,	L397		,total:15.5
+442,	L213		,total:32
+443,	L409		,total:62
+DATE : 18/2/64
+420,	L342		,total:8.5
+421,	L362		,total:129
+422,	L349		,total:46
+423,	L393		,cash:84
+424,	L700		,total:13	,cash:53
+425,	L287		,total:-4	,cash:63
+426,	L044		,total:41
+427,	L179		,total:24
+428,	L206		,total:188	,cash:28
+429,	L223		,total:167
+430,	L226		,total:18.5
+431,	L297		,total:32
+432,	L403		,total:10
+433,	L363		,total:121
+434,	L110		,total:-11
+435,	L405		,total:15
+SPECIAL : 18/2/64, L206  ต่อสมาชิก 200 ชิ้น, total:198
+SPECIAL : 18/2/64, L198  ต่อสมาชิก 100 ชิ้น, total:102
+SPECIAL : 18/2/64, L393  ต่อสมาชิก 100 ชิ้น, total:93
+DATE : 15/2/64
+409,	L244		,total:-3.5
+410,	L035		,total:71
+411,	L206		,total:-2	,cash:21
+412,	นักเรียน		,cash:105
+413,	L407		,total:24
+414,	L297		,cash:180
+415,	L700		,total:17	,cash:209
+416,	L230		,total:76
+417,	L223		,total:169
+418,	A190		,cash:266
+419,	L370		,total:60.5	,cash:24
+DATE : 14/2/64
+399,	L362		,total:154
+400,	L403		,total:16
+401,	แพร		,cash:20
+402,	L287		,total:4	,cash:89
+403,	L044		,total:44
+404,	L110		,total:3
+405,	L283		,total:18
+406,	L353		,total:67
+407,	L363		,total:130
+408,	L409		,total:74
+SPECIAL : 14/2/64, L333  ต่อสมาชิก 50 ชิ้น, total:46
+DATE : 12_13/2/64
+387,	L213		,total:41
+388,	L198		,total:2
+389,	L397		,total:21.5
+390,	L110		,total:9
+391,	L363		,total:135
+EDIT : L342 แก้เพิ่มกก45,total:83.5
+392,	L342		,total:96
+393,	L393		,total:-7
+395,	L283		,total:19
+396,	L319		,total:88	,cash:156
+397,	L314		,total:34
+398,	L206		,total:5	,cash:75
 SPECIAL : 12_13/2/64, L213  ต่อสมาชิก 100 ชิ้น, total:74
 SPECIAL : 12_13/2/64, L146  ต่อสมาชิก 30 ชิ้น, total:23.5
 DATE : 11/2/64
