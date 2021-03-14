@@ -1,3 +1,276 @@
+DATE : 13/3/64
+33,	L700		,total:80	,cash:35
+34,	L232		,cash:65
+35,	L382		,total:72	,cash:180
+36,	L342		,total:23.5
+37,	ภัณฑิราจ่ายแล้ว		,cash:80
+38,	L386		,total:0
+39,	L333		,total:23
+40,	L198		,total:83	,cash:92
+41,	L319		,cash:352
+42,	L206		,total:138	,cash:82
+43,	ซักแห้ง		,cash:250
+44,	กรีน		,cash:300
+DATE : 12/3/64
+23,	กรีน		,cash:20
+24,	L297		,cash:195
+25,	นักเรียน		,cash:40
+26,	L244		,total:36.5
+27,	L230		,total:65
+28,	L283		,total:-7
+29,	L363		,total:77
+30,	A190		,cash:482
+31,	L408		,total:9
+32,	เจเจ		,cash:100
+DATE : 11/3/64
+17,	L410		,total:45
+18,	L216		,total:26
+19,	L349		,total:21
+20,	L110		,total:39
+21,	L900		,total:66
+22,	ลูกค้า		,cash:628
+SPECIAL : 11/3/64, L244  ต่อสมาชิก 50 ชิ้น, total:40.5
+SPECIAL : 11/3/64, L410  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 11/3/64
+0000,	L410		,total:0
+DATE : 9/3/64
+8,	L216		,total:32
+9,	L370		,total:17.5	,cash:132
+10,	ร้านยา		,cash:273
+11,	หนูดีรับวันศุกร์		,cash:149
+12,	L377		,total:46
+13,	L287		,total:164	,cash:28
+14,	L206		,total:149	,cash:35
+15,	L342		,total:54.5
+16,	L362		,total:25
+SPECIAL : 9/3/64, L297  ต่อสมาชิก 100 ชิ้น, total:97
+SPECIAL : 9/3/64, L700  ต่อสมาชิก 100 ชิ้น, total:92
+DATE : 8/3/64
+1,	L393		,cash:56
+2,	L110		,total:49
+3,	ร้านหมูกะทะ		,cash:325
+4,	L353		,total:38
+5,	ลุง		,cash:50
+6,	L044		,total:32
+7,	L213		,total:-8
+INITIAL 8/2/64
+0000,	L006		,total:0
+0000,	L048		,total:0
+0000,	L315		,total:0
+0000,	L318		,total:0
+0000,	L021		,total:0
+0000,	L028		,total:0
+0000,	L040		,total:0
+0000,	L061		,total:0
+0000,	L073		,total:0
+0000,	L074		,total:0
+0000,	L076		,total:0
+0000,	L079		,total:0
+0000,	L099		,total:0
+0000,	L103		,total:0
+0000,	L116		,total:0
+0000,	L132		,total:0
+0000,	L134		,total:0
+0000,	L138		,total:0
+0000,	L144		,total:0
+0000,	L162		,total:0
+0000,	L167		,total:0
+0000,	L183		,total:0
+0000,	L193		,total:0
+0000,	L215		,total:0
+0000,	L217		,total:0
+0000,	L224		,total:0
+0000,	L225		,total:0
+0000,	L232		,total:0
+0000,	L233		,total:0
+0000,	L234		,total:0
+0000,	L236		,total:0
+0000,	L238		,total:0
+0000,	L240		,total:0
+0000,	L243		,total:0
+0000,	L249		,total:0
+0000,	L251		,total:0
+0000,	L253		,total:0
+0000,	L255		,total:0
+0000,	L257		,total:0
+0000,	L263		,total:0
+0000,	L265		,total:0
+0000,	L269		,total:0
+0000,	L271		,total:0
+0000,	L277		,total:0
+0000,	L279		,total:0
+0000,	L288		,total:0
+0000,	L293		,total:0
+0000,	L294		,total:0
+0000,	L295		,total:0
+0000,	L296		,total:0
+0000,	L298		,total:0
+0000,	L300		,total:0
+0000,	L301		,total:0
+0000,	L302		,total:0
+0000,	L303		,total:0
+0000,	L304		,total:0
+0000,	L305		,total:0
+0000,	L306		,total:0
+0000,	L307		,total:0
+0000,	L308		,total:0
+0000,	L309		,total:0
+0000,	L310		,total:0
+0000,	L311		,total:0
+0000,	L312		,total:0
+0000,	L313		,total:0
+0000,	L317		,total:0
+0000,	L320		,total:0
+0000,	L322		,total:0
+0000,	L323		,total:0
+0000,	L324		,total:0
+0000,	L325		,total:0
+0000,	L326		,total:0
+0000,	L329		,total:0
+0000,	L330		,total:0
+0000,	L331		,total:0
+0000,	L332		,total:0
+0000,	L334		,total:0
+0000,	L335		,total:0
+0000,	L336		,total:0
+0000,	L337		,total:0
+0000,	L338		,total:0
+0000,	L343		,total:0
+0000,	L344		,total:0
+0000,	L345		,total:0
+0000,	L346		,total:0
+0000,	L347		,total:0
+0000,	L350		,total:0
+0000,	L352		,total:0
+0000,	L355		,total:0
+0000,	L356		,total:0
+0000,	L357		,total:0
+0000,	L358		,total:0
+0000,	L360		,total:0
+0000,	L361		,total:0
+0000,	L364		,total:0
+0000,	L365		,total:0
+0000,	L366		,total:0
+0000,	L367		,total:0
+0000,	L368		,total:0
+0000,	L371		,total:0
+0000,	L372		,total:0
+0000,	L373		,total:0
+0000,	L374		,total:0
+0000,	L375		,total:0
+0000,	L376		,total:0
+0000,	L378		,total:0
+0000,	L379		,total:0
+0000,	L380		,total:0
+0000,	L383		,total:0
+0000,	L384		,total:0
+0000,	L385		,total:0
+0000,	L388		,total:0
+0000,	L389		,total:0
+0000,	L390		,total:0
+0000,	L391		,total:0
+0000,	L392		,total:0
+0000,	L394		,total:0
+0000,	L396		,total:0
+0000,	L398		,total:0
+0000,	L399		,total:0
+0000,	L400		,total:0
+0000,	L401		,total:0
+0000,	L402		,total:0
+0000,	L800		,total:0
+DATE : 7/3/64
+530,	L110		,total:52
+531,	L297		,total:-3
+532,	L362		,total:38
+533,	มะเฟือง		,cash:200
+534,	L397		,total:8.5
+535,	อ.อ๊อด		,cash:350
+536,	นักเรียน		,cash:105
+537,	L230		,total:70
+538,	L314		,total:27
+539,	L216		,total:34
+540,	L363		,total:87
+DATE : 5/3/64
+517,	L393		,total:72
+518,	กรีน		,cash:20
+519,	เจเจ		,cash:120
+520,	L146		,total:17.5
+521,	L408		,total:22
+522,	L206		,total:157	,cash:82
+523,	L333		,total:31
+524,	ลุง		,cash:25
+525,	L342		,total:89.5	,cash:240
+526,	L340		,total:10
+527,	L283		,total:7
+528,	L110		,total:54
+529,	นักเรียน		,cash:85
+DATE : 2/3/64
+501,	L283		,total:9	,cash:25
+502,	L110		,total:63
+503,	L700		,total:-8	,cash:42
+504,	L362		,total:62
+505,	L397		,total:12.5
+506,	L408		,total:24
+507,	L363		,total:100
+508,	L314		,total:30
+509,	L900		,total:114
+510,	L349		,total:29
+511,	L230		,total:73
+EDIT : L370 แก้คิดเดรสเกิน4ชิ้น,total:29.5
+512,	L370		,total:25.5
+513,	L146		,cash:145
+514,	L359		,total:55
+515,	L348		,total:28
+516,	L287		,total:172	,cash:82
+DATE : 1/3/64
+492,	L287		,total:180	,cash:105
+493,	L110		,total:65
+494,	L393		,total:82
+495,	L377		,total:58
+496,	L198		,cash:90
+497,	L407		,total:15
+498,	L244		,total:-9.5
+499,	L216		,total:40
+500,	L213		,total:12
+SPECIAL : 1/3/64, L377  ต่อสมาชิก 50 ชิ้น, total:71
+DATE : 28/2/64
+479,	L244		,total:-7.5
+480,	L405		,total:8
+481,	L407		,total:17
+482,	L403		,total:6
+483,	L342		,total:142.5
+484,	L319		,cash:156
+485,	L206		,total:173	,cash:68
+486,	อ.อ๊อด		,cash:425
+487,	L283		,total:16
+488,	L044		,total:38	,cash:230
+489,	L362		,total:72
+490,	L353		,total:48
+491,	L297		,total:16
+SPECIAL : 28/2/64, L900  ต่อสมาชิก 200 ชิ้น, total:143
+DATE : 25/2/64
+472,	L216		,total:44
+473,	L393		,cash:70
+474,	L333		,total:35
+475,	L363		,total:106
+476,	L409		,total:53
+477,	L205		,total:83
+478,	L110		,total:73
+SPECIAL : 25/2/64, L205  ต่อสมาชิก 100 ชิ้น, total:96
+SPECIAL : 25/2/64, L342  ต่อสมาชิก 200 ชิ้น, total:167.5
+DATE : 23/2/64
+460,	L333		,total:41
+461,	L287		,total:190	,cash:68
+462,	L370		,total:42.5	,cash:147
+463,	L342		,total:-32.5
+464,	L700		,total:4
+465,	สุชาติ		,cash:250
+466,	L900		,total:-57
+467,	L362		,total:97
+468,	L258		,total:65	,cash:305
+469,	L206		,total:181	,cash:14
+470,	น้ำหวาน		,cash:100
+471,	L297		,cash:180
 DATE : 22/2/64
 453,	L342		,total:-16.5	,cash:1035
 454,	พริกไท		,cash:110
@@ -71,7 +344,7 @@ DATE : 14/2/64
 407,	L363		,total:130
 408,	L409		,total:74
 SPECIAL : 14/2/64, L333  ต่อสมาชิก 50 ชิ้น, total:46
-DATE : 12_13/2/64
+DATE : 12/2/64
 387,	L213		,total:41
 388,	L198		,total:2
 389,	L397		,total:21.5
@@ -84,8 +357,8 @@ EDIT : L342 แก้เพิ่มกก45,total:83.5
 396,	L319		,total:88	,cash:156
 397,	L314		,total:34
 398,	L206		,total:5	,cash:75
-SPECIAL : 12_13/2/64, L213  ต่อสมาชิก 100 ชิ้น, total:74
-SPECIAL : 12_13/2/64, L146  ต่อสมาชิก 30 ชิ้น, total:23.5
+SPECIAL : 12/2/64, L213  ต่อสมาชิก 100 ชิ้น, total:74
+SPECIAL : 12/2/64, L146  ต่อสมาชิก 30 ชิ้น, total:23.5
 DATE : 11/2/64
 378,	L408		,total:47
 379,	L283		,total:34
@@ -171,14 +444,14 @@ DATE : 4/2/64
 SPECIAL : 4/2/64, L370  ต่อสมาชิก 100 ชิ้น, total:98
 SPECIAL : 4/2/64, L283  ต่อสมาชิก 50 ชิ้น, total:46
 SPECIAL : 4/2/64, L406  ต่อสมาชิก 2 ชิ้น, total:0
-DATE : 2/1/64
+DATE : 2/2/64
 320,	L035		,total:93	,cash:162
 321,	L223		,total:177
 322,	L110		,total:34
 323,	L349		,total:51
 324,	L206		,total:30	,cash:14
 325,	L900		,total:40
-DATE : 1/2/63
+DATE : 1/2/64
 313,	L283		,total:-4
 314,	L363		,total:168
 315,	L370		,total:-2	,cash:96

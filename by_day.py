@@ -2,7 +2,7 @@ from os import listdir
 from os.path import isfile, join
 import math
 
-fpath = "data/"
+fpath = "data_64/"
 fname = "database.txt"
 
 def main():
@@ -29,6 +29,9 @@ def main():
   avg7 = []
   avg15 = []
   avg30 = []
+  cnt7 = []
+  cnt15 = []
+  cnt30 = []
   for indx in range(len(onlyfiles)):
     information = read_info(onlyfiles[indx])
     information = processing(information)
@@ -40,6 +43,9 @@ def main():
     _all.append(sum_cash+sum_count*11)
     min_day = min(min_day, sum_cash+sum_count*11)
     max_day = max(max_day, sum_cash+sum_count*11)
+    cnt7.append(sum_count)
+    cnt15.append(sum_count)
+    cnt30.append(sum_count)
     avg7.append(sum_cash+sum_count*11)
     avg15.append(sum_cash+sum_count*11)
     avg30.append(sum_cash+sum_count*11)
@@ -49,6 +55,12 @@ def main():
       avg15.pop(0)
     while len(avg30) > 30:
       avg30.pop(0)
+    while len(cnt7) > 7:
+      cnt7.pop(0)
+    while len(cnt15) > 15:
+      cnt15.pop(0)
+    while len(cnt30) > 30:
+      cnt30.pop(0)
     _str = str("%s, count: %.2f, cash: %.2f, total:%.2f" % (onlyfiles[indx], sum_count, sum_cash, sum_cash+sum_count*11))
     if len(avg7) is 7:
       _str += str(", avg[7]: %f" % (sum(avg7)/len(avg7)))
@@ -62,6 +74,12 @@ def main():
       _str += str(", avg[30]: %f" % (sum(avg30)/len(avg30)))
       min_30 = min(min_30, sum(avg30)/len(avg30))
       max_30 = max(max_30, sum(avg30)/len(avg30))
+    if len(cnt7) is 7:
+      _str += str(", cnt[7]: %f" % (sum(cnt7)/len(cnt7)))
+    if len(cnt15) is 15:
+      _str += str(", cnt[15]: %f" % (sum(cnt15)/len(cnt15)))
+    if len(cnt30) is 30:
+      _str += str(", cnt[30]: %f" % (sum(cnt30)/len(cnt30)))
     print(_str)
   print("day : %.2f, %.2f" % (min_day, max_day))
   print("7 : %.2f, %.2f" % (min_7, max_7))
@@ -84,6 +102,7 @@ def read_info(_fname):
         if line.find(x) != -1:
             b_save = True
             break
+      b_save = True
       if b_save:
         data.append(line)
       #print(line)
