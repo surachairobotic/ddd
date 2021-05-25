@@ -27,6 +27,7 @@ def main():
     date = ""
     indx_remove = []
     first=True
+    prev=-1
     for i in range(0, len(vText)):
       #print("i/len(vText) : " + str(i) + "/" + str(len(vText)) + "id: " + str(_id))
       if vText[i].find("DATE") != -1:
@@ -35,15 +36,22 @@ def main():
         vText[i] = vText[i].replace("total", "เหลือ")
         tmpTxt = list(filter(None, re.split(r',|\n|\t| ', vText[i])))
         if tmpTxt[0] == "0000":
+          if prev==1:
+            fa.writelines('\n')
+          prev=0
           fa.writelines(tmpTxt[0] + tmpTxt[1] + tmpTxt[2])
           if first:
             f.writelines(tmpTxt[0] + tmpTxt[1] + tmpTxt[2])
         if tmpTxt[0] == 'SPECIAL':
+          prev=1
           fa.writelines(tmpTxt[3] + "ต่อ" + tmpTxt[5] + tmpTxt[7])
           if first:
             f.writelines(tmpTxt[3] + "ต่อ" + tmpTxt[5] + tmpTxt[7])
         else:
-          fa.writelines(tmpTxt[1] + "," + tmpTxt[2])
+          if prev!=2:
+            fa.writelines('\n')
+          prev=2
+          fa.writelines(tmpTxt[1] + "," + tmpTxt[2] + ",")
           if first:
             f.writelines(tmpTxt[1] + "," + tmpTxt[2])
           if date:
