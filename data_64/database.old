@@ -1,3 +1,91 @@
+DATE : 27/6/64
+632,	อ.อ๊อด		,cash:560
+633,	L353		,total:19
+634,	L410		,total:17
+635,	L362		,total:163
+DATE : 26/6/64
+627,	L110		,total:94
+628,	L179		,total:12	,cash:133
+629,	L319		,cash:426
+630,	L206		,total:94	,cash:89
+631,	L393		,cash:35
+DATE : 25/6/64
+617,	L404		,total:34
+618,	L287		,total:190	,cash:14
+619,	L091		,total:59
+620,	L387		,total:24.5
+621,	L283		,total:-4
+622,	L393		,total:22
+623,	L412		,total:190
+624,	L297		,total:76
+625,	L370		,total:22.5
+626,	L342		,total:134.5
+DATE : 24/6/64
+612,	L258		,total:42	,cash:177
+613,	L110		,total:97
+614,	L363		,total:33
+615,	L359		,total:30
+616,	L110		,total:92
+DATE : 22/6/64
+606,	L035		,total:136.5	,cash:49
+607,	L410		,total:21
+608,	L412		,total:195
+609,	L377		,total:1
+610,	L287		,total:194	,cash:14
+611,	L206		,total:105	,cash:14
+SPECIAL : 22/6/64, L287  ต่อสมาชิก 200 ชิ้น, total:200
+SPECIAL : 22/6/64, L412  ต่อสมาชิก 200 ชิ้น, total:200
+INITIAL 22/6/64
+0000,	L412		,total:0
+DATE : 21/6/64
+601,	L198		,total:162.5	,cash:35
+602,	L110		,total:99
+603,	L363		,total:41	,cash:35
+604,	L339		,total:14
+605,	L393		,cash:56
+DATE : 20/6/64
+597,	L287		,total:0	,cash:85
+598,	L297		,total:90
+599,	L362		,total:173
+600,	L358		,total:142
+SPECIAL : 20/6/64, L198  ต่อสมาชิก 50 ชิ้น, total:175.5
+DATE : 19/6/64
+589,	L387		,total:28
+590,	L110		,total:101
+591,	L283		,total:9
+592,	L206		,total:114	,cash:40
+593,	L213		,total:-60.5
+594,	L359		,total:36
+595,	L408		,total:17
+596,	L378		,cash:110
+DATE : 18/6/64
+582,	L387		,total:30.5
+583,	L342		,total:168.5
+584,	L410		,total:26
+585,	L179		,total:27.5	,cash:106
+586,	L363		,total:49
+587,	L279		,cash:65
+588,	L393		,cash:7
+SPECIAL : 18/6/64, L410  ต่อสมาชิก 30 ชิ้น, total:29
+DATE : 17/6/64
+576,	L287		,total:6	,cash:63
+577,	L269		,total:40	,cash:161
+578,	L408		,total:30
+579,	L393		,cash:63
+580,	L091		,total:68.5
+581,	คุณฝน		,cash:300
+SPECIAL : 17/6/64, L342  ต่อสมาชิก 200 ชิ้น, total:206.5
+DATE : 15/6/64
+572,	L223		,total:160
+573,	L387		,total:34
+574,	L091		,total:72
+575,	L206		,total:136	,cash:14
+DATE : 14/6/64
+569,	L410		,total:-1
+570,	L258		,total:51	,cash:300
+571,	L363		,total:62
+SPECIAL : 14/6/64, L362  ต่อสมาชิก 200 ชิ้น, total:188
+SPECIAL : 14/6/64, L297  ต่อสมาชิก 100 ชิ้น, total:113
 DATE : 13/6/64
 560,	L283		,total:16
 561,	L362		,total:-12
