@@ -1,3 +1,38 @@
+DATE : 3/7/64
+662,	L110		,total:80
+663,	โม		,cash:110
+664,	L387		,total:15	,cash:75
+665,	L393		,cash:70
+666,	ทวินทาวน์		,cash:325
+DATE : 2/7/64
+654,	L179		,total:-1.5	,cash:60
+655,	L206		,total:80	,cash:35
+656,	L283		,total:-13
+657,	L412		,total:186
+658,	L363		,total:11
+659,	L035		,total:113.5
+660,	L377		,total:40
+661,	นิหน่า		,cash:324
+DATE : 1/7/64
+648,	L413		,total:193
+649,	L091		,total:49.5
+650,	L359		,total:14
+651,	L349		,total:20
+652,	L901		,total:7
+653,	L287		,total:175	,cash:14
+SPECIAL : 1/7/64, L413  ต่อสมาชิก 200 ชิ้น, total:200
+SPECIAL : 1/7/64, L213  ต่อสมาชิก 100 ชิ้น, total:39.5
+INITIAL 1/7/64
+0000,	L413		,total:0
+DATE : 29/6/64
+641,	L370		,total:-2.5	,cash:160
+642,	L410		,total:13
+643,	L393		,total:13
+644,	L198		,total:152.5
+645,	L362		,total:159
+646,	L287		,total:181	,cash:28
+647,	L297		,total:63
+SPECIAL : 29/6/64, L377  ต่อสมาชิก 50 ชิ้น, total:51
 DATE : 28/6/64
 636,	L408		,total:12
 637,	L363		,total:22
