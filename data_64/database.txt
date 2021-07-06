@@ -1,3 +1,22 @@
+DATE : 5/7/64
+675,	L349		,total:8
+676,	L287		,total:169	,cash:14
+677,	L342		,total:94.5
+678,	L413		,total:183
+679,	L363		,total:2
+680,	L297		,total:45
+681,	L412		,total:183
+682,	L035		,total:112.5	,cash:187
+DATE : 4/7/64
+667,	อ.อ๊อด		,cash:105
+668,	L110		,total:79
+669,	L353		,total:11
+670,	L362		,total:146
+671,	L179		,total:96	,cash:74
+672,	L358		,total:125
+673,	L206		,cash:35
+674,	L359		,total:3
+SPECIAL : 4/7/64, L179  ต่อสมาชิก 100 ชิ้น, total:98.5
 DATE : 3/7/64
 662,	L110		,total:80
 663,	โม		,cash:110
@@ -28,6 +47,7 @@ DATE : 29/6/64
 641,	L370		,total:-2.5	,cash:160
 642,	L410		,total:13
 643,	L393		,total:13
+EDIT : L198 แก้ยอดคงเหลือผิด,total:30
 644,	L198		,total:152.5
 645,	L362		,total:159
 646,	L287		,total:181	,cash:28

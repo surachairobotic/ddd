@@ -1,3 +1,19 @@
+DATE : 4/7/64
+667,	อ.อ๊อด		,cash:105
+668,	L110		,total:79
+669,	L353		,total:11
+670,	L362		,total:146
+671,	L179		,total:96	,cash:74
+672,	L358		,total:125
+673,	L206		,cash:35
+674,	L359		,total:3
+SPECIAL : 4/7/64, L179  ต่อสมาชิก 100 ชิ้น, total:98.5
+DATE : 3/7/64
+662,	L110		,total:80
+663,	โม		,cash:110
+664,	L387		,total:15	,cash:75
+665,	L393		,cash:70
+666,	ทวินทาวน์		,cash:325
 DATE : 2/7/64
 654,	L179		,total:-1.5	,cash:60
 655,	L206		,total:80	,cash:35
@@ -22,6 +38,7 @@ DATE : 29/6/64
 641,	L370		,total:-2.5	,cash:160
 642,	L410		,total:13
 643,	L393		,total:13
+EDIT : L198 แก้ยอดคงเหลือผิด,total:30
 644,	L198		,total:152.5
 645,	L362		,total:159
 646,	L287		,total:181	,cash:28
@@ -185,7 +202,7 @@ DATE : 6/6/64
 525,	L363		,total:80
 526,	L411		,total:6
 527,	L179		,total:45.5	,cash:56
-EDIT : L198 แก้เสื้อเกิน1,total:125.5
+EDIT : L198 แก้เสื้อเกิน1,total:3
 528,	L198		,total:2
 SPECIAL : 6/6/64, L283  ต่อสมาชิก 50 ชิ้น, total:35
 SPECIAL : 6/6/64, L035  ต่อสมาชิก 200 ชิ้น, total:191.5
