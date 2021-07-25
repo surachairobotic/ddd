@@ -1,3 +1,140 @@
+DATE : 24/07/64
+789,	L091		,total:9.5
+790,	L283		,total:23
+791,	L393		,total:4
+DATE : 23/07/64
+779,	L287		,total:124	,cash:21
+780,	L387		,total:44.5
+781,	L363		,total:149
+782,	L198		,cash:277
+783,	นิหน่า		,cash:327
+784,	อิ๊ง		,cash:200
+785,	L412		,total:163
+786,	L206		,total:19	,cash:152
+787,	L213		,total:15.5
+788,	L179		,total:76
+DATE : 22/7/64
+771,	L110		,total:52
+772,	L410		,total:-1
+773,	L370		,total:62.5	,cash:76
+774,	L179		,total:78	,cash:81
+775,	L416		,total:196
+776,	L412		,total:164
+777,	L359		,total:65
+778,	L387		,total:48
+SPECIAL : 22/7/64, L387  ต่อสมาชิก 50 ชิ้น, total:50.5
+SPECIAL : 22/7/64, L359  ต่อสมาชิก 100 ชิ้น, total:83
+SPECIAL : 22/7/64, L416  ต่อสมาชิก 200 ชิ้น, total:200
+INITIAL 22/7/64
+0000,	L416		,total:0
+DATE : 20/7/64
+763,	L387		,total:0.5	,cash:25
+764,	L035		,total:92.5
+765,	L198		,cash:45
+766,	L410		,total:2
+767,	L110		,total:56
+768,	L287		,total:130	,cash:54
+769,	L413		,total:139
+770,	L393		,cash:77
+DATE : 19/7/64
+757,	L353		,total:-6	,cash:250
+758,	L179		,total:83.5	,cash:102
+759,	L258		,total:8	,cash:257
+760,	L412		,total:167
+761,	L414		,total:68.5
+762,	L225		,cash:360
+DATE : 18/7/64
+752,	L412		,total:168
+753,	L415		,total:38
+754,	อ.อ๊อด		,cash:355
+755,	L363		,total:164
+756,	L410		,total:4
+SPECIAL : 18/7/64, L415  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 18/7/64
+0000,	L415		,total:0
+DATE : 17/7/64
+744,	L287		,total:134	,cash:14
+745,	L362		,total:127
+747,	L110		,total:58
+748,	L319		,total:64.5	,cash:273
+749,	L358		,total:108
+750,	L206		,total:37	,cash:82
+751,	L297		,total:20
+DATE : 16/7/64
+737,	L283		,total:33
+738,	L370		,total:71.5	,cash:112
+739,	โรงแรม		,cash:1125
+740,	L179		,total:87.5	,cash:56
+741,	L412		,total:170
+742,	L414		,total:75
+743,	L378		,cash:115
+DATE : 15/7/64
+731,	L393		,cash:70
+732,	L110		,total:61
+733,	L363		,total:173
+734,	L287		,total:140	,cash:28
+735,	L359		,total:-17
+736,	L198		,total:16	,cash:45
+DATE : 14/7/64
+724,	L110		,total:63
+725,	L387		,total:3
+726,	L363		,total:181
+727,	L287		,total:148
+728,	L413		,total:149
+729,	L035		,total:100	,cash:81
+730,	L091		,total:23.5
+DATE : 13/7/64
+717,	L387		,total:5.5
+718,	L206		,total:50	,cash:49
+719,	L258		,total:12
+720,	สุชาติ		,cash:200
+721,	L297		,cash:265
+722,	L412		,total:173
+723,	L110		,total:67
+DATE : 12/7/64
+712,	L342		,total:72.5
+713,	L412		,total:175
+714,	L353		,total:2
+715,	โรงแรม		,cash:1285
+716,	L410		,total:7
+DATE : 11/7/64
+707,	L110		,total:69
+708,	L363		,total:190
+709,	L287		,total:155	,cash:28
+710,	L359		,total:-7
+711,	L198		,total:23	,cash:45
+SPECIAL : 11/7/64, L363  ต่อสมาชิก 200 ชิ้น, total:198
+SPECIAL : 11/7/64, L370  ต่อสมาชิก 100 ชิ้น, total:84.5
+DATE : 10/7/64
+700,	L179		,total:91	,cash:168
+701,	L412		,total:178
+702,	L393		,cash:63
+703,	L206		,total:59	,cash:82
+704,	L362		,total:135
+705,	L091		,total:33
+706,	L387		,total:10.5
+DATE : 8/7/64
+689,	L287		,total:163	,cash:61
+690,	L413		,total:167
+691,	L206		,cash:35
+692,	L363		,total:-2
+693,	L110		,total:71
+694,	L333		,total:5
+695,	L414		,total:83
+697,	L225		,total:6
+698,	L412		,total:180
+699,	L091		,total:36.5
+SPECIAL : 8/7/64, L283  ต่อสมาชิก 50 ชิ้น, total:37
+DATE : 6/7/64
+683,	L370		,total:-15.5	,cash:91
+684,	ออย		,cash:80
+685,	L408		,total:2
+686,	L410		,total:9
+687,	L393		,cash:49
+688,	L110		,total:77
+SPECIAL : 6/7/64, L414  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 6/7/64
+0000,	L414		,total:0
 DATE : 5/7/64
 675,	L349		,total:8
 676,	L287		,total:169	,cash:14
