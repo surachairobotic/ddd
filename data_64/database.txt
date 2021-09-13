@@ -1,3 +1,48 @@
+DATE : 5/9/64
+952,	L363		,total:61
+953,	L387		,total:21
+954,	L410		,total:-6
+955,	L223		,total:159	,cash:70
+956,	แอม		,cash:150
+DATE : 4/9/64
+947,	L414		,total:22.5
+948,	L417		,total:36
+949,	L416		,total:162
+950,	L387		,total:23.5	,cash:50
+951,	L179		,total:26.5	,cash:126
+SPECIAL : 4/9/64, L413  ต่อสมาชิก 200 ชิ้น, total:249
+DATE : 3/8/64
+934,	L902		,total:182	,cash:289
+935,	L213		,total:-33.5
+936,	L035		,total:13
+937,	L412		,total:125
+938,	L363		,total:70
+939,	L370		,total:24.5	,cash:122
+940,	L413		,total:49
+941,	L387		,total:26
+942,	L287		,total:64	,cash:89
+943,	L412		,total:125
+944,	L206		,total:114	,cash:103
+945,	L297		,total:91
+946,	มินตรา		,cash:700
+SPECIAL : 3/8/64, L902  ต่อสมาชิก 200 ชิ้น, total:199
+SPECIAL : 3/8/64, L297  ต่อสมาชิก 100 ชิ้น, total:107
+DATE : 30/8/64
+931,	L198		,total:9
+932,	L416		,total:171
+933,	L362		,total:70
+DATE : 28/8/64
+920,	L319		,cash:143
+921,	L410		,total:0
+922,	L287		,total:70	,cash:61
+923,	อ.อ๊อด		,cash:470
+924,	L359		,total:8
+925,	L353		,total:53
+926,	L415		,total:12
+927,	L416		,total:173
+928,	จอห์น		,cash:225
+929,	L393		,cash:35
+930,	L387		,total:29.5
 DATE : 27/8/64
 914,	L297		,total:7
 915,	L416		,total:174
