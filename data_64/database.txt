@@ -1,5 +1,18 @@
+DATE : 15/9/64
+984,	L297		,total:63
+985,	L387		,total:10.5
+986,	L416		,total:158
+987,	L410		,total:-12
+DATE : 14/9/64
+982,	L412		,total:114
+983,	L387		,total:16.5
+DATE : 13/9/64
+978,	L035		,total:-10	,cash:116
+979,	L206		,total:86	,cash:43
+980,	L287		,total:44	,cash:28
+981,	L414		,total:1.5
 DATE : 12/9/64
-976,	L370		,total:18.5	,cash:649
+976,	L370		,total:18.5	,cash:569
 977,	L412		,total:117	,cash:35
 DATE : 10/9/64
 968,	L287		,total:50	,cash:21

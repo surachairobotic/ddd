@@ -11,7 +11,7 @@ def main():
   filenames = []
   for i in range(len(fpath)):
     filenames += [f for f in listdir(fpath[i]) if isfile(join(fpath[i], f)) and f.find("_6") != -1]
-  print(filenames)
+  #print(filenames)
 
   vText = get_all_database()
 
@@ -19,8 +19,8 @@ def main():
   #vText = del_list_numpy(vText, 213)
   #exit()
 
-  f = open(str(fpath[0]+"database_by_id.txt"), "w")  
-  fa = open(str(fpath[0]+"database_by_id_all.txt"), "w")  
+  f = open(str(fpath[0]+"database_by_id.txt"), "w", encoding='utf-8')  
+  fa = open(str(fpath[0]+"database_by_id_all.txt"), "w", encoding='utf-8')  
   for _id in range(0, 999):
     txt = "L"+"{:0>3d}".format(_id)
     #f.writelines("-----  "+txt+"  -----\n")
@@ -30,6 +30,9 @@ def main():
     prev=-1
     for i in range(0, len(vText)):
       #print("i/len(vText) : " + str(i) + "/" + str(len(vText)) + "id: " + str(_id))
+      #print("i=" + str(i))
+      #print("type(i)=" + str(type(i)))
+      #print("type(vText[i])=" + str(type(vText[i])))
       if vText[i].find("DATE") != -1:
         date = vText[i][:len(vText[i])-1]
       if vText[i].find(txt) != -1 and vText[i].find("total") != -1:
@@ -39,6 +42,7 @@ def main():
           if prev==1:
             fa.writelines('\n')
           prev=0
+          #print(tmpTxt[0]+","+tmpTxt[1]+","+tmpTxt[2])
           fa.writelines(tmpTxt[0] + tmpTxt[1] + tmpTxt[2])
           if first:
             f.writelines(tmpTxt[0] + tmpTxt[1] + tmpTxt[2])
@@ -97,18 +101,24 @@ def del_list_numpy(l, id_to_del):
 def get_all_database():
   global fpath, fname
 
-  f = open(str(fpath[0]+fname), "r")  
+  #f = open(str(fpath[0]+fname), "r", encoding="utf-8")  
+
   data = []
-  for txt in f.readlines():
-    #data.append(list(filter(None, re.split(r',|\n|\t| ', txt))))
-    data.append(txt)
-  f.close()
+  with open(str(fpath[0]+fname), 'r', encoding='utf-8') as f:
+
+    for txt in f.readlines():
+      #data.append(list(filter(None, re.split(r',|\n|\t| ', txt))))
+      #txt = txt.encode("UTF-8").decode("utf-8") 
+      #txt = txt.decode("utf-8") 
+      data.append(txt)
+  #f.close()
+  #print(data)
   return data
 
 def some_id(_id):
   global fpath, fname
   
-  f = open(str(fpath+fname), "r")
+  f = open(str(fpath+fname), "r", encoding='utf-8')
   
   date = ""
   for txt in f.readlines():
@@ -126,7 +136,7 @@ def get_rawdata(_fname, _id):
   res = []
   for i in range(len(fpath)):
     if _fname.find(fpath[i][:-1]) != -1:
-      ff = open(str(fpath[i]+_fname), "r")
+      ff = open(str(fpath[i]+_fname), "r", encoding='utf-8')
       for txt in ff.readlines():
         if txt.find(_id) != -1:
           txt = txt.replace(str(_id+' '), "")

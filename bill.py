@@ -12,7 +12,7 @@ from docx.enum.style import WD_STYLE_TYPE
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
 
-fpath = "data_64/"
+fpath = "C:/ddd/data_64/"
 fname = "data_63_1_23"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
@@ -189,6 +189,7 @@ def main(_fname):
   f_tmp2.close()
   f_tmp1.close()
 
+  os.remove(fpath+"database.old")
   os.rename(fpath+"database.txt", fpath+"database.old")
   os.rename(fpath+"database.tmp2", fpath+"database.txt")
 
