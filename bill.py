@@ -6,13 +6,16 @@ import os
 import sys
 
 from docx import Document
-from docx.shared import Mm, Pt
+from docx.shared import Mm, Pt, Inches
 from docx.enum.style import WD_STYLE_TYPE
+
+from docx2pdf import convert
 
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
 
 fpath = "C:/ddd/data_64/"
+pdfpath = "C:/ddd/"
 fname = "data_63_1_23"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
@@ -58,6 +61,10 @@ def main(_fname):
   section = document.sections[0]
   section.page_height = Mm(297)
   section.page_width = Mm(210)
+  section.left_margin = Inches(1)
+  section.right_margin = Inches(1)
+  section.top_margin = Inches(1)
+  section.bottom_margin = Inches(0.7)
 
   # Default style
   style = document.styles['Normal']
@@ -69,34 +76,74 @@ def main(_fname):
   style_a36 = styles.add_style('A36', WD_STYLE_TYPE.PARAGRAPH)
   style_a36.font.name = 'TH SarabunPSK'
   style_a36.font.size = Pt(36)
+  style_a36b = styles.add_style('A36B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a36b.font.name = 'TH SarabunPSK'
+  style_a36b.font.size = Pt(36)
+  style_a36b.font.bold = True
+  style_a36b.font.underline = True
 
   style_a33 = styles.add_style('A33', WD_STYLE_TYPE.PARAGRAPH)
   style_a33.font.name = 'TH SarabunPSK'
   style_a33.font.size = Pt(33)
+  style_a33b = styles.add_style('A33B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a33b.font.name = 'TH SarabunPSK'
+  style_a33b.font.size = Pt(33)
+  style_a33b.font.bold = True
+  style_a33b.font.underline = True
 
   style_a30 = styles.add_style('A30', WD_STYLE_TYPE.PARAGRAPH)
   style_a30.font.name = 'TH SarabunPSK'
   style_a30.font.size = Pt(30)
+  style_a30b = styles.add_style('A30B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a30b.font.name = 'TH SarabunPSK'
+  style_a30b.font.size = Pt(30)
+  style_a30b.font.bold = True
+  style_a30b.font.underline = True
 
   style_a27 = styles.add_style('A27', WD_STYLE_TYPE.PARAGRAPH)
   style_a27.font.name = 'TH SarabunPSK'
   style_a27.font.size = Pt(27)
+  style_a27b = styles.add_style('A27B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a27b.font.name = 'TH SarabunPSK'
+  style_a27b.font.size = Pt(27)
+  style_a27b.font.bold = True
+  style_a27b.font.underline = True
 
   style_a26 = styles.add_style('A26', WD_STYLE_TYPE.PARAGRAPH)
   style_a26.font.name = 'TH SarabunPSK'
   style_a26.font.size = Pt(26)
+  style_a26b = styles.add_style('A26B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a26b.font.name = 'TH SarabunPSK'
+  style_a26b.font.size = Pt(26)
+  style_a26b.font.bold = True
+  style_a26b.font.underline = True
 
   style_a24 = styles.add_style('A24', WD_STYLE_TYPE.PARAGRAPH)
   style_a24.font.name = 'TH SarabunPSK'
   style_a24.font.size = Pt(24)
+  style_a24b = styles.add_style('A24B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a24b.font.name = 'TH SarabunPSK'
+  style_a24b.font.size = Pt(24)
+  style_a24b.font.bold = True
+  style_a24b.font.underline = True
 
   style_a22 = styles.add_style('A22', WD_STYLE_TYPE.PARAGRAPH)
   style_a22.font.name = 'TH SarabunPSK'
   style_a22.font.size = Pt(22)
+  style_a22b = styles.add_style('A22B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a22b.font.name = 'TH SarabunPSK'
+  style_a22b.font.size = Pt(22)
+  style_a22b.font.bold = True
+  style_a22b.font.underline = True
 
   style_a20 = styles.add_style('A20', WD_STYLE_TYPE.PARAGRAPH)
   style_a20.font.name = 'TH SarabunPSK'
   style_a20.font.size = Pt(20)
+  style_a20b = styles.add_style('A20B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a20b.font.name = 'TH SarabunPSK'
+  style_a20b.font.size = Pt(20)
+  style_a20b.font.bold = True
+  style_a20b.font.underline = True
 
   f_tmp2 = open(fpath+"database.tmp2", "w", encoding="utf8")
   f_tmp2.writelines("DATE : "+date+'\n')
@@ -133,6 +180,7 @@ def main(_fname):
     print("ID:%s, line:%d, font:%d" % (information[j].id, information[j].line, information[j].font_sz))
 
     style = document.styles[str('A'+str(information[j].font_sz))]
+    styleB = document.styles[str('A'+str(information[j].font_sz)+'B')]
     p = document.add_paragraph('No.', style)
 
     p.add_run(str(seq))
@@ -163,10 +211,13 @@ def main(_fname):
         if new_total == int(new_total):
           new_total = int(new_total)
         print("%s, count:%d, old:%f, new:%f" % (information[j].id, information[j].count, old_total, new_total))
-        p = document.add_paragraph(str('เหลือ ')+str(new_total)+str(' ชิ้น'), style)
+        if new_total < 10:
+          p = document.add_paragraph(str('เหลือ ')+str(new_total)+str(' ชิ้น'), styleB)
+        else:
+          p = document.add_paragraph(str('เหลือ ')+str(new_total)+str(' ชิ้น'), style)
         f_tmp2.write("\t,total:"+str(new_total))
     if information[j].cash != 0.0:
-      p = document.add_paragraph(str('ยอดชำระ ')+str(information[j].cash)+str(' บาท'), style)
+      p = document.add_paragraph(str('ยอดชำระ ')+str(information[j].cash)+str(' บาท'), styleB)
       f_tmp2.write("\t,cash:"+str(information[j].cash))
     f_tmp2.writelines("\n")
     line=information[j].line
@@ -175,8 +226,12 @@ def main(_fname):
       line=line+1
     seq=seq+1
 
-  docx = 'demo_'+fname+'.docx'
+  docx = pdfpath+'demo_'+fname+'.docx'
+  print("docx="+docx)
+  pdf = pdfpath+'demo_'+fname+'.pdf'
+  print("pdf="+pdf)
   document.save(docx)
+  convert(docx, pdf)
   
   #document.save('debug.docx')
 
