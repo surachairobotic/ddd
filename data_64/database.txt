@@ -1,3 +1,16 @@
+DATE : 18/9/64
+997,	L413		,total:234
+DATE : 17/9/64
+990,	L363		,total:38
+991,	K.ปุ๋ย		,cash:900
+992,	L412		,total:110
+993,	L416		,total:156
+994,	L370		,total:3.5	,cash:125
+995,	L179		,total:12.5	,cash:91
+996,	นิหน่า		,cash:474
+DATE : 16/9/64
+988,	L287		,total:38	,cash:28
+989,	L206		,total:76	,cash:63
 DATE : 15/9/64
 984,	L297		,total:63
 985,	L387		,total:10.5
