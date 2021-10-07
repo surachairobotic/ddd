@@ -1,3 +1,101 @@
+DATE : 3/10/64
+42,	L416		,total:140
+43,	อ.อ๊อด		,cash:505
+44,	L339		,total:5
+45,	L412		,total:95
+46,	L287		,total:2	,cash:14
+47,	L418		,total:35
+48,	นันทวัฒจ่ายโอน		,cash:220
+49,	L413		,total:188
+50,	L410		,total:27
+51,	L198		,total:77
+52,	L035		,total:159.5	,cash:123
+53,	จอห์น		,cash:225
+54,	L359		,total:-40
+SPECIAL : 3/10/64, L419  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 3/10/64, L418  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 3/10/64, L035  ต่อสมาชิก 200 ชิ้น, total:170.5
+SPECIAL : 3/10/64, L198  ต่อสมาชิก 100 ชิ้น, total:87
+INITIAL 03/10/64
+0000,	L419		,total:0
+0000,	L418		,total:0
+DATE : 2/10/64
+38,	แลป		,cash:750
+39,	L416		,total:142
+40,	L363		,total:3
+41,	L206		,total:44	,cash:82
+DATE : 30/9/64
+31,	L287		,total:8	,cash:21
+32,	L362		,total:25
+33,	L353		,total:23
+34,	L416		,total:144
+35,	L377		,total:28
+36,	L414		,total:64.5
+37,	พีช		,cash:385
+DATE : 27/9/64
+23,	L363		,total:16
+24,	L206		,total:57	,cash:61
+25,	L370		,total:87.5	,cash:80
+26,	L283		,total:21
+27,	L216		,total:204	,cash:50
+28,	ร้านตัดผม		,cash:140
+29,	L416		,total:147
+30,	L297		,total:27
+SPECIAL : 27/9/64, L216  ต่อสมาชิก 200 ชิ้น, total:206
+SPECIAL : 27/9/64, L370  ต่อสมาชิก 100 ชิ้น, total:96.5
+DATE : 26/9/64
+20,	L412		,total:101
+21,	L287		,total:14	,cash:28
+22,	L410		,total:31
+DATE : 25/9/64
+12,	L339		,total:6
+13,	L416		,total:148
+14,	L363		,total:19
+15,	L393		,cash:35
+16,	L216		,total:6
+17,	L213		,total:-63.5
+18,	L319		,cash:182
+19,	L417		,total:18
+DATE : 24/9/64
+7,	L363		,total:21
+8,	L287		,total:20	,cash:35
+9,	L216		,cash:305
+10,	L413		,total:212
+11,	L414		,total:72.5
+DATE : 23/9/64
+1,	เนย		,cash:337
+2,	L035		,total:-29.5	,cash:70
+3,	L179		,total:-2	,cash:98
+4,	L412		,total:104
+5,	L416		,total:149
+6,	L206		,total:67	,cash:43
+DATE : 21/9/64
+1001,	L287		,total:26	,cash:75
+1002,	L198		,total:-13
+1003,	L362		,total:36
+1004,	L410		,total:34
+1005,	L412		,total:106
+1006,	L297		,total:41
+1007,	L370		,total:-3.5	,cash:196
+1008,	ร้านตัดผม		,cash:120
+1009,	L415		,total:8
+DATE : 19/9/64
+998,	L417		,total:23
+999,	อ.อ๊อด		,cash:310
+1000,	L353		,total:32
+1001,	L414		,total:87.5
+1002,	L416		,total:153
+1003,	L287		,total:30
+1004,	ป๊อป		,cash:172
+1005,	L363		,total:33
+1006,	L902		,total:168
+1007,	L359		,total:-15
+1008,	ร้านตัดผม		,cash:65
+1009,	L258		,total:39	,cash:247
+SPECIAL : 19/9/64, L414  ต่อสมาชิก 100 ชิ้น, total:101.5
+SPECIAL : 19/9/64, L410  ต่อสมาชิก 50 ชิ้น, total:38
+DATE : 18/9/64
+997,	L413		,total:234
 DATE : 17/9/64
 990,	L363		,total:38
 991,	K.ปุ๋ย		,cash:900

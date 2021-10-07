@@ -1,6 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import math
+import matplotlib.pyplot as plt
 
 fpath = "data_64/"
 fname = "database.txt"
@@ -32,6 +33,11 @@ def main():
   cnt7 = []
   cnt15 = []
   cnt30 = []
+  cashs = []
+  counts = []
+  cashs7 = []
+  counts7 = []
+  all7 = []
   for indx in range(len(onlyfiles)):
     information = read_info(onlyfiles[indx])
     information = processing(information)
@@ -40,7 +46,19 @@ def main():
     for item in information:
       sum_count += item.count
       sum_cash += item.cash
+    counts.append(sum_count)
+    cashs.append(sum_cash)
     _all.append(sum_cash+sum_count*11)
+    len_cashs = len(cashs)
+    d = 30
+    if len_cashs < d:
+        cashs7.append(sum(cashs)/len_cashs)
+        counts7.append(sum(counts)/len_cashs)
+        all7.append(sum(_all)/len_cashs)
+    else:
+        cashs7.append(sum(cashs[len_cashs-d:])/d)
+        counts7.append(sum(counts[len_cashs-d:])/d)
+        all7.append(sum(_all[len_cashs-d:])/d)
     min_day = min(min_day, sum_cash+sum_count*11)
     max_day = max(max_day, sum_cash+sum_count*11)
     cnt7.append(sum_count)
@@ -86,6 +104,18 @@ def main():
   print("15 : %.2f, %.2f" % (min_15, max_15))
   print("30 : %.2f, %.2f" % (min_30, max_30))
   print("all: %.2f, avg: %.2f" % (sum(_all), (sum(_all)/len(_all))))
+
+  fig, axarr = plt.subplots(3, 1, sharex=True)
+  #axarr[0].plot(counts)
+  #axarr[1].plot(cashs)
+  #axarr[2].plot(_all)
+  axarr[0].plot(counts7)
+  axarr[1].plot(cashs7)
+  axarr[2].plot(all7)
+
+  #plt.gca().invert_xaxis()
+  plt.plot()
+  plt.show()
 
 def read_info(_fname):
   f = open(str(fpath+_fname), "r", encoding="utf8")
