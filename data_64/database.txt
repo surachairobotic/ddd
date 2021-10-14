@@ -1,3 +1,51 @@
+DATE : 12/10/64
+98,	L370		,total:57.5	,cash:70
+99,	L410		,total:18
+100,	L418		,total:-2	,cash:32
+101,	L416		,total:132
+102,	L206		,total:18	,cash:36
+103,	L216		,total:195
+104,	L179		,total:-24.5
+DATE : 11/10/64
+93,	L216		,cash:70
+94,	L287		,total:-14	,cash:14
+95,	L902		,total:156
+96,	L413		,total:168
+97,	L412		,total:83
+DATE : 10/10/64
+85,	L415		,total:0
+86,	L035		,total:147	,cash:156
+87,	L377		,total:15
+88,	ไนซ์		,cash:40
+89,	L417		,total:10
+90,	L418		,total:9
+91,	L353		,total:11
+92,	L363		,total:187
+DATE : 9/10/64
+75,	L412		,total:89
+76,	ร้านตัดผม		,cash:70
+77,	L363		,total:190
+78,	L110		,total:30
+79,	L410		,total:21
+80,	L359		,total:46
+81,	L206		,total:27
+82,	ซักอบ7*7		,cash:40
+83,	L319		,total:46.5	,cash:84
+84,	มุกจ่ายโอน		,cash:215
+DATE : 8/10/64 
+69,	L110		,total:33
+70,	L287		,total:-6	,cash:42
+71,	L414		,total:53.5
+72,	สุนทรี		,cash:500
+73,	L283		,total:9
+74,	L179		,total:-15.5	,cash:133
+DATE : 7/10/64
+65,	L410		,total:25
+66,	L035		,total:150.5
+67,	Rey		,cash:225
+68,	L416		,total:136
+SPECIAL : 7/10/64, L363  ต่อสมาชิก 200 ชิ้น, total:203
+SPECIAL : 7/10/64, L359  ต่อสมาชิก 100 ชิ้น, total:60
 DATE : 4/10/64
 55,	L283		,total:15
 56,	L297		,total:6
