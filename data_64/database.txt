@@ -1,3 +1,52 @@
+DATE : 26/10/64
+164,	L297		,total:52
+165,	L418		,total:8
+166,	L206		,total:191	,cash:14
+DATE : 25/10/64
+161,	L412		,total:69
+162,	L362		,total:164
+163,	บอส		,cash:50
+SPECIAL : 25/10/64, L213  ต่อสมาชิก 100 ชิ้น, total:36.5
+SPECIAL : 25/10/64, L206  ต่อสมาชิก 200 ชิ้น, total:201
+DATE : 24/10/64
+156,	L410		,total:9
+157,	L414		,total:38.5
+158,	อ.อ๊อด		,cash:502
+159,	L287		,total:-30	,cash:77
+160,	L419		,cash:192
+DATE : 23/10/64
+148,	L370		,total:26.5	,cash:600
+149,	L110		,total:18
+150,	L363		,total:157
+151,	L319		,total:39.5	,cash:155
+152,	L035		,total:127
+153,	L179		,total:63
+154,	L359		,total:14
+155,	L413		,total:138
+DATE : 22/10/64
+147,	L419		,total:1	,cash:225
+DATE : 21/10/64
+136,	L370		,total:27.5	,cash:115
+137,	L206		,total:1	,cash:14
+138,	L216		,total:188	,cash:35
+139,	L416		,total:123
+140,	L412		,total:75
+141,	L418		,total:24
+142,	L902		,total:147
+143,	L297		,total:64
+144,	L377		,total:0
+145,	L363		,total:162
+146,	L413		,total:145
+DATE : 19/10/64
+128,	L412		,total:76	,cash:180
+129,	L363		,total:169
+130,	L397		,total:36.5
+131,	L287		,total:-24	,cash:54
+132,	L110		,total:21
+133,	L410		,total:14
+134,	L198		,total:68	,cash:90
+135,	L902		,total:155
+SPECIAL : 19/10/64, L362  ต่อสมาชิก 200 ชิ้น, total:189
 DATE : 18/10/64
 127,	L362		,total:-11
 SPECIAL : 18/10/64, L297  ต่อสมาชิก 100 ชิ้น, total:86
