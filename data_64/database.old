@@ -1,3 +1,52 @@
+DATE : 30/10/64
+193,	L418		,total:6
+194,	มิก		,cash:230
+195,	L206		,total:178	,cash:89
+196,	L410		,total:-27	,cash:25
+197,	L393		,cash:35
+198,	L397		,cash:435
+199,	L412		,total:60
+SPECIAL : 30/10/64, L420  ต่อสมาชิก 30 ชิ้น, total:30
+INITIAL 30/10/64
+0000,	L420		,total:0
+DATE : 29/10/64
+182,	L216		,total:183
+183,	L416		,total:119
+184,	L419		,total:-6	,cash:250
+185,	L370		,total:11.5	,cash:130
+186,	ลูกค้า		,cash:155
+187,	L414		,total:33.5
+188,	น้อยหน่า		,cash:217
+189,	L363		,total:139
+190,	L110		,total:-6
+191,	L258		,total:8
+192,	L902		,total:141	,cash:108
+DATE : 28/10/64
+175,	L287		,total:154	,cash:70
+176,	แพร		,cash:95
+177,	L349		,total:76
+178,	L110		,total:-4
+179,	L283		,total:76
+180,	แพรว		,cash:100
+181,	L412		,total:61
+SPECIAL : 28/10/64, L283  ต่อสมาชิก 50 ชิ้น, total:87
+SPECIAL : 28/10/64, L349  ต่อสมาชิก 100 ชิ้น, total:142
+SPECIAL : 28/10/64, L287  ต่อสมาชิก 200 ชิ้น, total:162
+DATE : 28/10/64
+168,	L287		,total:-38	,cash:70
+169,	แพร		,cash:95
+170,	L349		,total:42
+171,	L110		,total:7
+172,	L283		,total:37
+173,	แพรว		,cash:100
+174,	L412		,total:65
+SPECIAL : 28/10/64, L283  ต่อสมาชิก 50 ชิ้น, total:48
+SPECIAL : 28/10/64, L349  ต่อสมาชิก 100 ชิ้น, total:108
+DATE : 26/10/64
+164,	L297		,total:52
+165,	L418		,total:12
+166,	L206		,total:191	,cash:14
+167,	L417		,total:1
 DATE : 25/10/64
 161,	L412		,total:69
 162,	L362		,total:164
@@ -18,7 +67,6 @@ DATE : 23/10/64
 152,	L035		,total:127
 153,	L179		,total:63
 154,	L359		,total:14
-155,	L413		,total:138
 DATE : 22/10/64
 147,	L419		,total:1	,cash:225
 DATE : 21/10/64
