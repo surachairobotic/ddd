@@ -1,8 +1,112 @@
+DATE : 13/11/64
+265,	L423		,cash:180
+266,	L423		,total:9
+267,	L213		,total:2.5
+268,	L216		,total:176
+269,	L370		,total:-18.5	,cash:123
+270,	L283		,total:64
+271,	จิรวรรณ		,cash:90
+272,	L363		,total:100
+273,	L206		,total:145	,cash:190
+274,	L331		,total:34
+SPECIAL : 13/11/64, L423  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 13/11/64, L359  ต่อสมาชิก 100 ชิ้น, total:88
+INITIAL 13/11/64
+0000,	L423		,total:0
+DATE : 12/11/64
+257,	L416		,total:114
+258,	L387		,total:1
+259,	L412		,total:47
+260,	L410		,total:5
+261,	L414		,total:2.5
+262,	L297		,total:10	,cash:25
+263,	L110		,total:54
+264,	L418		,total:19
+DATE : 11/11/64
+256,	L363		,total:109
+SPECIAL : 11/11/64, L418  ต่อสมาชิก 50 ชิ้น, total:35
+DATE : 9/11/64
+252,	L362		,total:133
+253,	L331		,total:37
+254,	L419		,total:15
+255,	L110		,total:63
+SPECIAL : 9/11/64, L353  ต่อสมาชิก 100 ชิ้น, total:87
+DATE : 8/11/64
+248,	L198		,total:51
+249,	L206		,total:158	,cash:28
+250,	L387		,total:8.5	,cash:50
+251,	L418		,total:-15
+DATE : 7/11/64
+240,	L414		,total:20.5
+241,	L412		,total:53	,cash:25
+242,	L413		,total:92
+243,	L422		,total:43
+244,	L421		,total:42
+245,	L902		,total:130
+246,	L287		,total:124	,cash:56
+247,	L035		,total:101	,cash:181
+SPECIAL : 7/11/64, L421  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 7/11/64, L422  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 7/11/64
+0000,	L421		,total:0
+0000,	L422		,total:0
+DATE : 6/11/64
+234,	L359		,total:-12
+235,	L319		,total:28.5	,cash:84
+236,	จิรวรรณ		,cash:115
+237,	อ.อ๊อด		,cash:490
+238,	L331		,total:39
+239,	L216		,total:182	,cash:260
+DATE : 5/11/64
+228,	นัท		,cash:1015
+229,	L331		,total:43
+230,	L363		,total:121
+231,	L413		,total:117
+232,	L110		,total:75
+233,	L206		,total:166	,cash:96
+SPECIAL : 5/11/64, L331  ต่อสมาชิก 50 ชิ้น, total:47
+DATE : 4/11/64
+221,	L287		,total:132	,cash:49
+222,	L383		,total:23
+223,	L297		,total:33
+224,	L377		,total:30
+225,	L110		,total:79
+226,	L412		,total:55
+227,	L416		,total:117
+SPECIAL : 4/11/64, L383  ต่อสมาชิก 30 ชิ้น, total:30
+DATE : 2/11/64
+217,	L110		,total:81
+218,	L412		,total:57
+219,	L331		,total:-3
+220,	L370		,total:5.5	,cash:69
+DATE : 1/11/64
+212,	L287		,total:138	,cash:15
+213,	L359		,total:0
+214,	L363		,total:133
+215,	ร้านตัดผม		,cash:50
+216,	ลูกค้า		,cash:367
+SPECIAL : 1/11/64, L419  ต่อสมาชิก 30 ชิ้น, total:24
+DATE : 31/10/64
+200,	อุ้ม		,cash:245
+201,	แก้ว		,cash:215
+202,	L035		,total:112.5
+203,	L110		,total:89
+204,	L287		,total:148	,cash:61
+205,	L410		,total:6
+206,	จอห์น		,cash:225
+207,	L353		,total:-13
+208,	L377		,total:36
+209,	L413		,total:121
+210,	L420		,total:28	,cash:474
+211,	ลูกค้ารีดอย่างเดียว		,cash:365
+SPECIAL : 31/10/64, L420  ต่อสมาชิก 100 ชิ้น, total:94
+SPECIAL : 31/10/64, L110  ต่อสมาชิก 100 ชิ้น, total:94
+SPECIAL : 31/10/64, L377  ต่อสมาชิก 50 ชิ้น, total:50
 DATE : 30/10/64
 193,	L418		,total:6
 194,	มิก		,cash:230
 195,	L206		,total:178	,cash:89
-196,	L410		,total:-27	,cash:25
+196,	L420		,total:-6	,cash:25
 197,	L393		,cash:35
 198,	L397		,cash:435
 199,	L412		,total:60

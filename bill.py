@@ -111,10 +111,10 @@ def main(_fname):
 
   style_a26 = styles.add_style('A26', WD_STYLE_TYPE.PARAGRAPH)
   style_a26.font.name = 'TH SarabunPSK'
-  style_a26.font.size = Pt(26)
+  style_a26.font.size = Pt(25)
   style_a26b = styles.add_style('A26B', WD_STYLE_TYPE.PARAGRAPH)
   style_a26b.font.name = 'TH SarabunPSK'
-  style_a26b.font.size = Pt(26)
+  style_a26b.font.size = Pt(25)
   style_a26b.font.bold = True
   style_a26b.font.underline = True
 
@@ -145,14 +145,23 @@ def main(_fname):
   style_a20b.font.bold = True
   style_a20b.font.underline = True
 
+  style_a19 = styles.add_style('A19', WD_STYLE_TYPE.PARAGRAPH)
+  style_a19.font.name = 'TH SarabunPSK'
+  style_a19.font.size = Pt(10)
+  style_a19b = styles.add_style('A19B', WD_STYLE_TYPE.PARAGRAPH)
+  style_a19b.font.name = 'TH SarabunPSK'
+  style_a19b.font.size = Pt(10)
+  style_a19b.font.bold = True
+  style_a19b.font.underline = True
+
   f_tmp2 = open(fpath+"database.tmp2", "w", encoding="utf8")
   f_tmp2.writelines("DATE : "+date+'\n')
 
   for j in range(len(information)):
     information[j].info = insert_space(information[j].info)
 
-  font_sz = [36, 33, 30, 27, 26, 24, 22, 20]
-  lines   = [ 6,  7,  8,  9, 10, 11, 12, 14]
+  font_sz = [36, 33, 30, 27, 26, 24, 22, 20, 19]
+  lines   = [ 6,  7,  8,  9, 10, 11, 12, 14, 15]
   charact = [16, 16, 18, 20, 22, 24]
 
   j=0
@@ -172,7 +181,7 @@ def main(_fname):
         print(information[j].info)
     information[j].line = len(information[j].info)+line
     print("ID:%s, line:%d, font:%d, font_indx:%d" % (information[j].id, information[j].line, information[j].font_sz, max(0, information[j].line-6)))
-    information[j].font_sz = font_sz[min(7, max(0, information[j].line-6))]
+    information[j].font_sz = font_sz[min(8, max(0, information[j].line-6))]
     j=j+1
   
   seq=seq+1
