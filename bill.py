@@ -285,7 +285,7 @@ def get_date():
   f_data.close()
   if _date[len(_date)-1] == '\n':
     _date = _date[:len(_date)-1]
-  if _date.find("/63") == -1:
+  if _date.find("/64") == -1:
     print("Invalid date ...")
   return _date
 
@@ -367,7 +367,7 @@ def read_info():
     if v.id.isnumeric():
       v.id = str("L" + v.id)
     start = 1
-    if tmp[1][0] is '(':
+    if tmp[1][0] == '(':
       v.id_ex = tmp[1]
       start = 2
     v.info = tmp[start:len(tmp)]
@@ -423,11 +423,11 @@ def processing(information):
             #print("%s | %s" % (mul, _sum_cash))
           else:
             v.count = v.count + mul
-          if (len(new_info) is 3) and (mul != new_info[2]):
+          if (len(new_info) == 3) and (mul != new_info[2]):
             print("new=%s : old=%s : %s" %(new_info, _info, normal_round(new_info[0]*new_info[1])))
             _b_err = True
             break
-          elif len(new_info) is 2:
+          elif len(new_info) == 2:
             #print('In')
             #print(v.info[k])
             v.info[k] = v.info[k]+str('=')+str(mul)
