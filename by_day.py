@@ -3,7 +3,7 @@ from os.path import isfile, join
 import math
 import matplotlib.pyplot as plt
 
-fpath = "data_64/"
+fpath = "data_64 - Copy/"
 fname = "database.txt"
 
 def main():
@@ -80,23 +80,23 @@ def main():
     while len(cnt30) > 30:
       cnt30.pop(0)
     _str = str("%s, count: %.2f, cash: %.2f, total:%.2f" % (onlyfiles[indx], sum_count, sum_cash, sum_cash+sum_count*11))
-    if len(avg7) is 7:
+    if len(avg7) == 7:
       _str += str(", avg[7]: %f" % (sum(avg7)/len(avg7)))
       min_7 = min(min_7, sum(avg7)/len(avg7))
       max_7 = max(max_7, sum(avg7)/len(avg7))
-    if len(avg15) is 15:
+    if len(avg15) == 15:
       _str += str(", avg[15]: %f" % (sum(avg15)/len(avg15)))
       min_15 = min(min_15, sum(avg15)/len(avg15))
       max_15 = max(max_15, sum(avg15)/len(avg15))
-    if len(avg30) is 30:
+    if len(avg30) == 30:
       _str += str(", avg[30]: %f" % (sum(avg30)/len(avg30)))
       min_30 = min(min_30, sum(avg30)/len(avg30))
       max_30 = max(max_30, sum(avg30)/len(avg30))
-    if len(cnt7) is 7:
+    if len(cnt7) == 7:
       _str += str(", cnt[7]: %f" % (sum(cnt7)/len(cnt7)))
-    if len(cnt15) is 15:
+    if len(cnt15) == 15:
       _str += str(", cnt[15]: %f" % (sum(cnt15)/len(cnt15)))
-    if len(cnt30) is 30:
+    if len(cnt30) == 30:
       _str += str(", cnt[30]: %f" % (sum(cnt30)/len(cnt30)))
     print(_str)
   print("day : %.2f, %.2f" % (min_day, max_day))
@@ -142,7 +142,7 @@ def read_info(_fname):
     tmp = data[i].split()
     v = Person()
     start = 1
-    if tmp[1][0] is '(':
+    if tmp[1][0] == '(':
       start = 2
     end = len(tmp)
     if tmp[len(tmp)-1].isnumeric() or tmp[len(tmp)-1].find("-") != -1:
@@ -175,11 +175,11 @@ def processing(information):
             #print("%s | %s" % (mul, _sum_cash))
           else:
             v.count = v.count + mul
-          if (len(new_info) is 3) and (mul != new_info[2]):
+          if (len(new_info) == 3) and (mul != new_info[2]):
             print("new=%s : old=%s : %s" %(new_info, _info, normal_round(new_info[0]*new_info[1])))
             _b_err = True
             break
-          elif len(new_info) is 2:
+          elif len(new_info) == 2:
             #print('In')
             #print(v.info[k])
             v.info[k] = v.info[k]+str('=')+str(mul)
