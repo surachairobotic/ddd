@@ -1,3 +1,73 @@
+DATE : 14/12/64
+451,	L419		,total:-23
+452,	พัด		,cash:80
+453,	คุณฝน		,cash:300
+454,	L377		,total:19
+455,	L418		,total:72
+456,	L349		,total:-6
+457,	L362		,total:66
+DATE : 13/12/64
+445,	L206		,total:86	,cash:21
+446,	L297		,total:30
+447,	L216		,total:159
+448,	L353		,total:48
+449,	L271		,cash:225
+450,	L353		,total:48
+DATE : 12/12/64
+439,	L287		,total:68	,cash:14
+440,	L271		,total:9
+441,	อุ้ม		,cash:355
+442,	L035		,total:80	,cash:137
+443,	L363		,total:24
+444,	L387		,total:25
+DATE : 11/12/64
+434,	L414		,total:44.5
+435,	L425		,total:19
+436,	อ.อ๊อด		,cash:395
+437,	L424		,total:15
+438,	L412		,total:19
+DATE : 10/12/64
+425,	L179		,total:35.5
+426,	L418		,total:92
+427,	L110		,total:7
+428,	L377		,total:35
+429,	อู๊ด		,cash:75
+430,	L287		,total:70	,cash:110
+431,	L412		,total:21
+432,	L206		,total:92	,cash:110
+433,	L410		,total:25
+SPECIAL : 10/12/64, L418  ต่อสมาชิก 100 ชิ้น, total:100
+DATE : 9/12/64
+417,	L902		,total:95	,cash:49
+418,	L363		,total:30
+419,	L370		,total:17.5	,cash:66
+420,	L359		,total:36
+421,	L297		,total:44
+422,	ร้านตัดผม		,cash:90
+423,	L331		,total:2
+424,	L283		,total:27
+DATE : 7/12/64
+412,	คลินิก		,cash:25
+413,	L410		,total:29
+414,	L418		,total:0
+415,	L110		,total:10
+416,	L258		,total:-41	,cash:659
+DATE : 6/12/64
+404,	L319		,total:19.5	,cash:140
+405,	L414		,total:55.5
+406,	L363		,total:40
+407,	L206		,total:103	,cash:21
+408,	ร้านตัดผม		,cash:25
+409,	L902		,total:106
+410,	L198		,total:22
+411,	L420		,total:-5
+SPECIAL : 6/12/64, L418  ต่อสมาชิก 50 ชิ้น, total:15
+SPECIAL : 6/12/64, L377  ต่อสมาชิก 50 ชิ้น, total:48
+SPECIAL : 6/12/64, L414  ต่อสมาชิก 100 ชิ้น, total:73.5
+DATE : 5/12/64
+401,	L035		,total:90	,cash:145
+402,	จอห์น		,cash:225
+403,	L424		,total:28
 DATE : 4/12/64
 388,	L035		,total:96	,cash:35
 389,	L387		,total:27.5
@@ -22,7 +92,6 @@ DATE : 3/12/64
 387,	L363		,total:47
 SPECIAL : 3/12/64, L423  ต่อสมาชิก 30 ชิ้น, total:30
 DATE : 2/12/64
-375,	L362		,total:57
 376,	L331		,total:16
 377,	L370		,total:37.5	,cash:82
 378,	L425		,total:35
