@@ -14,7 +14,7 @@ from docx2pdf import convert
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
 
-fpath = "C:/ddd/data_64/"
+fpath = "C:/ddd/data_65/"
 pdfpath = "C:/ddd/"
 fname = "data_63_1_23"
 #fname = "data_63_09_26ชุดที่2"
@@ -524,12 +524,12 @@ if __name__ == '__main__':
   print('Argument List: ' + str(sys.argv))
   
   if len(sys.argv) > 1:
-    if sys.argv[1].find('data_64/data_64_') != -1:
+    if sys.argv[1].find('data_65/data_65_') != -1:
       _fname = sys.argv[1][8:-4]
       print("fname: " + _fname)
       main(_fname)
     else:
-      print("if sys.argv[1].find('data/data_6') != -1 is FALSE")
+      print("if sys.argv[1].find('data_65/data_65') != -1 is FALSE")
   else:
     print("if len(sys.argv) > 1 is FALSE")
 

@@ -1,3 +1,14 @@
+DATE : 27/12/64
+539,	L363		,total:172
+540,	L418		,total:29
+541,	L206		,total:60	,cash:14
+542,	L412		,total:4
+543,	L362		,total:38
+DATE : 26/12/64
+535,	L342		,total:165.5
+536,	L206		,total:63	,cash:49
+537,	L110		,total:154
+538,	L297		,total:92
 DATE : 30/12/64
 534,	L363		,total:183
 DATE : 29/12/64

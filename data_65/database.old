@@ -1,3 +1,111 @@
+DATE : 12/1/65
+611,	L233		,total:-1
+612,	ป๊อปจ่ายแล้ว		,cash:10
+613,	L340		,total:45
+614,	L179		,total:26.5	,cash:48
+615,	L428		,total:31
+616,	เจ้านายโต		,cash:150
+617,	L363		,total:135
+618,	L377		,total:-23
+619,	ร้านตัดผม		,cash:20
+620,	อิน		,cash:200
+SPECIAL : 12/1/65, L410  ต่อสมาชิก 50 ชิ้น, total:48
+SPECIAL : 12/1/65, L428  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 12/01/65
+0000,	L428		,total:0
+DATE : 11/1/65
+605,	L339		,total:49
+606,	L426		,total:14
+607,	L244		,total:-2.5
+608,	อิน		,cash:200
+609,	L423		,total:12	,cash:125
+610,	L414		,total:88.5
+SPECIAL : 11/1/65, L427  ต่อสมาชิก 200 ชิ้น, total:200
+SPECIAL : 11/1/65, L339  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 11/1/65, L414  ต่อสมาชิก 100 ชิ้น, total:100.5
+INITIAL 11/01/65
+0000,	L427		,total:0
+DATE : 10/01/65
+599,	อ้อย		,cash:280
+600,	L426		,total:96
+601,	L297		,total:72
+602,	ลูกค้า		,cash:635
+603,	L393		,cash:35
+604,	L258		,total:11	,cash:521
+SPECIAL : 10/01/65, L418  ต่อสมาชิก 100 ชิ้น, total:103
+SPECIAL : 10/01/65, L426  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 10/01/65
+0000,	L426		,total:0
+DATE : 09/01/65
+589,	L387		,total:-0.5
+590,	อู๊ด		,cash:125
+591,	อิน		,cash:200
+592,	ซี		,cash:500
+593,	L410		,total:-2
+594,	L359		,total:1
+595,	L353		,total:18
+596,	L035		,total:67	,cash:35
+597,	L370		,total:57.5	,cash:333
+598,	L363		,total:143	,cash:225
+DATE : 08/01/65
+581,	ป๊อป		,cash:275
+582,	อิน		,cash:45
+583,	L339		,total:0
+584,	L340		,total:53.5
+585,	L418		,total:3	,cash:45
+586,	อ.อ๊อด		,cash:430
+587,	L110		,total:136
+588,	L413		,total:17
+DATE : 07/01/65
+571,	L314		,total:7
+572,	L255		,cash:45
+573,	L244		,total:0.5
+574,	L271		,total:5
+575,	L412		,total:196
+576,	L363		,total:149
+577,	L287		,total:28	,cash:68
+578,	L340		,total:55.5
+579,	L342		,total:157.5
+580,	หยา		,cash:215
+SPECIAL : 07/01/65, L283  ต่อสมาชิก 100 ชิ้น, total:85
+SPECIAL : 07/01/65, L412  ต่อสมาชิก 200 ชิ้น, total:204
+DATE : 06/01/65
+560,	L410		,total:2
+561,	ร้านตัดผม		,cash:110
+562,	L314		,total:9	,cash:125
+563,	L206		,total:45	,cash:124
+564,	คุณฝน		,cash:350
+565,	L283		,total:-15
+566,	L418		,total:11	,cash:50
+567,	อาเธอร์		,cash:931
+568,	L230		,total:42
+569,	L244		,total:2.5
+570,	L421		,total:2
+SPECIAL : 06/01/65, L370  ต่อสมาชิก 100 ชิ้น, total:78.5
+DATE : 05/01/65
+555,	L342		,cash:510
+556,	พีช		,cash:305
+557,	การ์ด		,cash:250
+558,	คลินิค		,cash:25
+559,	L414		,total:0.5
+DATE : 04/01/65
+552,	L287		,total:30	,cash:105
+553,	L359		,total:14
+554,	บี		,cash:280
+DATE : 03/01/65
+544,	L319		,total:12.5	,cash:228
+546,	L110		,total:145
+547,	L287		,total:36	,cash:89
+548,	อู๊ด		,cash:320
+549,	L387		,total:6	,cash:25
+550,	L410		,total:6
+551,	L363		,total:159
+DATE : 27/12/64
+539,	L363		,total:172
+540,	L418		,total:29
+541,	L206		,total:60	,cash:14
+542,	L412		,total:4
+543,	L362		,total:38
 DATE : 26/12/64
 535,	L342		,total:165.5
 536,	L206		,total:63	,cash:49
