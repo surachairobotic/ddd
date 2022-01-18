@@ -1,3 +1,30 @@
+DATE : 17/1/65
+638,	L349		,total:38
+639,	L223		,total:152
+640,	L339		,total:43
+641,	L902		,total:76	,cash:222
+642,	น้ำขิง		,cash:570
+643,	L110		,total:119
+644,	L297		,total:53
+645,	L412		,total:185
+DATE : 15/1/65
+628,	L287		,total:23	,cash:77
+629,	L412		,total:189
+630,	L387		,total:-3
+631,	L283		,total:71
+632,	L110		,total:121
+633,	L319		,total:11.5	,cash:156
+634,	L426		,total:86
+635,	L428		,total:20.5
+636,	L216		,total:138.5
+637,	L427		,total:118
+SPECIAL : 15/1/65, L429  ต่อสมาชิก 100 ชิ้น, total:100
+SPECIAL : 15/1/65, L421  ต่อสมาชิก 50 ชิ้น, total:52
+SPECIAL : 15/1/65, L425  ต่อสมาชิก 100 ชิ้น, total:100
+SPECIAL : 15/1/65, L179  ต่อสมาชิก 100 ชิ้น, total:126.5
+SPECIAL : 15/1/65, L244  ต่อสมาชิก 30 ชิ้น, total:24.5
+INITIAL 15/01/65
+0000,	L429		,total:0
 DATE : 14/1/65
 621,	อู๊ด		,cash:165
 622,	L416		,total:92
@@ -23,7 +50,6 @@ INITIAL 12/01/65
 0000,	L428		,total:0
 DATE : 11/1/65
 605,	L339		,total:49
-606,	L426		,total:14
 607,	L244		,total:-2.5
 608,	อิน		,cash:200
 609,	L423		,total:12	,cash:125
