@@ -1,3 +1,29 @@
+DATE : 19/1/65
+655,	L061		,total:-1
+656,	L223		,total:150
+657,	L271		,total:25	,cash:30
+658,	L423		,total:2
+659,	L430		,total:22
+660,	L035		,total:53.5	,cash:117
+661,	L206		,total:32	,cash:70
+662,	L370		,total:41.5	,cash:152
+663,	L423		,cash:380
+664,	L425		,total:81	,cash:215
+665,	L413		,cash:300
+DATE : 18/1/64
+646,	L422		,total:22
+647,	L382		,total:4
+648,	L421		,total:46
+649,	L353		,total:10
+650,	L414		,total:71.5
+651,	อ.อ๊อด		,cash:435
+652,	L425		,total:87
+653,	L363		,total:125
+654,	L387		,total:-4
+SPECIAL : 18/1/64, L430  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 18/1/64, L271  ต่อสมาชิก 30 ชิ้น, total:35
+INITIAL 18/01/65
+0000,	L430		,total:0
 DATE : 17/1/65
 638,	L349		,total:38
 639,	L223		,total:152
