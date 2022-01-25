@@ -1,5 +1,70 @@
+DATE : 24/1/65
+706,	L432		,total:198
+707,	คุณฝน		,cash:350
+708,	L283		,total:57
+709,	L377		,total:15
+710,	L424		,total:3
+711,	L035		,total:42.5
+712,	L421		,total:38
+713,	เน็ท		,cash:45
+714,	L271		,total:19
+715,	L387		,total:38
+DATE : 23/1/65
+701,	L179		,total:114.5	,cash:14
+702,	L410		,total:42
+703,	L430		,total:16	,cash:45
+704,	L342		,cash:710
+705,	ผ้าปู(ปลอกหมอนสี่)2*35		,cash:21
+SPECIAL : 23/1/65, L387  ต่อสมาชิก 50 ชิ้น, total:40.5
+SPECIAL : 23/1/65, L377  ต่อสมาชิก 50 ชิ้น, total:27
+DATE : 22/1/65
+688,	L430		,total:19
+689,	L206		,total:28	,cash:89
+690,	L413		,total:8
+691,	L216		,total:134.5
+692,	อ.อ๊อด		,cash:340
+693,	L342		,total:96.5
+694,	L293		,total:44
+695,	L431		,total:11
+696,	L414		,total:53.5
+697,	L271		,total:21
+698,	L314		,total:1
+699,	L363		,total:104
+700,	L319		,total:1.5	,cash:130
+SPECIAL : 22/1/65, L293  ต่อสมาชิก 50 ชิ้น, total:50
+SPECIAL : 22/1/65, L432  ต่อสมาชิก 200 ชิ้น, total:200
+INITIAL 22/01/65
+0000,	L432		,total:0
+DATE : 21/1/64
+681,	L223		,total:146
+682,	L340		,total:34
+683,	L359		,total:-27
+684,	L362		,total:10
+685,	L297		,total:36
+686,	ป๊อป		,cash:20
+687,	L319		,total:7
+DATE : 20/1/65
+666,	L287		,cash:77
+667,	L426		,total:76
+668,	L431		,total:18
+669,	อู๊ด		,cash:190
+670,	L363		,total:113
+671,	L110		,total:112
+672,	L418		,total:85
+673,	L427		,total:108
+674,	ไม้หอม		,cash:420
+675,	L412		,total:182
+676,	L244		,total:20.5
+677,	L230		,total:32
+678,	L387		,total:-9.5
+679,	L179		,total:117	,cash:143
+680,	L342		,total:114.5
+SPECIAL : 20/1/65, L431  ต่อสมาชิก 30 ชิ้น, total:30
+SPECIAL : 20/1/65, L198  ต่อสมาชิก 100 ชิ้น, total:84
+INITIAL 20/01/65
+0000,	L431		,total:0
 DATE : 19/1/65
-655,	L061		,total:-1
+655,	L061		,total:47
 656,	L223		,total:150
 657,	L271		,total:25	,cash:30
 658,	L423		,total:2
