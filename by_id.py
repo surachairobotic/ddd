@@ -20,7 +20,9 @@ def main():
   #exit()
 
   f = open(str(fpath[0]+"database_by_id.txt"), "w", encoding='utf-8')  
-  fa = open(str(fpath[0]+"database_by_id_all.txt"), "w", encoding='utf-8')  
+  fa = open(str(fpath[0]+"database_by_id_all.txt"), "w", encoding='utf-8')
+  print(str(fpath[0]+"database_by_id.txt"))
+  print(str(fpath[0]+"database_by_id_all.txt"))
   for _id in range(0, 999):
     txt = "L"+"{:0>3d}".format(_id)
     #f.writelines("-----  "+txt+"  -----\n")
