@@ -1,3 +1,128 @@
+DATE : 24/2/65
+941,	L223		,total:115
+942,	L410		,total:21
+943,	อิน		,cash:125
+944,	L432		,total:167
+945,	L339		,total:24
+946,	L293		,total:13
+947,	L425		,total:12
+948,	L427		,total:12
+949,	L363		,total:30
+950,	L418		,total:-18
+951,	L423		,cash:275
+952,	ปลาวาฬ		,cash:100
+953,	L342		,total:71
+954,	L432		,cash:300
+DATE : 23/2/65
+935,	L198		,total:46
+936,	L319		,total:84.5
+937,	L370		,total:61.5	,cash:125
+938,	L427		,total:49
+939,	L258		,total:-36	,cash:270
+940,	มะยม		,cash:100
+DATE : 22/2/65
+929,	L427		,total:129
+930,	L426		,total:70
+931,	ร้านตัดผม		,cash:45
+932,	L383		,total:-9
+933,	L293		,total:17
+934,	L387		,total:17
+DATE : 21/2/65
+921,	ลูกค้า		,cash:300
+922,	L410		,total:25
+923,	L287		,total:154	,cash:35
+924,	L223		,cash:80
+925,	L179		,total:71.5	,cash:126
+926,	L342		,total:102
+927,	L432		,total:178
+928,	L271		,cash:180
+SPECIAL : 21/2/65, L427  ต่อสมาชิก 200 ชิ้น, total:159
+SPECIAL : 21/2/65, L287  ต่อสมาชิก 177 ชิ้น, total:163
+DATE : 20/2/65
+914,	แพร		,cash:100
+915,	L339		,total:28
+916,	L387		,total:19.5
+917,	L319		,total:87	,cash:130
+918,	อ.อ๊อด		,cash:370
+919,	ลูกค้า		,cash:419
+920,	L418		,total:-2
+SPECIAL : 20/2/65, L213  ต่อสมาชิก 50 ชิ้น, total:30.5
+DATE : 19/2/65
+904,	L410		,total:29
+905,	L363		,total:42
+906,	L297		,cash:70
+907,	L293		,total:28
+908,	L314		,total:28
+909,	L415		,total:73
+910,	L423		,total:21
+911,	L414		,total:-5.5
+912,	ปลาวาฬ		,cash:150
+913,	L359		,total:1
+SPECIAL : 19/2/65, L423  ต่อสมาชิก 50 ชิ้น, total:40
+DATE : 18/2/65
+894,	L271		,total:1	,cash:52
+895,	L297		,total:63	,cash:25
+896,	L216		,total:118.5	,cash:35
+897,	L230		,total:22
+898,	L287		,total:-14	,cash:35
+899,	L342		,total:124
+900,	L421		,total:16
+901,	L223		,total:119	,cash:70
+902,	L035		,total:93	,cash:53
+903,	L310		,total:94
+DATE : 17/2/65
+888,	L427		,total:-41
+889,	L412		,total:164
+890,	L225		,total:1
+891,	L223		,total:120
+892,	อู๊ด		,cash:130
+893,	L430		,total:-1	,cash:154
+SPECIAL : 17/2/65, L342  ต่อสมาชิก 200 ชิ้น, total:169
+DATE : 16/2/65
+883,	L427		,total:9
+884,	L377		,total:-16
+885,	L413		,total:152
+886,	L425		,total:26
+887,	L418		,total:13	,cash:25
+DATE : 15/2/65
+873,	L427		,total:28
+874,	ไอซ์จ่ายโอน		,cash:300
+875,	L370		,total:74.5	,cash:21
+876,	L223		,total:122
+877,	L383		,total:0
+878,	L283		,total:24.5
+879,	L427		,total:36
+880,	L432		,total:180
+881,	L363		,total:44
+882,	L314		,total:33
+DATE : 14/2/65
+863,	ร้านตัดผม		,cash:20
+864,	L425		,total:30
+865,	L353		,total:80
+866,	มะเฟือง		,cash:10
+867,	L432		,total:184	,cash:300
+868,	L425		,cash:225
+869,	L342		,total:-31
+870,	L198		,total:63
+871,	L283		,total:36
+872,	L427		,total:55
+SPECIAL : 14/2/65, L370  ต่อสมาชิก 100 ชิ้น, total:81.5
+DATE : 13/2/65
+850,	L061		,total:45
+851,	L339		,total:32
+852,	จ๋า		,cash:160
+853,	L319		,total:91.5	,cash:112
+854,	L287		,total:-6	,cash:56
+855,	ตะวัน		,cash:140
+856,	L414		,total:7.5
+857,	L363		,total:49
+858,	อู๊ด		,cash:155
+859,	L314		,total:34
+861,	L362		,total:171
+862,	L179		,total:80	,cash:56
+SPECIAL : 13/2/65, L353  ต่อสมาชิก 100 ชิ้น, total:95
+SPECIAL : 13/2/65, L035  ต่อสมาชิก 100 ชิ้น, total:105
+SPECIAL : 13/2/65, L362  ต่อสมาชิก 200 ชิ้น, total:193
 DATE : 12/2/65
 846,	L359		,total:23
 847,	L423		,total:-10	,cash:180
