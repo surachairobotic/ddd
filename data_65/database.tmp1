@@ -1,3 +1,80 @@
+DATE : 2/3/65
+991,	L383		,total:17
+992,	L297		,total:36
+993,	L339		,total:19
+994,	L110		,total:88
+995,	L223		,total:113
+996,	L428		,total:13.5
+997,	L061		,total:43
+998,	L287		,total:138	,cash:21
+SPECIAL : 2/3/65, L359  ต่อสมาชิก 100 ชิ้น, total:92
+SPECIAL : 2/3/65, L349  ต่อสมาชิก 100 ชิ้น, total:76
+SPECIAL : 2/3/65, L383  ต่อสมาชิก 30 ชิ้น, total:21
+DATE : 28/2/65
+987,	L216		,total:111.5
+988,	L314		,total:23
+989,	L342		,total:51	,cash:239
+990,	L370		,total:47.5	,cash:42
+SPECIAL : 28/2/65, L428  ต่อสมาชิก 30 ชิ้น, total:35
+DATE : 27/2/65
+978,	L359		,total:-8	,cash:25
+979,	L377		,total:10
+980,	L339		,total:23
+981,	อู๊ด		,cash:200
+982,	L425		,total:5
+983,	L414		,total:-17.5
+984,	L362		,total:153
+985,	L433		,total:47
+986,	L349		,total:-24
+SPECIAL : 27/2/65, L271  ต่อสมาชิก 30 ชิ้น, total:21
+SPECIAL : 27/2/65, L377  ต่อสมาชิก 50 ชิ้น, total:34
+SPECIAL : 27/2/65, L418  ต่อสมาชิก 100 ชิ้น, total:82
+SPECIAL : 27/2/65, L433  ต่อสมาชิก 50 ชิ้น, total:50
+INITIAL 27/02/65
+0000,	L433		,total:0
+DATE : 26/2/65
+968,	L287		,total:146	,cash:110
+969,	L213		,total:-8.5
+970,	L035		,total:84	,cash:95
+971,	L271		,total:-9
+972,	ร้านทำคิ้ว		,cash:25
+973,	L179		,total:66.5	,cash:105
+974,	L283		,total:21.5
+975,	L421		,total:7
+976,	L363		,total:24
+977,	L412		,total:154
+DATE : 25/2/65
+955,	L223		,total:114
+956,	L340		,total:3
+957,	L035		,total:86
+958,	L230		,total:17
+959,	L353		,total:64
+960,	L413		,total:138
+961,	L430		,total:-17	,cash:154
+962,	L297		,total:51	,cash:25
+963,	โบ		,cash:160
+964,	L904		,total:69	,cash:84
+965,	L416		,total:86
+966,	L387		,total:14.5	,cash:25
+967,	ไกล		,cash:250
+SPECIAL : 25/2/65, L904  ต่อสมาชิก 100 ชิ้น, total:100
+INITIAL 25/02/65
+0000,	L904		,total:0
+DATE : 24/2/65
+941,	L223		,total:115
+942,	L410		,total:21
+943,	อิน		,cash:125
+944,	L432		,total:167
+945,	L339		,total:24
+946,	L293		,total:13
+947,	L425		,total:12
+948,	L427		,total:12
+949,	L363		,total:30
+950,	L418		,total:-18
+951,	L423		,cash:275
+952,	ปลาวาฬ		,cash:100
+953,	L342		,total:71
+954,	L432		,cash:300
 DATE : 23/2/65
 935,	L198		,total:46
 936,	L319		,total:84.5
