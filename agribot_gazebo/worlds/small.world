@@ -329,7 +329,7 @@
           </geometry>
         </visual>
         <sensor type="depth" name="camera1">
-          <update_rate>10</update_rate>
+          <update_rate>30</update_rate>
           <visualize>false</visualize>
           <camera>
             <!-- HFOV = 2*math.atan( width / fx / 2.0 ) -->
@@ -363,7 +363,9 @@
               <remapping>mycamera/depth/image_raw:=camera/rs_front/aligned_depth_to_color/image_raw</remapping>
               <remapping>mycamera/camera_info:=camera/rs_front/color/camera_info</remapping>
               <remapping>mycamera/depth/camera_info:=camera/rs_front/aligned_depth_to_color/camera_info</remapping>
-              <remapping>mycamera/points:=camera/rs_front/points</remapping>
+              <!-- <remapping>mycamera/points:=camera/rs_front/points /camera/depth/color/points</remapping>
+              -->
+              <remapping>mycamera/points:=/camera/depth/color/points</remapping>
             </ros>
 
             <!-- omit camera_name to default to sensor name -->
@@ -385,7 +387,8 @@
         <parent>base_link</parent>
         <child>rs_front</child>
       </joint>
-      
+
+<!--      
       <link name='camera_weed1'>
         <pose>0.6 0 1.0 0 1.27 0</pose>
         <visual name='visual'>
@@ -414,11 +417,13 @@
               <remapping>weed1/image_raw:=camera/weed1/image_raw</remapping>
               <remapping>weed1/camera_info:=camera/weed1/camera_info</remapping>
             </ros>
+-->
             <!-- omit camera_name to default to sensor name -->
+<!--
             <camera_name>weed1</camera_name>
           </plugin>
           <always_on>1</always_on>
-          <update_rate>10</update_rate>
+          <update_rate>30</update_rate>
         </sensor>
       </link>
 
@@ -426,8 +431,9 @@
         <parent>base_link</parent>
         <child>camera_weed1</child>
       </joint>
-      
+-->
       <!-- rear camera -->
+<!--
       <link name='camera_rear'>
         <pose>-0.7 0 1.0 0 1.37 0</pose>
         <visual name='visual'>
@@ -456,11 +462,13 @@
               <remapping>rear/image_raw:=camera/rear/image_raw</remapping>
               <remapping>rear/camera_info:=camera/rear/camera_info</remapping>
             </ros>
+-->
             <!-- omit camera_name to default to sensor name -->
+<!--
             <camera_name>rear</camera_name>
           </plugin>
           <always_on>1</always_on>
-          <update_rate>10</update_rate>
+          <update_rate>30</update_rate>
         </sensor>
       </link>
 
@@ -468,7 +476,7 @@
         <parent>base_link</parent>
         <child>camera_rear</child>
       </joint>
-      
+-->
     </model>
 
 
