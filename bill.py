@@ -9,7 +9,9 @@ from docx import Document
 from docx.shared import Mm, Pt, Inches
 from docx.enum.style import WD_STYLE_TYPE
 
-from docx2pdf import convert
+#from docx2pdf import convert
+
+from convert import *
 
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
@@ -240,7 +242,9 @@ def main(_fname):
   pdf = pdfpath+'demo_'+fname+'.pdf'
   print("pdf="+pdf)
   document.save(docx)
-  convert(docx, pdf)
+  
+  Convert().DOCXtoPDF(docx, pdf)
+  #convert(docx, pdf)
   
   #document.save('debug.docx')
 
