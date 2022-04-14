@@ -1,7 +1,52 @@
+DATE : 11/4/65
+264,	L223		,total:77
+265,	อู๊ด		,cash:25
+266,	แพร		,cash:100
+267,	ลัดดา		,cash:300
+268,	L198		,total:5
+269,	L410		,total:41
+270,	L412		,total:112
+SPECIAL : 11/4/65, L359  ต่อสมาชิก 100.0 ชิ้น, total:91
+DATE : 10/4/65
+256,	อุ้ม		,cash:225
+257,	อ.อ๊อด		,cash:495
+258,	L414		,total:95.5
+259,	L297		,total:25
+260,	L432		,total:148
+261,	L410		,total:43
+262,	L423		,total:18
+263,	L423		,cash:809
+SPECIAL : 10/4/65, L035  ต่อสมาชิก 10.5 ชิ้น, total:0
+SPECIAL : 10/4/65, L179  ต่อสมาชิก 2.0 ชิ้น, total:0
+DATE : 9/4/65
+248,	L430		,cash:73
+249,	L216		,total:72.5
+250,	L287		,total:60	,cash:49
+251,	L427		,total:159
+252,	L359		,cash:180
+253,	L331		,total:14
+254,	L314		,total:44
+255,	L363		,total:138
+DATE : 8/4/65
+243,	L418		,cash:125
+244,	L283		,total:9.5
+245,	L428		,total:-8
+246,	L433		,total:28
+247,	L359		,total:-9
+DATE : 7/4/65
+236,	L418		,total:83	,cash:35
+237,	L342		,total:73
+238,	L225		,total:24
+239,	อู๊ด		,cash:130
+240,	L410		,total:47
+241,	L223		,total:79
+242,	L331		,total:20
+SPECIAL : 7/4/65, L417  ต่อสมาชิก 50 ชิ้น, total:35
+SPECIAL : 7/4/65, L410  ต่อสมาชิก 50 ชิ้น, total:49
+SPECIAL : 7/4/65, L225  ต่อสมาชิก 30 ชิ้น, total:31
 DATE : 5/4/65
 224,	L179		,total:6.5	,cash:30
 225,	L223		,total:81
-226,	L418		,total:85	,cash:49
 227,	L179		,total:6.5
 228,	L321		,total:24
 229,	L433		,total:33

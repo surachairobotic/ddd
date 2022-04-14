@@ -304,7 +304,7 @@ def total_expand(_date):
     print(txt)
     if txt[0] == "++":
       _id = txt[1]
-      _value = int(txt[2])
+      _value = float(txt[2])
       _old_total = get_old_total(str(fpath+"database.txt"), "L"+_id)
       if _old_total != '-':
         _new_total = float(_old_total) + _value
