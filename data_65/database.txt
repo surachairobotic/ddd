@@ -1,3 +1,32 @@
+DATE : 21/5/65
+285,	พี่ต๋อย		,cash:160
+286,	L223		,total:71	,cash:25
+287,	L426		,total:64
+288,	L435		,total:24
+289,	L297		,total:-1
+290,	L342		,total:44	,cash:350
+SPECIAL : 21/5/65, L435  ต่อสมาชิก 30.0 ชิ้น, total:30
+INITIAL 22/04/65
+0000,	L435		,total:0
+DATE : 18/4/65
+276,	ร้านตัดผม		,cash:100
+277,	L223		,total:74
+278,	L314		,total:39
+279,	L355		,total:-12
+280,	สุกฤษฎิ์		,cash:100
+281,	L432		,total:146
+282,	L410		,total:33
+283,	L412		,total:105
+284,	L258		,total:73	,cash:389
+SPECIAL : 18/4/65, L258  ต่อสมาชิก 100.0 ชิ้น, total:88
+SPECIAL : 18/4/65, L370  ต่อสมาชิก 100.0 ชิ้น, total:52.5
+SPECIAL : 18/4/65, L422  ต่อสมาชิก 100.0 ชิ้น, total:104
+DATE : 17/4/65
+271,	L363		,total:118
+272,	L287		,total:47	,cash:159
+273,	L421		,total:8
+274,	L370		,total:-47.5	,cash:223
+275,	L410		,total:37
 DATE : 11/4/65
 264,	L223		,total:77
 265,	อู๊ด		,cash:25
