@@ -1,3 +1,106 @@
+SPECIAL : 1/5/65, L437  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 1/5/65, L377  ต่อสมาชิก 50.0 ชิ้น, total:39
+INITIAL 01/05/65
+0000,	L437		,total:0
+DATE : 30/4/65
+360,	L061		,total:34
+361,	L331		,total:-1
+362,	L314		,total:27
+363,	L414		,total:56.5
+364,	อ.อ๊อด		,cash:452
+365,	L319		,cash:221
+366,	L418		,total:58	,cash:150
+367,	L321		,total:4
+DATE : 29/4/65
+354,	L223		,total:63
+355,	L435		,total:13
+356,	L287		,total:24	,cash:21
+357,	L110		,total:83
+358,	จอห์น		,cash:100
+359,	พาย		,cash:300
+DATE : 28/4/65
+344,	L331		,total:3
+345,	L426		,total:52
+346,	L432		,total:138
+347,	หนิง		,cash:300
+348,	L223		,total:64
+349,	L283		,total:34.5
+350,	L297		,total:369
+351,	L436		,total:44
+352,	L363		,total:97
+353,	L412		,total:90
+SPECIAL : 28/4/65, L436  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 28/04/65
+0000,	L436		,total:0
+DATE : 26/4/65
+330,	L216		,cash:35
+331,	L410		,total:24
+332,	L432		,total:142
+333,	L198		,total:90
+334,	L331		,total:7
+335,	L223		,total:67
+336,	L342		,total:26	,cash:514
+337,	ลูกค้า		,cash:75
+338,	คุณฝน		,cash:200
+339,	ไนซ์		,cash:115
+340,	L216		,total:65.5
+341,	L422		,total:97
+342,	L412		,total:93
+343,	L296		,total:23
+SPECIAL : 26/4/65, L198  ต่อสมาชิก 100.0 ชิ้น, total:93
+SPECIAL : 26/4/65, L283  ต่อสมาชิก 50.0 ชิ้น, total:42.5
+DATE : 25/4/65
+320,	L198		,total:-7	,cash:50
+321,	L287		,total:32	,cash:145
+322,	L427		,total:137
+323,	L418		,total:76
+324,	L426		,total:56
+325,	L432		,total:144
+326,	L414		,total:74.5
+327,	L382		,total:94
+328,	เชช		,cash:521
+329,	กนกกาญจน์		,cash:600
+DATE : 24/4/65
+313,	จิรภา1		,cash:400
+314,	จิรภา2		,cash:300
+315,	L362		,total:99
+316,	L331		,total:9
+318,	L359		,total:53
+319,	นาย		,cash:190
+SPECIAL : 24/4/65, L382  ต่อสมาชิก 100.0 ชิ้น, total:104
+DATE : 23/4/65
+305,	L319		,total:61.5	,cash:293
+306,	L421		,total:1
+307,	L412		,total:98
+308,	L363		,total:106
+309,	L407		,total:16
+310,	L283		,total:-7.5
+311,	L321		,total:14
+312,	L410		,total:28
+SPECIAL : 23/4/65, L297  ต่อสมาชิก 200.0 ชิ้น, total:399
+DATE : 22/4/65
+291,	L410		,total:30
+292,	L407		,total:17
+293,	L393		,cash:35
+294,	L423		,cash:180
+295,	L434		,total:20
+296,	L223		,total:68
+297,	L422		,total:101
+298,	สุวัจน์		,cash:300
+299,	ขิม		,cash:150
+300,	L359		,total:71
+301,	ลูกค้า		,cash:7
+302,	L435		,total:22
+303,	L223		,total:68
+304,	L353		,total:15
+SPECIAL : 22/4/65, L297  ต่อสมาชิก 200.0 ชิ้น, total:199
+DATE : 21/5/65
+285,	พี่ต๋อย		,cash:160
+286,	L223		,total:71	,cash:25
+287,	L426		,total:64
+288,	L435		,total:24
+289,	L297		,total:-1
+290,	L342		,total:44	,cash:350
 SPECIAL : 21/5/65, L435  ต่อสมาชิก 30.0 ชิ้น, total:30
 INITIAL 22/04/65
 0000,	L435		,total:0
@@ -5,7 +108,6 @@ DATE : 18/4/65
 276,	ร้านตัดผม		,cash:100
 277,	L223		,total:74
 278,	L314		,total:39
-279,	L355		,total:-12
 280,	สุกฤษฎิ์		,cash:100
 281,	L432		,total:146
 282,	L410		,total:33
