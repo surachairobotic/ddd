@@ -1,3 +1,25 @@
+DATE : 3/5/65
+378,	L415		,total:60
+379,	ลูกค้า		,cash:75
+380,	L297		,total:353
+381,	กาวน์1*2		,cash:25
+382,	L412		,total:84
+383,	L331		,total:-3
+384,	L223		,total:61	,cash:100
+385,	L287		,total:16	,cash:28
+386,	L432		,cash:229
+387,	L349		,total:-39
+388,	อู๊ด		,cash:120
+389,	อิน		,cash:105
+390,	L363		,total:83
+391,	L216		,total:57.5
+392,	L110		,total:81
+393,	L410		,total:21
+394,	L418		,total:53
+395,	L353		,total:-5
+SPECIAL : 3/5/65, L438  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 03/05/65
+0000,	L438		,total:0
 DATE : 1/5/65
 368,	L437		,total:25	,cash:25
 369,	L432		,total:136	,cash:435
