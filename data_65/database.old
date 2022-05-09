@@ -1,3 +1,58 @@
+DATE : 7/5/65
+415,	L412		,total:78
+416,	สายขิม		,cash:160
+417,	L421		,total:-14
+418,	L418		,total:32	,cash:44
+419,	ลูกค้า		,cash:55
+420,	L438		,total:41
+421,	L319		,cash:143
+422,	L331		,total:-10
+423,	Kวรรณ		,cash:250
+SPECIAL : 7/5/65, L439  ต่อสมาชิก 30.0 ชิ้น, total:30
+INITIAL 07/05/65
+0000,	L439		,total:0
+DATE : 6/5/65
+405,	L283		,total:30.5
+406,	L110		,total:79
+407,	L435		,total:3
+408,	L432		,total:129
+409,	L363		,total:77
+410,	เฟริส		,cash:185
+411,	L321		,total:-6	,cash:25
+412,	L377		,total:-3
+413,	ซุง		,cash:307
+414,	L342		,total:-16	,cash:270
+SPECIAL : 6/5/65, L349  ต่อสมาชิก 100.0 ชิ้น, total:61
+DATE : 5/5/65
+395,	L331		,total:-6
+396,	นัทจ่ายโอน		,cash:115
+397,	L223		,total:60
+398,	L283		,total:31.5
+399,	พาส		,cash:190
+400,	L383		,total:7
+401,	L258		,total:51	,cash:637
+402,	L353		,total:3
+403,	L283		,total:26.5
+404,	L418		,total:47
+DATE : 3/5/65
+378,	L415		,total:60
+379,	ลูกค้า		,cash:75
+380,	L297		,total:153
+381,	กาวน์1*2		,cash:25
+382,	L412		,total:84
+383,	L331		,total:-3
+384,	L223		,total:61	,cash:100
+385,	L287		,total:16	,cash:28
+386,	L432		,cash:229
+387,	L349		,total:-39
+388,	อู๊ด		,cash:120
+389,	อิน		,cash:105
+390,	L363		,total:83
+391,	L216		,total:57.5
+392,	L110		,total:81
+393,	L410		,total:21
+394,	L418		,total:53
+SPECIAL : 3/5/65, L438  ต่อสมาชิก 50.0 ชิ้น, total:50
 INITIAL 03/05/65
 0000,	L438		,total:0
 DATE : 1/5/65
@@ -38,7 +93,7 @@ DATE : 28/4/65
 347,	หนิง		,cash:300
 348,	L223		,total:64
 349,	L283		,total:34.5
-350,	L297		,total:369
+350,	L297		,total:169
 351,	L436		,total:44
 352,	L363		,total:97
 353,	L412		,total:90
@@ -90,7 +145,6 @@ DATE : 23/4/65
 310,	L283		,total:-7.5
 311,	L321		,total:14
 312,	L410		,total:28
-SPECIAL : 23/4/65, L297  ต่อสมาชิก 200.0 ชิ้น, total:399
 DATE : 22/4/65
 291,	L410		,total:30
 292,	L407		,total:17
