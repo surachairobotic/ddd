@@ -1,3 +1,50 @@
+DATE : 13/5/65
+460,	L110		,total:73
+461,	L425		,total:10
+462,	L432		,total:112
+463,	L297		,total:111
+464,	L333		,cash:50
+465,	L410		,total:18
+466,	L321		,total:23
+467,	L216		,total:49.5
+468,	ลูกค้า		,cash:300
+469,	L440		,total:7
+470,	L331		,total:32
+DATE : 12/5/65
+451,	แพร		,cash:260
+452,	L061		,total:32
+453,	L283		,total:23.5
+454,	L293		,total:47
+455,	L287		,total:8	,cash:28
+456,	L412		,total:69
+457,	L434		,total:17
+458,	L223		,total:55
+459,	L374		,total:37	,cash:42
+SPECIAL : 12/5/65, L293  ต่อสมาชิก 50.0 ชิ้น, total:51
+SPECIAL : 12/5/65, L321  ต่อสมาชิก 30.0 ชิ้น, total:24
+SPECIAL : 12/5/65, L374  ต่อสมาชิก 50.0 ชิ้น, total:47
+DATE : 10/5/65
+447,	L363		,total:70
+448,	L223		,total:58
+449,	L287		,total:12	,cash:56
+450,	L314		,total:25
+SPECIAL : 10/5/65, L440  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 10/5/64
+0000,	L440		,total:0
+DATE : 9/5/65
+437,	L331		,total:38
+438,	ลูกค้า		,cash:45
+439,	L418		,total:20
+440,	L340		,total:63.5
+441,	L213		,total:-3.5
+442,	ธนภณ		,cash:100
+443,	L425		,total:18
+444,	L198		,total:57
+445,	ลูกสาว		,cash:40
+446,	ปกป้อง		,cash:500
+SPECIAL : 9/5/65, L425  ต่อสมาชิก 50.0 ชิ้น, total:56
+SPECIAL : 9/5/65, L331  ต่อสมาชิก 50.0 ชิ้น, total:40
+SPECIAL : 9/5/65, L421  ต่อสมาชิก 50.0 ชิ้น, total:36
 DATE : 8/5/65
 424,	L432		,total:121
 425,	L359		,total:18
