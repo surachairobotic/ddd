@@ -162,7 +162,7 @@ def main(_fname):
   for j in range(len(information)):
     information[j].info = insert_space(information[j].info)
 
-  font_sz = [36, 33, 30, 27, 26, 24, 22, 20, 19]
+  font_sz = [36, 33, 30, 27, 24, 22, 20, 19, 18]
   lines   = [ 6,  7,  8,  9, 10, 11, 12, 14, 15]
   charact = [16, 16, 18, 20, 22, 24]
 
@@ -471,6 +471,7 @@ def insert_space(info):
   return info
 
 def reduce_line(info):  
+  '''
   for i in range(len(info)-1):
     for j in range(i+1, len(info)):
       x=info[i]
@@ -480,6 +481,27 @@ def reduce_line(info):
         del info[j]
         return True
   return False
+  '''
+  i=0
+  while i < len(info)-1:
+    indx_del = []
+    s = info[i]
+    for j in range(i+1, len(info)):
+      y = info[j]
+      if len(s + "  " + y) < 20:
+        s = s + "  " + y
+        indx_del.append(j)
+      else:
+        break
+    if len(indx_del) != 0:
+      info[i] = s
+      print('indx_del')
+      for k in reversed(range(len(indx_del))):
+        print(info[indx_del[k]])
+        del info[indx_del[k]]
+      print('indx_del - end')
+      indx_del = []
+    i+=1
 
 def count_space(txt):
   _sum = len(txt)
