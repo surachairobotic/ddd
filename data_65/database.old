@@ -1,3 +1,186 @@
+DATE : 10/7/65
+846,	เทน		,cash:75
+847,	L447		,total:184
+848,	L359		,total:60
+849,	L198		,total:79
+850,	L216		,total:14.5
+851,	L297		,total:90
+852,	L353		,total:48
+SPECIAL : 10/7/65, L447  ต่อสมาชิก 200.0 ชิ้น, total:200
+845,	L258		,total:3	,cash:462
+INITIAL 10/7/65
+0000,	L447		,total:0
+0000,	L448		,total:0
+DATE : 9/7/65
+828,	L370		,total:37.5	,cash:115
+829,	L363		,total:136
+830,	L410		,total:30
+831,	L446		,total:-7	,cash:35
+832,	L443		,total:152
+833,	L441		,total:7
+834,	L412		,total:193
+SPECIAL : 9/7/65, L412  ต่อสมาชิก 200.0 ชิ้น, total:200
+DATE : 7/7/65
+821,	L223		,total:105
+822,	L445		,total:155
+823,	L442		,total:5
+824,	L413		,total:10
+825,	L374		,total:4	,cash:63
+826,	L225		,cash:360
+827,	L437		,total:-14	,cash:25
+SPECIAL : 7/7/65, L216  ต่อสมาชิก 30.0 ชิ้น, total:17.5
+SPECIAL : 7/7/65, L362  ต่อสมาชิก 200.0 ชิ้น, total:176
+DATE : 6/7/65
+813,	L377		,total:28
+814,	L362		,total:-24
+815,	L297		,total:102
+816,	L216		,total:-12.5
+817,	ร้านตัดผม		,cash:40
+818,	L433		,total:8
+819,	L418		,total:72	,cash:155
+820,	อมรรัตน์		,cash:126
+DATE : 5/7/65
+804,	L442		,total:8
+805,	L349		,total:25
+806,	ปอย		,cash:250
+807,	L410		,total:34
+808,	อ.อ๊อด		,cash:250
+809,	อ.อ๊อด		,cash:405
+810,	L223		,total:108
+811,	L374		,total:14	,cash:56
+812,	L297		,total:113
+SPECIAL : 5/7/65, L223  ต่อสมาชิก 100.0 ชิ้น, total:110
+SPECIAL : 5/7/65, L377  ต่อสมาชิก 50.0 ชิ้น, total:50
+DATE : 4/7/65
+797,	ร้านตัดผม		,cash:155
+798,	L342		,total:50	,cash:100
+799,	จอห์น		,cash:225
+800,	ร้านทำคิ้ว		,cash:70
+801,	L223		,total:10
+802,	น๊อต		,cash:250
+803,	L412		,total:0
+DATE : 3/7/65
+791,	L374		,total:20	,cash:68
+792,	L319		,total:42.5	,cash:156
+793,	L446		,total:9	,cash:53
+794,	L359		,total:75	,cash:155
+795,	L213		,total:46.5
+796,	L297		,total:123
+DATE : 2/7/65
+780,	ลูกค้า		,cash:41
+781,	L437		,total:-7	,cash:25
+782,	L216		,total:-10.5
+783,	ร้านตัดผม		,cash:40
+784,	L414		,total:152.5
+785,	L443		,total:163
+786,	L418		,total:76	,cash:40
+787,	L213		,total:72.5
+788,	L412		,total:4
+789,	หยก		,cash:550
+790,	L363		,total:151	,cash:225
+SPECIAL : 2/7/65, L213  ต่อสมาชิก 100.0 ชิ้น, total:77.5
+DATE : 1/7/65
+775,	L410		,total:36
+776,	อู๊ด		,cash:285
+777,	L216		,total:-8.5
+778,	L342		,total:88
+779,	L374		,total:26	,cash:63
+DATE : 29/6/65
+770,	L433		,total:13
+771,	น๊อตจ่ายโอน		,cash:25
+772,	L293		,total:11
+773,	L297		,total:138
+774,	L445		,total:177
+SPECIAL : 29/6/65, L198  ต่อสมาชิก 100.0 ชิ้น, total:97
+SPECIAL : 29/6/65, L418  ต่อสมาชิก 100.0 ชิ้น, total:95
+SPECIAL : 29/6/65, L445  ต่อสมาชิก 200.0 ชิ้น, total:200
+INITIAL 28/6/65
+0000,	L445		,total:0
+DATE : 28/6/65
+763,	L410		,total:37
+764,	L422		,total:82
+765,	L374		,total:36	,cash:49
+766,	L342		,total:114
+767,	L362		,total:-2
+768,	คุณฝน		,cash:300
+769,	นิหน่า		,cash:468
+SPECIAL : 28/6/65, L374  ต่อสมาชิก 50.0 ชิ้น, total:45
+SPECIAL : 28/6/65, L370  ต่อสมาชิก 100.0 ชิ้น, total:78.5
+DATE : 26/6/65
+757,	L363		,total:166
+758,	L359		,total:91
+759,	L382		,total:80
+760,	ร้านตัดผม		,cash:150
+761,	L287		,total:0	,cash:196
+762,	อ.อ๊อด		,cash:275
+SPECIAL : 26/6/65, L359  ต่อสมาชิก 100.0 ชิ้น, total:112
+DATE : 25/6/65
+746,	L283		,total:63.5
+747,	ร้านทำคิ้ว		,cash:25
+748,	L213		,total:-22.5
+749,	L410		,total:39
+750,	L415		,total:35
+751,	ไนซ์		,cash:165
+752,	L342		,total:139
+753,	L297		,total:157	,cash:25
+754,	L436		,total:38
+755,	L412		,total:11
+756,	L446		,total:21	,cash:42
+SPECIAL : 25/6/65, L446  ต่อสมาชิก 30.0 ชิ้น, total:30
+INITIAL 25/6/65
+0000,	L446		,total:0
+DATE : 24/6/65
+733,	L433		,total:17
+734,	L410		,total:40
+735,	เนย		,cash:65
+736,	L293		,total:17
+737,	L216		,total:-6.5
+738,	L198		,total:-3
+739,	L414		,total:161.5
+740,	L418		,total:-5	,cash:14
+741,	L363		,total:173
+742,	L441		,total:19
+743,	L437		,total:5	,cash:25
+744,	อมรรัตน์		,cash:194
+745,	L444		,total:1
+SPECIAL : 24/6/65, L437  ต่อสมาชิก 50.0 ชิ้น, total:18
+SPECIAL : 24/6/65, L414  ต่อสมาชิก 200.0 ชิ้น, total:174.5
+SPECIAL : 24/6/65, L297  ต่อสมาชิก 200.0 ชิ้น, total:192
+DATE : 23/6/65
+728,	L442		,total:33
+729,	L216		,total:-0.5
+730,	L443		,total:179
+732,	L425		,total:30
+DATE : 22/6/65
+723,	L370		,total:-21.5	,cash:144
+724,	ร้านตัดผม		,cash:85
+725,	L370		,cash:450
+726,	L283		,total:66.5
+727,	L342		,total:159.5
+SPECIAL : 22/6/65, L342  ต่อสมาชิก 200.0 ชิ้น, total:185.5
+SPECIAL : 22/6/65, L425  ต่อสมาชิก 50.0 ชิ้น, total:33
+DATE : 21/6/65
+719,	L432		,total:93
+720,	L198		,total:4
+721,	L223		,total:14
+722,	น๊อต		,cash:245
+DATE : 20/6/65
+711,	L393		,cash:35
+712,	L342		,total:-14.5
+713,	L363		,total:185
+714,	L216		,total:1.5
+715,	L293		,total:23
+716,	L374		,total:-5	,cash:49
+717,	L413		,total:39
+718,	L223		,total:23
+SPECIAL : 20/6/65, L444  ต่อสมาชิก 30.0 ชิ้น, total:31
+SPECIAL : 20/6/65, L363  ต่อสมาชิก 200.0 ชิ้น, total:195
+DATE : 19/6/65
+706,	L418		,total:8
+707,	L283		,total:70.5
+708,	L359		,total:12
+709,	L412		,total:19
+710,	L407		,total:13
 DATE : 18/6/65
 698,	L421		,total:-8
 699,	L223		,total:26
