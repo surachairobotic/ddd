@@ -1,3 +1,30 @@
+DATE : 27/7/65
+965,	L410		,total:17
+966,	L449		,total:40
+967,	L447		,total:165
+968,	L457		,total:206
+969,	L363		,total:92
+970,	L443		,total:118
+971,	L418		,total:18	,cash:28
+972,	L410		,total:15
+973,	L297		,total:-8
+SPECIAL : 27/7/65, L457  ต่อสมาชิก 210.0 ชิ้น, total:210
+SPECIAL : 27/7/65, L458  ต่อสมาชิก 100.0 ชิ้น, total:100
+INITIAL 27/7/65
+0000,	L457		,total:0
+0000,	L458		,total:0
+DATE : 26/7/65
+955,	L223		,total:94
+956,	L425		,cash:232
+957,	L342		,total:-53
+958,	L445		,total:95
+959,	L456		,total:32	,cash:120
+960,	L297		,total:7
+961,	L213		,total:29.5
+962,	L370		,total:10.5	,cash:132
+963,	L446		,total:3	,cash:21
+964,	L377		,total:-3
+SPECIAL : 26/7/65, L456  ต่อสมาชิก 50.0 ชิ้น, total:50
 INITIAL 26/7/65
 0000,	L456		,total:0
 DATE : 25/7/65
