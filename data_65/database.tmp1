@@ -1,3 +1,31 @@
+SPECIAL : 2/8/65, L467  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 2/8/65, L468  ต่อสมาชิก 30.0 ชิ้น, total:30
+DATE : 1/8/65
+998,	L455		,total:26
+999,	L223		,total:92
+1000,	L466		,total:49
+1001,	L465		,total:90	,cash:88
+1002,	ปลาย		,cash:415
+1003,	L258		,total:-52	,cash:332
+SPECIAL : 1/8/65, L297  ต่อสมาชิก 200.0 ชิ้น, total:183
+SPECIAL : 1/8/65, L465  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 1/8/65, L466  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 1/8/65
+0000,	L465		,total:0
+0000,	L466		,total:0
+0000,	L467		,total:0
+0000,	L468		,total:0
+DATE : 31/7/65
+988,	น้ำมินต์		,cash:600
+989,	L446		,total:20	,cash:74
+990,	L448		,total:42
+991,	L363		,total:83
+992,	L359		,total:-2
+993,	L297		,total:-17	,cash:46
+994,	L442		,total:9
+995,	L362		,total:139
+996,	L413		,total:177
+997,	L457		,total:203
 DATE : 30/7/65
 982,	L459		,total:29	,cash:91
 983,	L412		,total:163
@@ -64,7 +92,6 @@ DATE : 25/7/65
 947,	L353		,total:34
 948,	L422		,total:77
 949,	L413		,total:192
-950,	L455		,total:26
 951,	L363		,total:101	,cash:180
 952,	L110		,total:56
 953,	L443		,total:126
