@@ -1,3 +1,81 @@
+DATE : 7/8/65
+43,	L474		,total:24
+44,	L340		,total:58
+45,	L465		,cash:300
+46,	L353		,total:22
+47,	L414		,total:101.5
+48,	L432		,total:89
+49,	L464		,total:14
+50,	L447		,total:159
+51,	L370		,total:-39.5	,cash:440
+52,	อ.อ๊อด		,cash:500
+53,	L362		,total:128
+54,	L455		,total:42
+DATE : 6/8/65
+37,	ต๊อก		,cash:250
+38,	L445		,total:62
+39,	L472		,total:98
+40,	L471		,total:39
+41,	L296		,total:-3
+42,	L410		,total:15
+DATE : 6/8/65
+26,	L110		,total:47
+27,	L296		,total:8
+28,	L319		,cash:137
+29,	ไนซ์		,cash:345
+30,	L321		,total:10	,cash:45
+31,	L459		,total:18
+32,	ภาณุวัชร		,cash:130
+33,	L363		,total:70
+34,	L359		,total:-20
+35,	L213		,total:21.5
+36,	L342		,total:8	,cash:100
+SPECIAL : 6/8/65, L471  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 6/8/65, L472  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 6/8/65, L473  ต่อสมาชิก 210.0 ชิ้น, total:210
+SPECIAL : 6/8/65, L474  ต่อสมาชิก 30.0 ชิ้น, total:30
+SPECIAL : 6/8/65, L455  ต่อสมาชิก 50.0 ชิ้น, total:65
+SPECIAL : 6/8/65, L475  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 6/8/65, L476  ต่อสมาชิก 100.0 ชิ้น, total:100
+INITIAL 6/8/65
+0000,	L471		,total:0
+0000,	L472		,total:0
+0000,	L473		,total:0
+0000,	L474		,total:0
+0000,	L475		,total:0
+0000,	L476		,total:0
+DATE : 5/8/65
+16,	L223		,total:84
+17,	L314		,total:17
+18,	L319		,total:33
+19,	L448		,total:41
+20,	L437		,total:-4	,cash:25
+21,	L297		,total:161
+22,	ลูกเกด		,cash:190
+23,	L460		,total:21
+24,	L465		,total:85	,cash:102
+25,	ร้านตัดผม		,cash:60
+DATE : 4/8/65
+1,	ลูกค้า		,cash:80
+2,	ร้านตัดผม		,cash:115
+3,	L449		,total:27
+4,	ซี		,cash:200
+5,	L382		,total:65
+6,	L462		,total:96
+7,	L464		,total:21
+8,	L110		,total:50
+9,	L223		,total:86
+10,	L466		,total:41.5
+11,	L297		,total:170
+12,	ก๊อต		,cash:180
+13,	L446		,cash:150
+14,	L412		,total:158
+15,	L445		,total:73
+SPECIAL : 4/8/65, L470  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 4/8/65, L469  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 4/8/65
+0000,	L469		,total:0
+0000,	L470		,total:0
 DATE : 2/8/65
 1001,	L453		,total:49
 1002,	L223		,total:90
