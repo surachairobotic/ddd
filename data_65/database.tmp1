@@ -1,3 +1,26 @@
+SPECIAL : 9/8/65-, L313  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65-, L478  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65-, L477  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65-, L479  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 9/8/65-, L480  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 9/8/65
+0000,	L477		,total:0
+0000,	L478		,total:0
+0000,	L479		,total:0
+0000,	L480		,total:0
+DATE : 7/8/65
+43,	L474		,total:24
+44,	L340		,total:58
+45,	L465		,cash:300
+46,	L353		,total:22
+47,	L414		,total:101.5
+48,	L432		,total:89
+49,	L464		,total:14
+50,	L447		,total:159
+51,	L370		,total:-39.5	,cash:440
+52,	อ.อ๊อด		,cash:500
+53,	L362		,total:128
+54,	L455		,total:42
 DATE : 6/8/65
 37,	ต๊อก		,cash:250
 38,	L445		,total:62

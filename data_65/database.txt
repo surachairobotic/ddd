@@ -1,3 +1,31 @@
+DATE : 9/8/65-
+55,	L313		,total:41
+56,	L342		,total:-6
+57,	L442		,total:-6
+58,	ลูกค้า		,cash:25
+59,	L464		,total:12
+60,	L458		,total:92
+61,	L472		,total:96
+62,	TT		,cash:120
+63,	L449		,total:16
+64,	L418		,total:3	,cash:39
+65,	L465		,total:80	,cash:67
+66,	จอห์น		,cash:225
+67,	L110		,total:45
+68,	L430		,total:-22
+69,	L410		,total:11
+70,	L456		,total:24
+71,	L466		,total:32	,cash:25
+SPECIAL : 9/8/65-, L313  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65-, L478  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65-, L477  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65-, L479  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 9/8/65-, L480  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 9/8/65
+0000,	L477		,total:0
+0000,	L478		,total:0
+0000,	L479		,total:0
+0000,	L480		,total:0
 DATE : 7/8/65
 43,	L474		,total:24
 44,	L340		,total:58
