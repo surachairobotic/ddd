@@ -1,8 +1,226 @@
+DATE : 13/8/65
+203,	L474		,total:42
+204,	L340		,total:45
+205,	L213		,total:7.5
+206,	L484		,total:41
+207,	L437		,total:-15	,cash:25
+208,	L432		,total:75
+209,	L467		,total:93
+210,	น๊อต		,cash:110
+211,	L487		,total:93
+212,	L430		,total:9
+213,	ร้านตัดผม		,cash:205
+214,	L410		,total:2
+215,	L319		,cash:182
+216,	ปราย		,cash:40
+217,	L446		,total:6	,cash:174
+218,	L481		,total:34
+SPECIAL : 13/8/65, L486  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 13/8/65, L487  ต่อสมาชิก 100.0 ชิ้น, total:100
+DATE : 12/8/65
+181,	L370		,total:38.5	,cash:440
+182,	L342		,total:-97
+183,	L429		,total:92
+184,	L482		,total:12
+185,	L363		,total:43
+186,	L110		,total:37
+187,	L456		,total:11
+188,	L454		,total:23.5
+189,	L412		,total:148
+190,	L297		,total:135
+191,	L359		,total:-53
+192,	L476		,total:196.5
+193,	นัดดา		,cash:135
+194,	ฟางจ่ายโอน12/8/65		,cash:65
+195,	L469		,total:42
+196,	L464		,total:-3
+197,	L459		,total:2
+198,	L293		,total:33
+199,	L374		,total:-8	,cash:144
+200,	โย		,cash:300
+201,	สุภาพร		,cash:360
+202,	L468		,total:20
+SPECIAL : 12/8/65, L370  ต่อสมาชิก 100.0 ชิ้น, total:60.5
+SPECIAL : 12/8/65, L430  ต่อสมาชิก 50.0 ชิ้น, total:23
+INITIAL 12/8/65
+0000,	L486		,total:0
+0000,	L487		,total:0
+0000,	L488		,total:0
+0000,	L489		,total:0
+0000,	L490		,total:0
+DATE : 11/8/65
+158,	ภาณุวัชร		,cash:25
+159,	L484		,total:42
+160,	L483		,total:26
+161,	L482		,total:13
+162,	L485		,total:192
+163,	L314		,total:5
+164,	L453		,total:45
+165,	L463		,total:94
+166,	L433		,total:-1
+167,	L449		,total:-1
+168,	L310		,total:73
+169,	L472		,total:186
+170,	L319		,total:20
+171,	L418		,total:-40
+172,	L061		,total:24
+173,	L466		,total:7.5
+174,	L480		,total:66
+175,	L478		,total:80
+176,	L377		,total:-45
+177,	พาส		,cash:215
+178,	L296		,total:180
+179,	อุ้มดีคอนโดเฟส1		,cash:185
+180,	L479		,total:184
+181,	L451		,total:15
+182,	L465		,total:55	,cash:137
+183,	ราชันย์รีดอย่างเดียว		,cash:45
+SPECIAL : 11/8/65, L296  ต่อสมาชิก 100.0 ชิ้น, total:186
+SPECIAL : 11/8/65, L485  ต่อสมาชิก 100.0 ชิ้น, total:196
+SPECIAL : 11/8/65, L444  ต่อสมาชิก 30.0 ชิ้น, total:61
+DATE : 10/8/65
+144,	L297		,total:147
+145,	ภานุวัชรจ่ายโอน		,cash:70
+146,	เก่ง		,cash:168
+147,	L410		,total:3
+148,	L223		,total:82
+149,	L438		,total:1.5
+150,	L439		,total:21.5
+151,	L482		,total:17
+152,	L472		,total:188
+153,	L469		,total:44
+154,	L448		,total:38
+155,	L468		,total:24
+156,	เทน		,cash:70
+157,	L452		,total:86
+SPECIAL : 10/8/65, L481  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 10/8/65, L482  ต่อสมาชิก 30.0 ชิ้น, total:26
+SPECIAL : 10/8/65, L483  ต่อสมาชิก 30.0 ชิ้น, total:28
+SPECIAL : 10/8/65, L484  ต่อสมาชิก 50.0 ชิ้น, total:46
+DATE : 9/8/65
+127,	L313		,total:82
+128,	L342		,total:-67
+129,	L442		,total:-21
+130,	ลูกค้า		,cash:25
+131,	L464		,total:3
+132,	L458		,total:84
+133,	L472		,total:190
+134,	TT		,cash:120
+135,	L449		,total:2
+136,	L418		,total:-26	,cash:39
+137,	L465		,total:65	,cash:67
+138,	จอห์น		,cash:225
+139,	L110		,total:40
+140,	L430		,total:-27
+141,	L410		,total:5
+142,	L456		,total:16
+143,	L466		,total:15	,cash:25
+SPECIAL : 9/8/65, L313  ต่อสมาชิก 50.0 ชิ้น, total:91
+SPECIAL : 9/8/65, L478  ต่อสมาชิก 50.0 ชิ้น, total:90
+SPECIAL : 9/8/65, L477  ต่อสมาชิก 50.0 ชิ้น, total:100
+SPECIAL : 9/8/65, L479  ต่อสมาชิก 100.0 ชิ้น, total:192
+SPECIAL : 9/8/65, L480  ต่อสมาชิก 50.0 ชิ้น, total:83
+DATE : 7/8/65
+115,	L474		,total:48
+116,	L340		,total:52.5
+117,	L465		,cash:300
+118,	L353		,total:10
+119,	L414		,total:86.5
+120,	L432		,total:85
+121,	L464		,total:5
+122,	L447		,total:153
+124,	อ.อ๊อด		,cash:500
+125,	L362		,total:117
+126,	L455		,total:69
+DATE : 6/8/65
+98,	L110		,total:42
+99,	L296		,total:86
+100,	L319		,cash:137
+101,	ไนซ์		,cash:345
+102,	L321		,total:-3	,cash:45
+103,	L459		,total:7
+104,	ภาณุวัชร		,cash:130
+105,	L363		,total:57
+106,	L359		,total:-38
+107,	L213		,total:13.5
+108,	L342		,total:-53	,cash:100
+109,	ต๊อก		,cash:250
+110,	L445		,total:51
+111,	L472		,total:192
+112,	L471		,total:78
+113,	L296		,total:80
+114,	L410		,total:9
+SPECIAL : 6/8/65, L471  ต่อสมาชิก 50.0 ชิ้น, total:89
+SPECIAL : 6/8/65, L472  ต่อสมาชิก 100.0 ชิ้น, total:194
+SPECIAL : 6/8/65, L473  ต่อสมาชิก 210.0 ชิ้น, total:420
+SPECIAL : 6/8/65, L474  ต่อสมาชิก 30.0 ชิ้น, total:54
+SPECIAL : 6/8/65, L455  ต่อสมาชิก 50.0 ชิ้น, total:92
+SPECIAL : 6/8/65, L475  ต่อสมาชิก 100.0 ชิ้น, total:200
+SPECIAL : 6/8/65, L476  ต่อสมาชิก 100.0 ชิ้น, total:200
+DATE : 11/8/65
+72,	ภาณุวัชร		,cash:25
+73,	L484		,total:-4
+74,	L483		,total:-2
+75,	L482		,total:-4
+76,	L485		,total:96
+77,	L314		,total:11
+78,	L453		,total:47
+79,	L463		,total:97
+80,	L433		,total:2
+81,	L449		,total:13
+82,	L310		,total:77
+83,	L472		,total:94
+84,	L319		,total:26.5
+85,	L418		,total:-11
+86,	L061		,total:28
+87,	L466		,total:24.5
+88,	L480		,total:33
+89,	L478		,total:40
+90,	L377		,total:-24
+91,	พาส		,cash:215
+92,	L296		,total:91
+93,	อุ้มดีคอนโดเฟส1		,cash:185
+94,	L479		,total:92
+95,	L451		,total:23
+96,	L465		,total:70	,cash:137
+97,	ราชันย์รีดอย่างเดียว		,cash:45
+SPECIAL : 11/8/65, L296  ต่อสมาชิก 100.0 ชิ้น, total:97
+SPECIAL : 11/8/65, L485  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 11/8/65, L444  ต่อสมาชิก 30.0 ชิ้น, total:31
+INITIAL 11/8/65
+0000,	L485		,total:0
+0000,	L484		,total:0
+0000,	L483		,total:0
+0000,	L482		,total:0
+DATE : 9/8/65
+55,	L313		,total:41
+56,	L342		,total:-6
+57,	L442		,total:-6
+58,	ลูกค้า		,cash:25
+59,	L464		,total:12
+60,	L458		,total:92
+61,	L472		,total:96
+62,	TT		,cash:120
+63,	L449		,total:16
+64,	L418		,total:3	,cash:39
+65,	L465		,total:80	,cash:67
+66,	จอห์น		,cash:225
+67,	L110		,total:45
+68,	L430		,total:-22
+69,	L410		,total:11
+70,	L456		,total:24
+71,	L466		,total:32	,cash:25
+SPECIAL : 9/8/65, L313  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65, L478  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65, L477  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 9/8/65, L479  ต่อสมาชิก 100.0 ชิ้น, total:100
+SPECIAL : 9/8/65, L480  ต่อสมาชิก 50.0 ชิ้น, total:50
 INITIAL 9/8/65
 0000,	L477		,total:0
 0000,	L478		,total:0
 0000,	L479		,total:0
 0000,	L480		,total:0
+0000,	L481		,total:0
 DATE : 7/8/65
 43,	L474		,total:24
 44,	L340		,total:58

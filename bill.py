@@ -366,6 +366,7 @@ def read_info():
   information = []
   for i in range(1, len(data)):
     tmp = data[i].split()
+    print(tmp)
     v = Person()
     v.id = tmp[0]
     if v.id.isnumeric():
