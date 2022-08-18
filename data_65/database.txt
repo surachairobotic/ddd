@@ -1,3 +1,39 @@
+DATE : 16/8/65
+242,	L331		,total:3
+243,	เดียจ่ายแล้ว		,cash:20
+244,	L483		,total:24
+245,	L466		,total:0.5
+246,	L363		,total:37
+247,	Angela		,cash:40
+248,	อุ้ม		,cash:300
+249,	L293		,total:28
+250,	L439		,total:15.5
+251,	L413		,total:167
+252,	L438		,total:-14.5
+253,	L442		,total:17
+254,	L470		,total:40
+255,	L223		,total:80
+256,	L465		,cash:35
+257,	L491		,total:29
+258,	แหม่ม		,cash:489
+SPECIAL : 16/8/65, L491  ต่อสมาชิก 50.0 ชิ้น, total:50
+INITIAL 16/8/65
+0000,	L491		,total:0
+DATE : 15/8/65
+230,	L444		,total:62
+231,	L449		,total:-9
+232,	L480		,total:50
+233,	L340		,total:44
+234,	L213		,total:6.5
+235,	L474		,total:41
+236,	L225		,total:13
+237,	L482		,total:6
+238,	L297		,total:125	,cash:25
+239,	L418		,total:-63	,cash:273
+240,	L342		,total:-132
+241,	L465		,total:49	,cash:109
+SPECIAL : 15/8/65, L442  ต่อสมาชิก 50.0 ชิ้น, total:29
+SPECIAL : 15/8/65, L444  ต่อสมาชิก 30.0 ชิ้น, total:91
 DATE : 14/8/65
 219,	L479		,total:182
 220,	L471		,total:75
