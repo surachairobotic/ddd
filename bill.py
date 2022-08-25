@@ -409,7 +409,7 @@ def processing(information):
   for v in information:
     _b_err = False
     _sum_cash = 0.0
-    #print(v.info)
+    print(v.info)
     for k in range(len(v.info)):
       i=0
       if v.info[k].find('*') != -1:
@@ -421,7 +421,7 @@ def processing(information):
           new_info = split(["*","="], v.info[k][i:])
           new_info = [float(i) for i in new_info]
           mul = new_info[0]*new_info[1]
-          #print("new=%s : old=%s : %s" %(new_info, _info, normal_round(new_info[0]*new_info[1])))
+          print("new=%s : old=%s : %s" %(new_info, v.info[k], normal_round(new_info[0]*new_info[1])))
           if new_info[1] > 4:
             mul = normal_round(mul)
             v.cash = v.cash+mul
