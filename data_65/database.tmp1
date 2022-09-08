@@ -1,3 +1,60 @@
+DATE : 6/5/65
+493,	L377		,total:23
+494,	L456		,total:1
+495,	L296		,total:77
+496,	L213		,total:-26.5
+497,	L297		,total:30
+498,	L430		,total:31	,cash:115
+499,	L465		,total:3	,cash:32
+500,	L472		,total:75
+501,	L363		,total:10
+502,	L504		,total:43
+503,	L314		,total:43
+504,	L223		,total:70
+505,	L474		,total:-8.5
+506,	L412		,total:121
+507,	L342		,total:-51
+DATE : 5/9/65
+483,	L321		,total:66
+484,	L446		,total:-16	,cash:28
+485,	L297		,total:36
+486,	L374		,total:60	,cash:61
+487,	L480		,total:-8
+488,	L443		,total:93
+489,	L413		,total:142
+490,	L370		,total:21.5	,cash:69
+491,	L499		,total:172
+492,	L455		,total:-14
+SPECIAL : 5/9/65, L506  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 5/9/65, L507  ต่อสมาชิก 50.0 ชิ้น, total:50
+SPECIAL : 5/9/65, L377  ต่อสมาชิก 50.0 ชิ้น, total:33
+INITIAL 05/09/65
+0000,	L506		,total:0
+0000,	L507		,total:0
+DATE : 4/9/65
+460,	L362		,total:85
+461,	L488		,total:186
+462,	L461		,total:192
+463,	L340		,total:16
+464,	L466		,total:183.5	,cash:25
+465,	L489		,total:27
+466,	L293		,total:7
+467,	L462		,total:64
+468,	L418		,total:22	,cash:21
+469,	L487		,total:71	,cash:25
+470,	L471		,total:8
+471,	L479		,total:50
+472,	L481		,total:33
+473,	L501		,total:-1
+474,	L407		,total:10
+475,	ซินซิน		,cash:180
+476,	L432		,cash:232
+477,	ร้านตัดผม		,cash:80
+478,	L410		,total:3
+479,	L502		,total:48	,cash:70
+480,	L365		,cash:75
+481,	L454		,total:11.5
+482,	L503		,total:185
 DATE : 3/9/65
 438,	L448		,total:24
 439,	L319		,cash:55
