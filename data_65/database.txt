@@ -1,3 +1,29 @@
+DATE : 10/9/65
+550,	L481		,total:31
+551,	L110		,total:23
+552,	L383		,total:7
+553,	L319		,cash:143
+554,	L412		,total:111
+555,	L446		,cash:300
+556,	L342		,total:119	,cash:100
+557,	จอห์น		,cash:225
+558,	L489		,total:24
+559,	L469		,total:21.5
+560,	L498		,total:48
+561,	L438		,total:-18
+562,	L504		,total:35
+563,	L310		,total:59
+564,	ตะวัน		,cash:90
+565,	L466		,total:171
+566,	L461		,total:184
+567,	L296		,total:71
+568,	L359		,total:-17
+569,	L465		,total:-20	,cash:63
+570,	L258		,total:0	,cash:389
+571,	L477		,total:31
+SPECIAL : 10/9/65, L495  ต่อสมาชิก 50.0 ชิ้น, total:46
+SPECIAL : 10/9/65, L446  ต่อสมาชิก 30.0 ชิ้น, total:4
+SPECIAL : 10/9/65, L213  ต่อสมาชิก 100.0 ชิ้น, total:47.5
 DATE : 9/9/65
 521,	L437		,total:-4	,cash:25
 522,	L446		,total:-26	,cash:95
@@ -20,16 +46,16 @@ DATE : 9/9/65
 539,	L465		,total:-4	,cash:126
 540,	L432		,total:37
 541,	L506		,total:30
-542,	L458		,total:77
+542,	L458		,total:73
 543,	L470		,total:22
 544,	L476		,total:66
 545,	L374		,total:46	,cash:49
 546,	L414		,total:43.5
 547,	L464		,total:-5
 548,	L413		,total:132
-549,	L418		,total:9
-550,	L492		,total:27
-551,	L314		,total:37
+549,	L492		,total:27
+550,	L314		,total:37
+551,	L478		,total:87
 SPECIAL : 9/9/65, L342  ต่อสมาชิก 200.0 ชิ้น, total:149
 SPECIAL : 9/9/65, L319  ต่อสมาชิก 100.0 ชิ้น, total:106.5
 SPECIAL : 9/9/65, L480  ต่อสมาชิก 50.0 ชิ้น, total:42
@@ -62,7 +88,7 @@ DATE : 6/5/65
 497,	L465		,total:3	,cash:32
 498,	L472		,total:75
 499,	L363		,total:10
-500,	L504		,total:-3
+500,	L504		,total:43
 501,	L314		,total:43
 502,	L223		,total:70
 503,	L474		,total:-8.5
@@ -74,7 +100,7 @@ DATE : 5/9/65
 483,	L297		,total:36
 484,	L374		,total:60	,cash:61
 485,	L480		,total:-8
-486,	L443		,total:93
+486,	L443		,total:92
 487,	L413		,total:142
 488,	L370		,total:21.5	,cash:69
 489,	L499		,total:172
@@ -82,8 +108,6 @@ DATE : 5/9/65
 SPECIAL : 5/9/65, L506  ต่อสมาชิก 50.0 ชิ้น, total:50
 SPECIAL : 5/9/65, L507  ต่อสมาชิก 50.0 ชิ้น, total:50
 SPECIAL : 5/9/65, L377  ต่อสมาชิก 50.0 ชิ้น, total:33
-INITIAL 5/9/65
-0000,	L507		,total:0
 DATE : 4/9/65
 458,	L362		,total:85
 459,	L488		,total:186
@@ -127,56 +151,57 @@ DATE : 3/9/65
 451,	L505		,total:33
 452,	L479		,total:54
 453,	L473		,total:207
-454,	L485		,total:72
+454,	L485		,total:76
 455,	L374		,total:64	,cash:49
 456,	L465		,total:7	,cash:36
 457,	L296		,total:80
 SPECIAL : 3/9/65, L505  ต่อสมาชิก 50.0 ชิ้น, total:50
 INITIAL 3/9/65
-0000,	L504		,total:0
 0000,	L505		,total:0
 0000,	L506		,total:0
 DATE : 2/9/65
-411,	L412		,total:127
-412,	L451		,total:-1
-413,	L377		,total:-17
-414,	L198		,total:15
-415,	L480		,total:7
-416,	L449		,total:8
-417,	L443		,total:102
-418,	L501		,total:10
-419,	L504		,total:46
-420,	L462		,total:69
-421,	L492		,total:33
-422,	L503		,total:192
-423,	L474		,total:-7.5
-424,	L485		,total:78
-425,	L383		,total:19
-426,	พาส		,cash:220
-427,	L500		,total:81	,cash:7
-428,	L495		,total:8
-429,	L460		,total:35.5
-430,	L414		,total:56.5
-431,	L310		,total:67
-432,	L494		,total:12
-433,	L061		,total:22
-434,	L477		,total:34
-435,	L478		,total:100
-436,	L297		,total:50
-437,	L463		,total:84
-438,	L363		,total:13
-439,	L444		,total:57
-440,	L476		,total:72.5
-441,	L110		,total:28
-442,	มายด์		,cash:60
-443,	L466		,total:188.5
-444,	L465		,total:28
-445,	L468		,total:13
-446,	L453		,total:42
-447,	L501		,total:12
-448,	L223		,total:72
-449,	L342		,total:-30	,cash:747
+410,	L412		,total:127
+411,	L451		,total:-1
+412,	L377		,total:-17
+413,	L198		,total:15
+414,	L480		,total:7
+415,	L449		,total:8
+416,	L501		,total:10
+417,	L504		,total:46
+418,	L462		,total:69
+419,	L492		,total:33
+420,	L503		,total:192
+421,	L474		,total:-7.5
+422,	L383		,total:19
+423,	พาส		,cash:220
+424,	L500		,total:81	,cash:7
+425,	L495		,total:8
+426,	L460		,total:35.5
+427,	L414		,total:56.5
+428,	L310		,total:67
+429,	L494		,total:12
+430,	L061		,total:22
+431,	L477		,total:34
+432,	L478		,total:100
+433,	L297		,total:50
+434,	L463		,total:84
+435,	L363		,total:13
+436,	L444		,total:57
+437,	L476		,total:72.5
+438,	L110		,total:28
+439,	มายด์		,cash:60
+440,	L466		,total:188.5
+441,	L465		,total:28
+442,	L468		,total:13
+443,	L453		,total:42
+444,	L501		,total:12
+445,	L223		,total:72
+446,	L342		,total:-30	,cash:747
+447,	L458		,total:77
+448,	L443		,total:101
 SPECIAL : 2/9/65, L478  ต่อสมาชิก 100.0 ชิ้น, total:110
+INITIAL 2/9/65
+0000,	L507		,total:0
 DATE : 1/9/65
 383,	L321		,total:79	,cash:100
 384,	L297		,total:60
