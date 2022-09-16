@@ -1,3 +1,46 @@
+DATE : 13/9/65
+589,	L297		,total:-5
+590,	น็อต		,cash:220
+591,	กิ๊ป		,cash:45
+592,	L110		,total:21
+593,	L448		,total:22
+594,	L493		,total:105.5
+595,	L363		,total:-4
+596,	L471		,total:6
+597,	L481		,total:24
+598,	L448		,total:16
+599,	ร้านตัดผม		,cash:180
+600,	L422		,total:70
+601,	อ.อ๊อด		,cash:465
+602,	L359		,total:65
+603,	L480		,total:15
+604,	L469		,total:17.5
+605,	L443		,total:84
+606,	L439		,total:26.5
+607,	แอ๋ม		,cash:68
+SPECIAL : 13/9/65, L493  ต่อสมาชิก 100.0 ชิ้น, total:109
+SPECIAL : 13/9/65, L359  ต่อสมาชิก 100.0 ชิ้น, total:81
+DATE : 12/9/65
+581,	L296		,total:69
+582,	L447		,total:124
+583,	L353		,total:-9
+584,	L449		,total:45
+585,	L501		,total:37
+586,	L456		,total:-11
+587,	L223		,total:63
+588,	L342		,total:92
+DATE : 11/9/65
+572,	L487		,total:62
+573,	L460		,total:20
+574,	L467		,total:71
+575,	L489		,total:21
+576,	L412		,total:108
+577,	L331		,total:15
+578,	L293		,total:1
+579,	L297		,total:0
+580,	L418		,total:-5	,cash:46
+SPECIAL : 11/9/65, L474  ต่อสมาชิก 30.0 ชิ้น, total:17
+SPECIAL : 11/9/65, L464  ต่อสมาชิก 50.0 ชิ้น, total:45
 DATE : 10/9/65
 550,	L481		,total:31
 551,	L110		,total:23
@@ -17,7 +60,7 @@ DATE : 10/9/65
 565,	L466		,total:171
 566,	L461		,total:184
 567,	L296		,total:71
-568,	L359		,total:-17
+568,	L359		,total:-19
 569,	L465		,total:-20	,cash:63
 570,	L258		,total:0	,cash:389
 571,	L477		,total:31
@@ -53,7 +96,7 @@ DATE : 9/9/65
 546,	L414		,total:43.5
 547,	L464		,total:-5
 548,	L413		,total:132
-549,	L492		,total:27
+549,	L492		,total:26.5
 550,	L314		,total:37
 551,	L478		,total:87
 SPECIAL : 9/9/65, L342  ต่อสมาชิก 200.0 ชิ้น, total:149
