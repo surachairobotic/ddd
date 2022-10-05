@@ -1,3 +1,164 @@
+DATE : 4/10/65
+865,	L464		,total:15
+866,	หนูป๊อป		,cash:40
+867,	สายขิม		,cash:150
+868,	L485		,total:56
+869,	L430		,total:-10
+870,	L297		,total:105
+871,	L110		,total:10
+DATE : 2/9/65
+856,	L492		,total:16.5
+857,	L471		,total:-4
+858,	L479		,total:13
+859,	L448		,total:11
+860,	ไม้หอม		,cash:65
+861,	L461		,total:160
+862,	L296		,total:51
+863,	L331		,total:-6.5
+864,	L470		,total:42
+SPECIAL : 2/9/65, L418  ต่อสมาชิก 100.0 ชิ้น, total:118
+SPECIAL : 2/9/65, L470  ต่อสมาชิก 50.0 ชิ้น, total:46
+DATE : 1/10/65
+849,	L410		,total:44
+850,	L321		,total:25
+851,	L438		,total:-11.5
+852,	L340		,total:73
+853,	L465		,total:132	,cash:67
+854,	L319		,total:87
+855,	L383		,total:-2
+SPECIAL : 1/10/65, L340  ต่อสมาชิก 100.0 ชิ้น, total:87.5
+DATE : 30/9/65
+839,	L449		,total:36
+840,	L454		,total:9.5
+841,	L453		,total:29
+842,	L504		,total:28
+843,	L439		,total:11.5
+844,	L477		,total:18
+845,	L500		,total:29	,cash:7
+846,	L502		,total:46	,cash:100
+847,	L466		,total:133
+848,	L495		,total:12.5
+DATE : 29/8/65
+823,	L456		,total:29.5
+824,	L363		,total:161
+825,	L061		,total:11
+826,	L331		,total:-2.5
+827,	L476		,total:57.5
+828,	L223		,total:52
+829,	L342		,total:-53	,cash:300
+830,	L297		,total:124
+831,	L418		,total:18	,cash:261
+832,	L293		,total:25
+833,	L213		,total:-4.5
+834,	L314		,total:15
+835,	L484		,total:20
+836,	L501		,total:11
+837,	L450		,total:-10.5
+838,	L480		,total:0
+DATE : 28/9/65
+808,	L110		,total:14
+809,	ซือซือ		,cash:45
+810,	L472		,total:67
+811,	L416		,total:72
+812,	พิมพ์		,cash:60
+813,	L460		,total:-2.5
+814,	L412		,total:92
+815,	L418		,total:36	,cash:22
+816,	L293		,total:31
+817,	L213		,total:3.5
+818,	L314		,total:19
+819,	L484		,total:22
+820,	L501		,total:14
+821,	L450		,total:1
+822,	L480		,total:23
+DATE : 27/9/65
+783,	ป๊อป		,cash:10
+784,	L061		,total:12
+785,	L497		,total:48
+786,	L223		,total:54
+787,	น๊อต		,cash:215
+788,	คุณฝน		,cash:250
+789,	L446		,total:-35	,cash:60
+790,	L342		,total:-26
+791,	L319		,cash:143
+792,	L465		,total:143	,cash:151
+793,	อ.อ๊อด		,cash:495
+794,	L370		,total:-25.5
+795,	L484		,total:24
+796,	L473		,total:205
+797,	L297		,total:134
+798,	L454		,total:10.5
+799,	L463		,total:77
+800,	L437		,total:15
+801,	L443		,total:66
+802,	L478		,total:49
+803,	L412		,total:96
+804,	L359		,total:30
+805,	L374		,total:9	,cash:81
+806,	L470		,total:-4
+807,	L451		,total:-12
+DATE : 25/9/65
+754,	L494		,total:3
+755,	L110		,total:15
+756,	L485		,total:62
+757,	L472		,total:69
+758,	L331		,total:2
+759,	L213		,total:11.5
+760,	L417		,total:7
+761,	L296		,total:56
+762,	L457		,total:182
+763,	L340		,total:-12.5
+764,	L413		,total:108
+765,	ต้น		,cash:90
+766,	L492		,total:18.5
+767,	L432		,total:16
+768,	ต้า		,cash:20
+769,	L484		,total:27
+770,	L457		,total:185
+771,	L383		,total:11
+772,	L469		,total:10
+773,	L482		,total:4
+774,	น๊อต		,cash:245
+775,	แพร		,cash:60
+776,	L501		,total:17
+777,	L448		,total:18
+778,	L377		,total:-14
+779,	L297		,total:148
+780,	L489		,total:8
+781,	L293		,total:37
+782,	L353		,total:78
+783,	L363		,total:171
+784,	L446		,total:-29	,cash:42
+785,	L445		,total:-118
+786,	L467		,total:57	,cash:25
+SPECIAL : 25/9/65, L497  ต่อสมาชิก 10.0 ชิ้น, total:50
+SPECIAL : 25/9/65, L353  ต่อสมาชิก 100.0 ชิ้น, total:91
+SPECIAL : 25/9/65, L465  ต่อสมาชิก 200.0 ชิ้น, total:163
+DATE : 24/9/65
+730,	L422		,total:60
+731,	L478		,total:56
+732,	L477		,total:22
+733,	L488		,total:168
+734,	L383		,total:13
+735,	L500		,total:47	,cash:15
+736,	L495		,total:19.5
+737,	L482		,total:6
+738,	L492		,total:21
+739,	L213		,total:30.5
+740,	L489		,total:13
+741,	L463		,total:80
+742,	L297		,total:154
+743,	L474		,total:3
+744,	L314		,total:23
+745,	L461		,total:168
+746,	L464		,total:23
+747,	L418		,total:54
+748,	L505		,total:5
+749,	L481		,total:17
+750,	ไนซ์		,cash:195
+751,	L497		,total:40
+752,	L061		,total:14
+753,	ลูกนก		,cash:45
 DATE : 23/9/65
 723,	วิศวกรรมไฟฟ้า		,cash:20
 724,	L471		,total:0
