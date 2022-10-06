@@ -1,3 +1,17 @@
+DATE : 5/10/65
+872,	L485		,total:52
+873,	L331		,total:-9.5
+874,	L110		,total:8
+875,	แมลงปอ		,cash:125
+876,	L362		,total:37
+877,	L351		,total:-24	,cash:55
+878,	L374		,total:-6	,cash:71
+879,	L223		,total:48
+880,	ฝน		,cash:185
+881,	L297		,total:99
+882,	L432		,total:3
+883,	L472		,total:63
+SPECIAL : 5/10/65, L418  ต่อสมาชิก 100.0 ชิ้น, total:218
 DATE : 4/10/65
 865,	L464		,total:15
 866,	หนูป๊อป		,cash:40
@@ -48,10 +62,8 @@ DATE : 29/8/65
 829,	L342		,total:-53	,cash:300
 830,	L297		,total:124
 831,	L418		,total:18	,cash:261
-832,	L293		,total:25
 833,	L213		,total:-4.5
 834,	L314		,total:15
-835,	L484		,total:20
 836,	L501		,total:11
 837,	L450		,total:-10.5
 838,	L480		,total:0
