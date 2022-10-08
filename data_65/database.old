@@ -1,3 +1,49 @@
+DATE : 6/10/65
+884,	L495		,total:4.5
+885,	L458		,total:65
+886,	L503		,total:180
+887,	L467		,total:47	,cash:25
+888,	L454		,total:5.5
+889,	L457		,total:177
+890,	L493		,total:97
+891,	L432		,total:-7
+892,	L501		,total:3
+893,	L383		,total:-10
+894,	L494		,total:0
+895,	L374		,total:-17	,cash:49
+896,	L447		,total:100
+897,	L359		,total:11
+898,	L474		,total:-2
+899,	L363		,total:157
+900,	L501		,total:8
+901,	L469		,total:-0.5
+902,	L110		,total:4
+903,	L223		,total:47
+904,	L297		,total:92
+905,	L499		,total:127
+906,	L374		,total:-24	,cash:76
+907,	L413		,total:90
+908,	L418		,total:201	,cash:179
+909,	L414		,total:14.5
+910,	L297		,total:94
+911,	L501		,total:9
+SPECIAL : 6/10/65, L438  ต่อสมาชิก 50.0 ชิ้น, total:38.5
+SPECIAL : 6/10/65, L342  ต่อสมาชิก 200.0 ชิ้น, total:147
+SPECIAL : 6/10/65, L351  ต่อสมาชิก 100.0 ชิ้น, total:76
+DATE : 5/10/65
+872,	L485		,total:52
+873,	L331		,total:-9.5
+874,	L110		,total:8
+875,	แมลงปอ		,cash:125
+876,	L362		,total:37
+877,	L351		,total:-24	,cash:55
+878,	L374		,total:-6	,cash:71
+879,	L223		,total:48
+880,	ฝน		,cash:185
+881,	L297		,total:99
+882,	L432		,total:3
+883,	L472		,total:63
+SPECIAL : 5/10/65, L418  ต่อสมาชิก 100.0 ชิ้น, total:218
 DATE : 4/10/65
 865,	L464		,total:15
 866,	หนูป๊อป		,cash:40
@@ -37,8 +83,7 @@ DATE : 30/9/65
 845,	L500		,total:29	,cash:7
 846,	L502		,total:46	,cash:100
 847,	L466		,total:133
-848,	L495		,total:12.5
-DATE : 29/8/65
+DATE : 29/9/65
 823,	L456		,total:29.5
 824,	L363		,total:161
 825,	L061		,total:11
@@ -48,7 +93,6 @@ DATE : 29/8/65
 829,	L342		,total:-53	,cash:300
 830,	L297		,total:124
 831,	L418		,total:18	,cash:261
-833,	L213		,total:-4.5
 834,	L314		,total:15
 836,	L501		,total:11
 837,	L450		,total:-10.5
@@ -62,10 +106,8 @@ DATE : 28/9/65
 813,	L460		,total:-2.5
 814,	L412		,total:92
 815,	L418		,total:36	,cash:22
-816,	L293		,total:31
 817,	L213		,total:3.5
 818,	L314		,total:19
-819,	L484		,total:22
 820,	L501		,total:14
 821,	L450		,total:1
 822,	L480		,total:23
