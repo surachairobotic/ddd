@@ -3,7 +3,7 @@ from os.path import isfile, join
 import math
 import matplotlib.pyplot as plt
 
-fpath = "data_64 - Copy/"
+fpath = "data_65/"
 fname = "database.txt"
 
 def main():
