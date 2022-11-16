@@ -1,3 +1,24 @@
+DATE : 14/11/65
+359,	L410		,total:33
+360,	ร้านตัดผม		,cash:40
+361,	L223		,total:25
+362,	L340		,total:17
+363,	L430		,total:31
+364,	L465		,total:81	,cash:59
+365,	L377		,total:-13
+366,	L494		,cash:50
+367,	L331		,total:2.5
+368,	กานต์		,cash:50
+369,	L488		,total:129
+370,	L362		,total:126
+371,	L446		,total:13	,cash:53
+372,	L489		,total:27
+373,	L363		,total:78
+374,	L296		,total:4
+375,	L467		,total:10	,cash:25
+376,	L310		,total:24
+377,	L432		,total:144
+378,	อ.อ๊อด		,cash:300
 DATE : 12/11/65
 348,	L198		,total:59
 349,	L469		,total:37.5
@@ -10,7 +31,7 @@ DATE : 12/11/65
 356,	L487		,total:34
 357,	L413		,total:23
 358,	L500		,total:16	,cash:35
-DATE : 11/10/65
+DATE : 11/11/65
 326,	L497		,total:21
 327,	L223		,total:26
 328,	L061		,total:1
@@ -33,7 +54,7 @@ DATE : 11/10/65
 345,	L453		,total:14
 346,	L314		,total:37
 347,	L438		,total:-14
-SPECIAL : 11/10/65, L495  ต่อสมาชิก 50.0 ชิ้น, total:56
+SPECIAL : 11/11/65, L495  ต่อสมาชิก 50.0 ชิ้น, total:56
 DATE : 10/11/65
 313,	L342		,total:-4
 314,	จิน		,cash:250
