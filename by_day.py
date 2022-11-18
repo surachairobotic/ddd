@@ -39,6 +39,7 @@ def main():
   counts7 = []
   all7 = []
   for indx in range(len(onlyfiles)):
+    #print(onlyfiles[indx])
     information = read_info(onlyfiles[indx])
     information = processing(information)
     sum_count = 0
@@ -67,36 +68,36 @@ def main():
     avg7.append(sum_cash+sum_count*11)
     avg15.append(sum_cash+sum_count*11)
     avg30.append(sum_cash+sum_count*11)
-    while len(avg7) > 7:
+    while len(avg7) > 6:
       avg7.pop(0)
-    while len(avg15) > 15:
+    while len(avg15) > 14:
       avg15.pop(0)
-    while len(avg30) > 30:
+    while len(avg30) > 26:
       avg30.pop(0)
-    while len(cnt7) > 7:
+    while len(cnt7) > 6:
       cnt7.pop(0)
-    while len(cnt15) > 15:
+    while len(cnt15) > 14:
       cnt15.pop(0)
-    while len(cnt30) > 30:
+    while len(cnt30) > 26:
       cnt30.pop(0)
     _str = str("%s, count: %.2f, cash: %.2f, total:%.2f" % (onlyfiles[indx], sum_count, sum_cash, sum_cash+sum_count*11))
-    if len(avg7) == 7:
+    if len(avg7) == 6:
       _str += str(", avg[7]: %f" % (sum(avg7)/len(avg7)))
       min_7 = min(min_7, sum(avg7)/len(avg7))
       max_7 = max(max_7, sum(avg7)/len(avg7))
-    if len(avg15) == 15:
+    if len(avg15) == 14:
       _str += str(", avg[15]: %f" % (sum(avg15)/len(avg15)))
       min_15 = min(min_15, sum(avg15)/len(avg15))
       max_15 = max(max_15, sum(avg15)/len(avg15))
-    if len(avg30) == 30:
+    if len(avg30) == 26:
       _str += str(", avg[30]: %f" % (sum(avg30)/len(avg30)))
       min_30 = min(min_30, sum(avg30)/len(avg30))
       max_30 = max(max_30, sum(avg30)/len(avg30))
-    if len(cnt7) == 7:
+    if len(cnt7) == 6:
       _str += str(", cnt[7]: %f" % (sum(cnt7)/len(cnt7)))
-    if len(cnt15) == 15:
+    if len(cnt15) == 14:
       _str += str(", cnt[15]: %f" % (sum(cnt15)/len(cnt15)))
-    if len(cnt30) == 30:
+    if len(cnt30) == 26:
       _str += str(", cnt[30]: %f" % (sum(cnt30)/len(cnt30)))
     print(_str)
   print("day : %.2f, %.2f" % (min_day, max_day))
@@ -165,6 +166,7 @@ def processing(information):
             break
           i=i+1
         if i != 0:
+          #print(v.info[k])
           new_info = split(["*","="], v.info[k][i:])
           new_info = [float(i) for i in new_info]
           mul = new_info[0]*new_info[1]
