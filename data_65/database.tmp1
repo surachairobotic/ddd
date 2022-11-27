@@ -1,3 +1,105 @@
+DATE : 25/11/65
+487,	L297		,total:82
+488,	L503		,total:173
+489,	ลูกเกด		,cash:45
+490,	ลูกเกดรีด		,cash:35
+491,	เอิน		,cash:100
+492,	พิมพ์		,cash:100
+493,	L467		,total:2
+494,	L495		,total:24.5
+495,	L466		,total:76.5
+496,	ต้า		,cash:60
+497,	L331		,total:-5.5
+498,	L296		,total:95
+499,	L223		,total:19
+500,	L296		,total:95
+DATE : 24/11/65
+475,	L479		,total:65
+476,	L297		,total:87
+477,	L452		,total:48
+478,	L432		,total:131
+479,	L470		,total:45
+480,	L489		,total:23
+481,	L504		,total:15
+482,	L213		,total:17.5
+483,	L223		,total:20
+484,	โต		,cash:28
+485,	L296		,total:96
+486,	L477		,total:47
+SPECIAL : 24/11/65, L321  ต่อสมาชิก 50.0 ชิ้น, total:37
+SPECIAL : 24/11/65, L296  ต่อสมาชิก 100.0 ชิ้น, total:99
+DATE : 23/11/65
+469,	L110		,total:83
+470,	L454		,total:1.5
+471,	L321		,total:-13
+472,	L457		,total:144
+473,	พาส		,cash:200
+474,	ร้านตัดผม		,cash:255
+SPECIAL : 23/11/65, L477  ต่อสมาชิก 50.0 ชิ้น, total:51
+SPECIAL : 23/11/65, L470  ต่อสมาชิก 50.0 ชิ้น, total:52
+DATE : 22/11/65
+462,	L293		,total:0
+463,	L223		,total:22
+464,	L480		,total:19.5
+465,	ป๊อป		,cash:17
+466,	L494		,cash:50
+467,	L478		,total:37	,cash:7
+468,	L501		,total:46
+DATE : 21/11/65
+458,	L458		,total:43
+459,	L456		,total:30
+460,	L314		,total:32
+461,	L297		,total:99
+SPECIAL : 21/11/65, L464  ต่อสมาชิก 50.0 ชิ้น, total:49
+DATE : 20/11/65
+436,	L353		,total:23
+437,	L410		,total:29
+438,	L297		,total:106	,cash:25
+439,	L414		,total:119.5
+440,	L438		,total:15
+441,	กานต์		,cash:50
+442,	L296		,total:-1
+443,	L363		,total:59
+444,	L310		,total:20
+445,	L359		,total:-6
+446,	L488		,total:125
+447,	L450		,total:23
+448,	L446		,total:6	,cash:35
+449,	ไนซ์		,cash:87
+450,	L362		,total:122
+451,	L492		,total:-4.5
+452,	L468		,total:-1
+453,	L448		,total:1
+454,	นุ่มนิ่ม		,cash:20
+455,	บิว		,cash:110
+456,	L413		,total:210
+457,	L377		,total:-32
+DATE : 19/11/65
+430,	L258		,total:-15	,cash:250
+431,	L423		,total:46
+432,	L465		,total:56	,cash:98
+433,	L484		,total:15
+434,	L461		,total:117
+435,	L418		,total:-4
+SPECIAL : 19/11/65, L413  ต่อสมาชิก 200.0 ชิ้น, total:223
+SPECIAL : 19/11/65, L438  ต่อสมาชิก 50.0 ชิ้น, total:36
+SPECIAL : 19/11/65, L460  ต่อสมาชิก 50.0 ชิ้น, total:34.5
+DATE : 18/11/65
+415,	L497		,total:16
+416,	L462		,total:61
+417,	L495		,total:37
+418,	พิมพ์		,cash:80
+419,	L319		,total:34.5
+420,	L466		,total:87
+421,	L297		,total:112
+422,	L340		,total:-2
+423,	L213		,total:21.5
+424,	L374		,total:105	,cash:113
+425,	L478		,total:45	,cash:7
+426,	L488		,total:126
+427,	L463		,total:73
+428,	L474		,total:23.5
+429,	L443		,total:32
 DATE : 17/11/65
 396,	L258		,total:5	,cash:455
 397,	มุก		,cash:430
