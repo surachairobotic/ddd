@@ -1,3 +1,17 @@
+DATE : 28/11/65
+525,	L485		,total:39
+526,	L423		,total:36
+527,	L310		,total:13
+528,	L492		,total:42.5
+529,	L359		,total:172
+530,	L430		,total:26
+531,	L464		,total:39
+532,	L501		,total:40
+533,	L450		,total:18
+534,	L489		,total:21
+535,	L331		,total:-14.5
+536,	L457		,total:140
+537,	L061		,total:0
 DATE : 27/11/65
 514,	L418		,total:-21	,cash:29
 515,	ตะวัน		,cash:45
