@@ -1,3 +1,83 @@
+DATE : 05/12/65
+585,	ร้านตัดผม		,cash:530
+586,	L470		,total:38
+587,	L342		,total:126
+588,	L472		,total:33
+589,	L363		,total:36
+590,	แมงปอ		,cash:45
+591,	L319		,total:22.5
+592,	L448		,total:-1
+593,	ไนซ์		,cash:225
+594,	L456		,total:14
+595,	L414		,total:89.5
+596,	L310		,total:8
+597,	L297		,total:27	,cash:25
+598,	L359		,total:157
+599,	L488		,total:117
+600,	L462		,total:43
+601,	L340		,total:66.5
+602,	L474		,total:16
+SPECIAL : 05/12/65, L377  ต่อสมาชิก 50.0 ชิ้น, total:1
+SPECIAL : 05/12/65, L340  ต่อสมาชิก 100.0 ชิ้น, total:82
+SPECIAL : 05/12/65, L500  ต่อสมาชิก 16.0 ชิ้น, total:0
+SPECIAL : 05/12/65, L342  ต่อสมาชิก 200.0 ชิ้น, total:173
+DATE : 3/12/65
+574,	L377		,total:-49
+575,	L478		,total:16	,cash:7
+576,	L458		,total:39
+577,	L414		,total:96.5
+578,	L477		,total:41
+579,	L472		,total:37
+580,	L297		,total:44
+581,	L223		,total:16
+582,	L443		,total:26
+583,	L418		,total:61	,cash:14
+584,	L465		,total:33	,cash:84
+SPECIAL : 3/12/65, L418  ต่อสมาชิก 100.0 ชิ้น, total:79
+DATE : 2/12/65
+563,	L464		,total:29
+564,	L492		,total:39.5
+565,	L497		,total:11
+566,	L469		,total:31
+567,	L363		,total:37
+568,	L463		,total:69
+569,	L374		,total:89	,cash:106
+570,	L297		,total:59
+571,	L412		,total:22
+572,	L495		,total:12.5
+573,	L314		,total:26
+SPECIAL : 2/12/65, L417  ต่อสมาชิก 50.0 ชิ้น, total:47
+DATE : 1/11/65
+553,	L110		,total:74
+554,	L482		,total:1
+555,	L342		,total:-27
+556,	L331		,total:-19
+557,	ร้านตัดผม		,cash:40
+558,	L410		,total:27
+559,	คะนิ้ง		,cash:45
+560,	L489		,total:17
+561,	L362		,total:90
+562,	L430		,total:23	,cash:150
+SPECIAL : 1/11/65, L480  ต่อสมาชิก 50.0 ชิ้น, total:45.5
+DATE : 30/11/65
+545,	L480		,total:-4.5	,cash:25
+546,	L500		,total:-16	,cash:98
+547,	L484		,total:11
+548,	L223		,total:18
+549,	L477		,total:43
+550,	L412		,total:26
+551,	L321		,total:29
+552,	นัท		,cash:75
+SPECIAL : 30/11/65, L258  ต่อสมาชิก 100.0 ชิ้น, total:85
+SPECIAL : 30/11/65, L446  ต่อสมาชิก 50.0 ชิ้น, total:18
+DATE : 29/11/65
+538,	L297		,total:61
+539,	L447		,total:64
+540,	L432		,total:121
+541,	L213		,total:8.5
+542,	L363		,total:49
+543,	ไนซ์		,cash:320
+544,	การ์ตูน		,cash:226
 DATE : 28/11/65
 525,	L485		,total:39
 526,	L423		,total:36
