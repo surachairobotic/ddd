@@ -1,3 +1,19 @@
+DATE : 7/12/65
+610,	L464		,total:21
+611,	L480		,total:26.5	,cash:150
+612,	L110		,total:71
+613,	L478		,total:5	,cash:32
+614,	L321		,total:8
+615,	L450		,total:12
+616,	L353		,total:6
+DATE : 6/12/65
+603,	L418		,total:49	,cash:22
+604,	L296		,total:89
+605,	L484		,total:7
+606,	L457		,total:134
+607,	L297		,total:16
+608,	อ.อ๊อด		,cash:145
+609,	L321		,total:21
 DATE : 05/12/65
 585,	ร้านตัดผม		,cash:530
 586,	L470		,total:38
