@@ -1,3 +1,14 @@
+DATE : 8/12/65
+617,	L410		,total:25
+618,	L465		,total:32
+619,	พิมพ์		,cash:60
+620,	L351		,total:-25
+621,	L342		,total:85	,cash:100
+622,	L494		,cash:50
+623,	L383		,cash:60
+624,	L479		,total:48
+625,	L489		,total:15
+SPECIAL : 8/12/65, L377  ต่อสมาชิก 50.0 ชิ้น, total:51
 DATE : 7/12/65
 610,	L464		,total:21
 611,	L480		,total:26.5	,cash:150
