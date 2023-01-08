@@ -1,3 +1,43 @@
+DATE : 6/1/66
+807,	L422		,total:28
+808,	L313		,total:27.5
+809,	นัท		,cash:120
+810,	L223		,total:46
+811,	L342		,total:-37	,cash:220
+812,	L393		,cash:45
+813,	แพร		,cash:100
+814,	ห้อง305		,cash:180
+815,	L297		,total:71
+816,	ซิน		,cash:225
+817,	L410		,total:6
+818,	L363		,total:166
+819,	L487		,total:23
+820,	L475		,total:34
+DATE : 04/01/66
+793,	L223		,total:52
+794,	แต้ม		,cash:64
+795,	L448		,total:40
+796,	L363		,total:173
+797,	L447		,total:41
+798,	L258		,total:-3	,cash:375
+799,	การ์ตูน		,cash:221
+800,	L410		,total:10
+801,	L446		,total:10	,cash:39
+802,	L362		,total:35
+803,	L490		,total:14
+804,	L359		,total:76
+805,	L412		,total:191
+806,	L418		,total:64
+SPECIAL : 04/01/66, L418  ต่อสมาชิก 100.0 ชิ้น, total:89
+SPECIAL : 04/01/66, L223  ต่อสมาชิก 50.0 ชิ้น, total:54
+SPECIAL : 04/01/66, L412  ต่อสมาชิก 200.0 ชิ้น, total:201
+DATE : 03/01/66
+790,	L446		,total:18	,cash:56
+791,	อ.อ๊อด		,cash:220
+792,	L297		,total:94	,cash:25
+DATE : 28/12/65
+788,	L445		,total:33
+789,	ไนซ์		,cash:490
 DATE : 27/12/65
 770,	L342		,total:78
 771,	L198		,total:28

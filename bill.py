@@ -16,9 +16,9 @@ from convert import *
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
 
-fpath = "C:/ddd/data_65/"
+fpath = "C:/ddd/data_66/"
 pdfpath = "C:/ddd/"
-fname = "data_63_1_23"
+fname = "data_66_01_03"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
 
@@ -551,12 +551,12 @@ if __name__ == '__main__':
   print('Argument List: ' + str(sys.argv))
   
   if len(sys.argv) > 1:
-    if sys.argv[1].find('data_65/data_65_') != -1:
+    if sys.argv[1].find('data_66/data_66_') != -1:
       _fname = sys.argv[1][8:-4]
       print("fname: " + _fname)
       main(_fname)
     else:
-      print("if sys.argv[1].find('data_65/data_65') != -1 is FALSE")
+      print("if sys.argv[1].find('data_66/data_66') != -1 is FALSE")
   else:
     print("if len(sys.argv) > 1 is FALSE")
 
