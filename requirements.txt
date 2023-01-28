@@ -1,2 +1,5 @@
 python-docx
 convertapi
+PyPDF2
+reportlab
+PyPDF4

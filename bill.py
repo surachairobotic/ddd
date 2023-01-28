@@ -12,12 +12,13 @@ from docx.enum.style import WD_STYLE_TYPE
 #from docx2pdf import convert
 
 from convert import *
+from pdf_handle import *
 
 #from pydrive.auth import GoogleAuth
 #from pydrive.drive import GoogleDrive
 
-fpath = "C:/ddd/data_66/"
-pdfpath = "C:/ddd/"
+fpath = "./data_66/"
+pdfpath = "./"
 fname = "data_66_01_03"
 #fname = "data_63_09_26ชุดที่2"
 date = ""
@@ -245,6 +246,8 @@ def main(_fname):
   
   Convert().DOCXtoPDF(docx, pdf)
   #convert(docx, pdf)
+  
+  #reorganize_pdf(pdf, pdf.replace("demo_data", "reformat"), 6)
   
   #document.save('debug.docx')
 
