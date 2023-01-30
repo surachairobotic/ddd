@@ -1,3 +1,51 @@
+SPECIAL : 29/01/66, L362  ต่อสมาชิก 200.0 ชิ้น, total:203
+SPECIAL : 29/01/66, L410  ต่อสมาชิก 50.0 ชิ้น, total:44
+SPECIAL : 29/01/66, L297  ต่อสมาชิก 200.0 ชิ้น, total:179
+SPECIAL : 29/01/66, L464  ต่อสมาชิก 50.0 ชิ้น, total:45
+DATE : 28/01/66
+10,	L453		,total:3
+11,	L410		,total:-6
+12,	L498		,total:33
+13,	L331		,total:3
+14,	L447		,total:6
+15,	L468		,total:93
+16,	L474		,cash:60
+17,	L460		,total:-5
+18,	L467		,total:79
+19,	L319		,total:72
+20,	L457		,total:107
+21,	L501		,total:14
+22,	L457		,total:112
+23,	L412		,total:163
+24,	L351		,total:-12	,cash:91
+SPECIAL : 28/01/66, L351  ต่อสมาชิก 50.0 ชิ้น, total:25
+DATE : 27/01/66
+1,	ร้านทำผม		,cash:100
+2,	L374		,total:41	,cash:84
+3,	L462		,total:29
+4,	นัท		,cash:115
+5,	L458		,total:25
+6,	L477		,total:27
+7,	ฝ้าย		,cash:200
+8,	L475		,total:19
+9,	L492		,total:32.5
+DATE : 26/01/66
+1001,	แบม(0621414928)		,cash:300
+1002,	L223		,total:34
+1003,	L296		,total:73
+1004,	อาต้า		,cash:270
+1005,	L495		,total:6.5
+1006,	L489		,total:-5
+1007,	L504		,total:3
+1008,	L321		,total:60	,cash:25
+1009,	L468		,total:94
+1010,	L480		,total:-5.5
+1011,	L443		,total:13
+1012,	L493		,total:51.5
+1013,	L363		,total:122
+1014,	L110		,total:44
+1015,	L499		,total:12.5
+1016,	L342		,total:-23	,cash:240
 SPECIAL : 26/01/66, L445  ต่อสมาชิก 200.0 ชิ้น, total:144
 DATE : 24/01/66
 995,	L223		,total:36
