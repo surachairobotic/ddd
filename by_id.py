@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 
-fpath = ["data_65/", "data_64/", "data_63/", "data_62/"]
+fpath = ["data_66/", "data_65/", "data_64/", "data_63/", "data_62/"]
 fname = "database.txt"
 
 def main():
@@ -61,7 +61,9 @@ def main():
           if first:
             f.writelines(tmpTxt[1] + "," + tmpTxt[2])
           if date:
-            end = date.find("/65")
+            end = date.find("/66")
+            if end == -1:
+              end = date.find("/65")
             if end == -1:
               end = date.find("/64")
             if end == -1:
