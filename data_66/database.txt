@@ -1,3 +1,130 @@
+DATE : 11/03/66
+424,	L363		,total:49
+425,	L468		,total:88
+426,	L497		,total:32
+427,	ซินซิน		,cash:232
+428,	L470		,total:37	,cash:200
+429,	L480		,cash:379
+430,	L313		,total:9.5
+431,	L458		,total:7
+432,	L198		,total:65
+433,	L321		,total:44
+434,	L383		,total:16
+435,	L501		,total:75
+436,	L462		,total:86
+437,	L495		,cash:180
+438,	L475		,total:-8
+439,	L340		,total:20
+440,	L213		,total:66.5
+441,	L493		,total:40
+DATE : 10/03/66 ย้อนหลัง02/03/66
+413,	L223		,total:11
+414,	L383		,total:23
+415,	L297		,total:-18
+416,	L510		,total:-1	,cash:40
+417,	L462		,total:91
+418,	L430		,total:15
+419,	L374		,total:-10	,cash:98
+420,	L296		,total:43
+421,	L492		,total:22
+422,	L458		,total:13
+423,	L110		,total:34
+DATE : 09/03/66
+400,	L296		,total:49
+401,	ณัฐนรีจ่ายโอน		,cash:25
+402,	L474		,cash:65
+403,	พี่ฝน		,cash:145
+404,	L223		,total:13
+405,	คิ้ว		,cash:25
+406,	L374		,total:-4	,cash:56
+407,	L443		,total:5
+408,	ชาย		,cash:252
+409,	L453		,total:44
+410,	L449		,total:9.5
+411,	L456		,total:-2
+412,	L110		,total:38
+DATE : 07/03/66
+385,	L340		,total:22.5
+386,	L432		,total:-14
+387,	L297		,cash:310
+388,	ตุ๊กตา		,cash:50
+389,	ณัฐนรี		,cash:25
+390,	L504		,total:39
+391,	L414		,cash:445
+392,	L213		,total:69.5
+393,	L340		,total:34
+394,	L410		,total:15
+395,	L213		,total:60.5
+396,	L476		,total:22.5
+397,	L466		,total:39
+398,	L342		,total:-69
+DATE : 05/03/66
+370,	L448		,total:19
+371,	L484		,total:0	,cash:32
+372,	L477		,total:6
+373,	L461		,total:56
+374,	L418		,total:0	,cash:250
+375,	L359		,total:79
+376,	L413		,total:28
+377,	L511		,total:2
+378,	L460		,total:14.5
+379,	L377		,total:11
+380,	L362		,total:115
+381,	L342		,total:-32
+382,	L437		,total:-9	,cash:25
+383,	L480		,total:0	,cash:288
+384,	L479		,total:6
+DATE : 04/03/66
+361,	L501		,total:82
+362,	L474		,cash:60
+363,	L467		,total:44
+364,	L485		,total:21
+365,	L449		,total:14.5
+366,	L443		,total:27
+367,	L353		,total:14
+368,	อ.อ๊อด		,cash:455
+369,	L342		,total:5
+DATE : 3/03/66
+341,	L495		,total:0	,cash:108
+342,	L363		,total:59
+343,	L501		,total:85
+344,	L223		,total:15
+345,	L466		,total:41
+346,	L457		,total:79
+347,	ตะวัน		,cash:50
+348,	L464		,total:20
+349,	L475		,total:-4
+350,	L297		,total:-3	,cash:7
+351,	L497		,total:35
+352,	L319		,total:26.5
+353,	L412		,total:138
+354,	L410		,total:19
+355,	L487		,total:1
+356,	L447		,total:179
+357,	L489		,total:25
+358,	L461		,total:63
+359,	L445		,total:26
+360,	L258		,total:0	,cash:389
+DATE : 27/02/66
+334,	L456		,total:6
+335,	L363		,total:66
+336,	L448		,total:21
+337,	L223		,total:16
+338,	L477		,total:12
+339,	L342		,total:49
+340,	ร้านตัดผม		,cash:265
+DATE : 26/2/66
+323,	L449		,total:24.5
+324,	L198		,total:82
+325,	L340		,total:38.5
+326,	L501		,total:88
+327,	L418		,total:10
+328,	L359		,total:100
+329,	L490		,total:21
+330,	อ.อ๊อด		,cash:390
+331,	L297		,total:7	,cash:25
+332,	L342		,total:78
+333,	L499		,total:0
 DATE : 25/02/66
 312,	L509		,total:131	,cash:180
 313,	L497		,total:40
@@ -19,7 +146,6 @@ DATE : 24/02/66
 290,	L414		,total:-6.5
 291,	L462		,total:99
 292,	L410		,total:25
-293,	L437		,total:-12
 294,	L456		,total:10
 295,	L464		,total:32
 296,	ป๊อป		,cash:10
@@ -81,7 +207,7 @@ DATE : 19/02/66
 258,	เป้		,cash:130
 259,	L353		,total:28
 260,	L461		,total:70
-261,	L480		,total:23.5
+261,	L480		,total:0
 262,	L432		,total:16
 SPECIAL : 19/02/66, L462  ต่อสมาชิก 100.0 ชิ้น, total:107
 SPECIAL : 19/02/66, L480  ต่อสมาชิก 50.0 ชิ้น, total:51.5
